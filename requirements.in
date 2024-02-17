@@ -1,0 +1,12 @@
+numpy
+pandas
+fasttext
+torch
+wandb
+transformers
+sentence-transformers
+tenacity
+openai
+jupyter
+tenacity
+tqdm
