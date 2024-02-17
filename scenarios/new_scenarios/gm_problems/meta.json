@@ -1,0 +1,12 @@
+{
+  "task_name": "gm",
+  "characters": ["customer", "parents", "dog", "customer's child", "house"],
+  "relevant_characters": ["customer"],
+  "problem": "urinay problems",
+  "subject": "I",
+  "gender": "male",
+  "age": "54",
+  "illnesses": [
+    "Prostate Hyperplasia","Cystitis","Urge Incontinence","Stress Incontinence"
+  ]
+}

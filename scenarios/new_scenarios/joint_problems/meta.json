@@ -1,0 +1,16 @@
+{
+  "task_name": "joint",
+  "characters": ["customer", "dog", "customer's child", "house"],
+  "relevant_characters": ["customer"],
+  "problem": "joint pains",
+  "subject": "I",
+  "gender": "male",
+  "age": "78",
+  "illnesses": [
+    "Osteoarthritis",
+    "Muscle Sprains",
+    "Tendonitis",
+    "Bursitis",
+    "Gout"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "task_name": "urinary",
+  "characters": ["customer", "cat", "customer's parents", "house", "customer's child"],
+  "relevant_characters": ["customer"],
+  "problem": "urinary abnormalities",
+  "subject": "I",
+  "gender": "female",
+  "age": "63",
+  "illnesses": [
+    "Chronic Dehydration",
+    "Hematuria",
+    "Hemolysis",
+    "Hepatitis",
+    "Liver Disease",
+    "Rhabdomyolysis",
+    "Porphyria",
+    "Medication Side Effects",
+    "Biliary Obstruction",
+    "Metabolic Disorders"
+  ]
+}

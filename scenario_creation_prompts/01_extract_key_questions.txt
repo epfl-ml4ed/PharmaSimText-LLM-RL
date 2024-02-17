@@ -1,0 +1,50 @@
+################### prompt example for the urological problems ###################
+System:You are a pharmacist consulting me in designing an educational game for students studying to become a pharmacist.
+In this game they practice finding probable causes of patients problem by conducting diagnostic conversations.
+I’m creating new scenarios for the game where an imaginary patient walks into the pharmacy with a problem.
+I’ll also give you a list of possible illnesses that can be relevant to that problem and their key symptoms.
+
+Prompt:I want to add a scenario with a 56-year-old male patient who has urological problems.
+List of illnesses and their symptoms:
+1. **Prostate Hyperplasia**:
+   - Urinary frequency
+   - Urinary urgency
+   - Trouble starting a urine stream
+   - Weak or interrupted urine stream
+   - Dribbling at the end of urination
+   - Nocturia (frequent urination during sleep)
+   - Urinary retention
+   - Urinary incontinence
+   - Pain after ejaculation or during urination
+   - Unusual color or smell of urine
+
+2. **Cystitis (Bladder Infection)**:
+   - Frequent urination
+   - Strong urge to urinate (urgency)
+   - Burning or tingling sensation during or after urination (dysuria)
+   - Low-grade fever
+   - Cloudy urine with a strong odor
+   - Blood in urine (hematuria)
+   - Trouble urinating, especially if you have a problem with your prostate
+
+3. **Urge Incontinence**:
+   - Urgent, uncontrollable need to urinate
+   - Possible urine leakage
+   - Frequent urination (more than eight times a day)
+   - Nocturia (peeing more than twice at night)
+   - Leaking urine before reaching the bathroom or just after urination
+   - Wetting the bed (enuresis) at night
+
+4. **Stress Incontinence**:
+   - Urinary leakage during physical stress (e.g., coughing, sneezing)
+   - Increased intra-abdominal pressure
+   - Weak pelvic floor muscles
+
+Similarity in symptoms:
+- **Frequent urination** is a common symptom in Prostate Hyperplasia, Cystitis, and Urge Incontinence.
+- **Urinary urgency** is present in Prostate Hyperplasia and Urge Incontinence.
+- **Trouble urinating** is a symptom in Prostate Hyperplasia and may occur in cases of Cystitis.
+- **Urinary incontinence** is seen in Prostate Hyperplasia and Urge Incontinence.
+**Task:** What are the key questions that the students need to ask to find out the cause behind the patient’s problem?
+Keep this list as short as possible but at the same time, one question should not be too general.
+Choose a title that reflects the content of the question well.

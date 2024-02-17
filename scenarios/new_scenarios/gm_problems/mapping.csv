@@ -1,0 +1,15 @@
+Question,Prostate Hyperplasia,Cystitis,Urge Incontinence,Stress Incontinence
+Symptoms Localization,5,5,5,5
+Symptoms Intensity,6,6,6,6
+Duration of Symptoms,7,7,7,7
+Medication History,8,8,8,8
+Allergies,9,9,9,9
+Underlying Medical Conditions,10,10,10,10
+Current Medications,11,11,11,11
+Surgical History,12,12,12,12
+Pregnancy and Breastfeeding,13,13,13,13
+Age,14,14,14,14
+Sleep,15,15,15,15
+Diet,16,16,16,16
+Exercise,17,17,17,17
+Teeth,18,18,18,18

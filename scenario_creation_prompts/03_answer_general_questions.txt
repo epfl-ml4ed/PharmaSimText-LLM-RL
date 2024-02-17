@@ -1,0 +1,27 @@
+################### prompt example for the urological problems ###################
+# this prompt is appended to the previous prompt and its answer
+Prompt:
+Task: Assume a patient has each of the illnesses on the list, how would they answer these questions.
+Phrase it with wordings that a patient uses.
+If two different problems can lead to the same answer please use the same answer.
+Give a separate answer for a patient experiencing one of the illnesses on the list.
+Don't use the illness name in the answer.
+You should include an answer for all of the illnesses don't miss any.
+If there are no specific things to be mentioned in that topic about the illness you can answer by saying that nothing special about this comes to my mind.
+Your answer should follow this template:
+The response will be two .csv files. The first file is a table with two columns. "response_id" and "response_text". each row is a unique response. The second table has one column for each illness and one row for each question. The content of each cell is the response ID for the response to the column illness if the patient was asked the row question. Each cell in the second table should have exactly one response ID, however, multiple cells can (and should, when applicable) have the same response ID. provide the csvs in a csv file format.
+Questions:
+Symptoms Localization: "Where are you feeling these symptoms specifically?"
+Symptoms Intensity: " how severe is your symptoms?"
+Duration of Symptoms: "How long have you been experiencing these symptoms?"
+Medication History: "Have you taken any medications recently for these or other issues?"
+Allergies: "Do you have any known allergies, especially to medications?"
+Underlying Medical Conditions: "Do you have any ongoing health conditions?"
+Current Medications: "What medications are you currently taking?"
+Surgical History: "Have you had any surgeries in the past?"
+Pregnancy and Breastfeeding: "Are you currently pregnant or breastfeeding?"
+Age: "Can you tell me how old you are?"
+Sleep: "How has your sleep been lately?"
+Diet: "Could you describe your usual diet?"
+Exercise: "What does your typical exercise routine look like?"
+Teeth: "Have you had any recent issues with your teeth or dental health?"

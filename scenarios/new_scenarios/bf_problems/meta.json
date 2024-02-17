@@ -1,0 +1,12 @@
+{
+  "task_name": "mother",
+  "characters": ["customer", "parents", "cat", "customer's child", "house"],
+  "relevant_characters": ["customer"],
+  "problem": "breastfeeding problems",
+  "subject": "I",
+  "gender": "female",
+  "age": "27",
+  "illnesses": [
+    "Engorgement","Plugged Ducts","Cracked Nipples","Mastitis","Thrush","Low Milk Supply"
+  ]
+}

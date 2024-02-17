@@ -1,0 +1,1621 @@
+{
+    "actions": {
+        "interaction": [
+            {
+                "detail": "grandparents,symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,current medication",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's current medication.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,age",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,intensity of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's intensity of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,duration of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's duration of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,localization of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's localization of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,medical history",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's medical history.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,diet",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "grandparents,teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the grandparents 's teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,current medication",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's current medication.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,age",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,intensity of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's intensity of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,duration of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's duration of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,localization of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's localization of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,medical history",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's medical history.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,diet",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "father,teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the father 's teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,current medication",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's current medication.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,age",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,intensity of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's intensity of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,duration of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's duration of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,localization of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's localization of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,medical history",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's medical history.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,diet",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "baby,teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the baby 's teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,current medication",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's current medication.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,age",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,intensity of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's intensity of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,duration of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's duration of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,localization of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's localization of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,medical history",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's medical history.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,diet",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,current medication",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's current medication.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,age",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,intensity of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's intensity of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,duration of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's duration of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,localization of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's localization of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,medical history",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's medical history.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,diet",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "mother,teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the mother 's teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,current medication",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's current medication.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,age",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,intensity of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's intensity of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,duration of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's duration of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,localization of symptoms",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's localization of symptoms.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,medical history",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's medical history.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,diet",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "",
+                "part": "solution",
+                "sentence": "i want to suggest a solution.",
+                "type": "interaction"
+            }
+        ],
+        "posttest": [
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "change of diet",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "teething",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "current medication of the mother",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "virus",
+                "type": "posttest"
+            }
+        ]
+    },
+    "causes": [
+        "change of diet",
+        "teething",
+        "current medication of the mother",
+        "virus"
+    ],
+    "characters": [
+        "baby",
+        "mother",
+        "others"
+    ],
+    "document": {
+        "allergy prevention": [
+            "Allergy Prevention: Allergic diseases often run in families. If a parent or sibling has allergies, asthma, or neurodermatitis, the child faces a higher risk of these conditions. Here are key suggestions for newborns:- Breastfeed exclusively for 6 months if possible.- If breastfeeding isn't possible, use hypoallergenic (HA) milk formula. - Introduce solid foods after 6 months. Avoid common allergy-triggering foods in the first year like cow's milk, eggs, fish, nuts, soy, and chocolate.Controversy exists around allergy prevention methods. HA milk's effectiveness is unclear. Allergies in kids can rise even without family history due to environmental factors. Interestingly, farm-raised kids exposed to animal hair and dirt tend to have fewer allergies. Despite debate, the mentioned recommendations remain in practice.",
+            "Allergy Prevention: Allergic conditions often have a familial link. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's risk increases. Here are key recommendations for newborns: - Aim for exclusive breastfeeding for the initial 6 months if possible. - If breastfeeding isn't viable, consider hypoallergenic (HA) milk formula. - Introduce solid foods after 6 months. Avoid common allergenic foods in the first year, such as cow's milk, eggs, fish, nuts, soy, and chocolate. There's ongoing debate regarding allergy prevention methods. The effectiveness of HA milk is uncertain. Allergies can emerge in children without a family history due to environmental factors. Intriguingly, kids raised on farms and exposed to animal hair and dirt tend to have fewer allergies. Despite differing opinions, the aforementioned recommendations are still practiced.",
+            "Preventing Allergies: Allergic diseases often have a hereditary aspect. If a parent or sibling has allergies, asthma, or neurodermatitis, the child is at a higher risk. Here are important suggestions for newborns: - Strive for exclusive breastfeeding for the initial 6 months, if possible. - In cases where breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Start introducing solid foods after 6 months. Avoid common allergenic foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the first year. There's ongoing debate about methods for allergy prevention. The efficacy of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental influences. Interestingly, children brought up on farms with exposure to animal hair and dirt tend to develop fewer allergies. Despite conflicting opinions, the aforementioned recommendations continue to be practiced.",
+            "Preventing Allergies: Allergic conditions often have a genetic component. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's susceptibility increases. Here are key tips for newborns: - Strive for exclusive breastfeeding for the first 6 months, if feasible. - If breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Begin introducing solid foods after the sixth month. Avoid common allergy-triggering foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the initial year. Ongoing debates surround allergy prevention methods. The effectiveness of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental factors. Interestingly, children raised on farms with exposure to animal hair and dirt tend to have fewer allergies. Despite conflicting views, the recommendations mentioned above continue to be practiced.",
+            "Preventing Allergies: Allergic disorders often have a familial predisposition. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's susceptibility increases. Here are key recommendations for newborns: - Strive for exclusive breastfeeding for the initial 6 months, if feasible. - If breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Begin introducing solid foods after the sixth month. Avoid common allergy-triggering foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the first year. The effectiveness of allergy prevention methods remains a subject of debate. The efficacy of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental influences. Intriguingly, children raised on farms and exposed to animal hair and dirt tend to experience fewer allergies. Despite ongoing discussions, the aforementioned recommendations continue to be implemented."
+        ],
+        "cavities": [
+            "Cavities:Causes: Bacteria break down carbs, creating acid that harms enamel, forming cavities. Newborns lack cavity-causing bacteria initially, but can get it from shared items like pacifiers.Baby Bottle Tooth Decay: Constantly sucking sweet drinks from a bottle harms teeth, including permanent ones.Prevention:- Once teeth emerge, clean daily, especially before bed. Use soft, small-headed brush and child fluoride toothpaste.- Limit sugar intake, delay exposing child to 'sweet' taste.- Avoid continuous bottle sucking (bathes teeth in sugar). Note: Orange juice and milk also have sugar.- For high cavity risk: consider Zymafluor@ 0.25 mg tablets.- For kids over six: use weekly fluoride gel.",
+            "Cavities: Causes stem from bacteria breaking down carbohydrates, producing acid that damages enamel, leading to the formation of cavities. Newborns are initially devoid of cavity-causing bacteria, but exposure can occur through shared items like pacifiers.Baby Bottle Tooth Decay: Continuous consumption of sugary drinks from a bottle can detrimentally impact teeth, including permanent ones.Prevention: - Once teeth emerge, practice daily cleaning, particularly before sleep. Employ a soft, small-headed brush and child-friendly fluoride toothpaste. - Curtail sugar intake and postpone introducing the 'sweet' taste. - Avoid prolonged bottle-sucking (which exposes teeth to sugar). Note: Orange juice and milk also contain sugar. - For those at higher risk of cavities, consider Zymafluor@ 0.25 mg tablets. - For children above six years, employ weekly fluoride gel.",
+            "Cavities: The origins lie in bacteria that metabolize carbohydrates, generating acid that erodes enamel and gives rise to cavities. While newborns initially lack the bacteria responsible, they can be exposed to it through shared items like pacifiers.Baby Bottle Tooth Decay: Prolonged consumption of sugary drinks from a bottle can adversely affect teeth, including the permanent ones.Prevention: - Once teeth appear, establish a routine of daily cleaning, particularly before bedtime. Utilize a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar intake and delay introducing the 'sweet' taste. - Refrain from prolonged bottle-sucking (which bathes teeth in sugar). Note: Orange juice and milk also carry sugar content. - For those at a higher risk of cavities, the option of Zymafluor@ 0.25 mg tablets can be considered. - For children over six, incorporating weekly fluoride gel can be beneficial.",
+            "Cavities: The root cause involves bacteria metabolizing carbohydrates, leading to the production of acid that corrodes enamel and gives rise to cavities. While newborns don't initially harbor the bacteria responsible, exposure can happen through shared items like pacifiers.Baby Bottle Tooth Decay: The prolonged consumption of sugary beverages from a bottle can have detrimental effects on teeth, including permanent ones.Prevention: - Once teeth become visible, initiate a daily cleaning routine, particularly before sleep. Employ a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar consumption and postpone exposing the child to the 'sweet' taste. - Steer clear of extended bottle-sucking (which subjects teeth to sugar). Note: Orange juice and milk also carry sugar content. - For those with heightened cavity susceptibility, contemplating Zymafluor@ 0.25 mg tablets could be worthwhile. - For kids aged six and above, utilizing weekly fluoride gel can prove beneficial.",
+            "Cavities: The underlying cause can be traced back to bacteria breaking down carbohydrates, generating acid that wears away enamel and results in cavities. Although newborns initially lack the bacteria responsible, exposure can occur through shared items such as pacifiers.Baby Bottle Tooth Decay: The continual consumption of sugary beverages from a bottle can have detrimental effects on teeth, including permanent ones.Prevention: - Once teeth start appearing, establish a daily cleaning routine, especially before bedtime. Utilize a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar intake and delay introducing the 'sweet' taste. - Avoid prolonged bottle-sucking (which immerses teeth in sugar). Note: Orange juice and milk also contain sugar. - For those with a higher susceptibility to cavities, considering Zymafluor@ 0.25 mg tablets might be beneficial. - For children aged six and above, using weekly fluoride gel can be advantageous."
+        ],
+        "constipation": [
+            "Constipation: Breastfed babies rarely get constipated due to full breast milk intake. Bottle-fed infants should have daily bowel movements; constipation is fewer than 3 movements a week.Treatment:- Increase fluids, like unsweetened herbal tea or water.- Aim for about five wet diapers a day.- Adjust milk bottle amount if needed.- For older infants, watch diet. Foods like carrots, rice, and bananas can cause constipation. Choose fennel, zucchini, pears, applesauce, fruit juices, and yogurt.- Gently massage baby's belly in a clockwise direction to aid digestion.",
+            "Constipation: Breastfed infants rarely experience constipation due to the complete breast milk diet. For bottle-fed babies, daily bowel movements are expected; constipation is indicated by fewer than 3 movements a week.Treatment: - Increase fluid intake, offering unsweetened herbal tea or water. - Aim for approximately five wet diapers per day. - Adjust the amount in milk bottles if necessary. - For older infants, monitor their diet. Foods such as carrots, rice, and bananas can lead to constipation. Opt for options like fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Gently massage the baby's belly in a clockwise direction to assist digestion.",
+            "Constipation: Breastfed infants tend to have minimal constipation due to their exclusive breast milk consumption. On the other hand, for bottle-fed babies, daily bowel movements are the norm; constipation is defined as less than 3 movements per week.Treatment: - Encourage increased fluid intake, providing unsweetened herbal tea or water. - Aim for around five wet diapers each day. - Adjust the quantity in milk bottles as needed. - For older infants, be attentive to their diet. Foods like carrots, rice, and bananas can contribute to constipation. Opt for alternatives such as fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Employ gentle clockwise belly massages to aid digestion.",
+            "Constipation: Breastfed infants rarely encounter constipation due to their intake of complete breast milk. Bottle-fed babies, on the other hand, are expected to have daily bowel movements; constipation is indicated by fewer than 3 movements per week.Treatment: - Enhance fluid intake with options like unsweetened herbal tea or water. - Strive for roughly five wet diapers every day. - Adjust the quantity in milk bottles if necessary. - For older infants, monitor their diet. Foods like carrots, rice, and bananas can lead to constipation. Opt for choices such as fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Employ a gentle clockwise massage on the baby's abdomen to aid digestion.",
+            "Constipation: Breastfed babies tend to experience minimal constipation due to the full breast milk diet. In contrast, bottle-fed infants should have daily bowel movements; constipation is characterized by less than 3 movements per week.Treatment: - Promote increased fluid intake, offering choices like unsweetened herbal tea or water. - Strive for approximately five wet diapers per day. - Adjust the amount in milk bottles if needed. - For older infants, monitor their diet. Foods like carrots, rice, and bananas can contribute to constipation. Opt for alternatives like fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Gently massage the baby's belly in a clockwise direction to aid digestion."
+        ],
+        "diaper rash and diaper rash fungus": [
+            "Diaper Rash: Skin irritation on the buttocks, can lead to microbial or fungal infection (breech mycosis).Symptoms:- Diaper rash: Widespread redness under diapers, quick development, red and tight skin, blisters.- Breech mycosis: Well-defined redness, scaly edges, sometimes vesicles and pustules, bad odor.Causes of Diaper Rash:- Moisture from stool and urine, diaper heat trigger rash.- Risk factors: diarrhea, acidic foods, antibiotics, friction from diapers, irritant sensitivity, diet changes, teething.Breech Fungus:- Diaper rash encourages fungal growth (like candida albicans) after about three days.- Fungus can spread throughout the digestive system, leading to thrush.",
+            "Diaper Rash: Skin irritation that occurs on the buttocks, which can progress to microbial or fungal infections, known as breech mycosis.Symptoms: - Diaper rash: Widespread redness beneath the diaper, rapid onset, skin appearing red and tight, sometimes with blisters. - Breech mycosis: Distinct redness, scaliness at the edges, occasional vesicles and pustules, accompanied by an unpleasant odor.Causes of Diaper Rash: - Moisture from stool and urine, combined with the warmth of the diaper, can trigger rash formation. - Risk factors: diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, changes in diet, teething.Breech Fungus: - Diaper rash paves the way for fungal growth (such as candida albicans) after approximately three days. - The fungus can potentially spread throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: A condition involving skin irritation on the buttocks, which can progress to microbial or fungal infections known as breech mycosis.Symptoms: - Diaper rash: Widespread redness underneath diapers, rapid development, skin appearing red and taut, with potential blistering. - Breech mycosis: Clearly defined redness, edges displaying scaliness, potential vesicles and pustules, accompanied by an unpleasant smell.Causes of Diaper Rash: - Exposure to moisture from stool and urine, along with diaper warmth, can trigger the onset of rashes. - Risk factors include diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, dietary changes, and teething.Breech Fungus: - Diaper rash creates a conducive environment for fungal growth, such as candida albicans, approximately after three days. - The fungus can potentially spread throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: A condition characterized by skin irritation on the buttocks, which can potentially evolve into microbial or fungal infections, referred to as breech mycosis.Symptoms: - Diaper rash: Extensive redness beneath diapers, rapid emergence, skin appearing red and tense, occasionally with blistering. - Breech mycosis: Clearly defined redness, scaliness around the edges, possible presence of vesicles and pustules, often accompanied by an unpleasant odor.Causes of Diaper Rash: - Dampness from stool and urine, coupled with the warmth of the diaper, can trigger rash formation. - Risk factors encompass diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, dietary modifications, and teething.Breech Fungus: - Diaper rash sets the stage for fungal growth, such as candida albicans, typically after about three days. - The fungus has the potential to propagate throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: An issue involving skin irritation on the buttocks, which can progress to microbial or fungal infections called breech mycosis.Symptoms: - Diaper rash: Extensive redness beneath diapers, swift onset, skin appearing red and taut, sometimes accompanied by blisters. - Breech mycosis: Well-defined redness, scaliness at the edges, potential presence of vesicles and pustules, often associated with an unpleasant smell.Causes of Diaper Rash: - Moisture from stool and urine, combined with diaper warmth, can trigger rash development. - Risk factors encompass diarrhea, consumption of acidic foods, antibiotic usage, diaper friction, irritant sensitivity, dietary alterations, and teething.Breech Fungus: - Diaper rash fosters fungal growth, such as candida albicans, usually after about three days. - This fungus has the potential to spread through the digestive system, leading to the emergence of thrush."
+        ],
+        "diarrhea and vomiting causes and critical symptoms": [
+            "Diarrhea and vomiting are common in infants and young children. For infants under one year with severe diarrhea or vomiting, seek medical help due to rapid water loss risk. Breastfed babies and those on prebiotic-fiber formulas have looser stools, not necessarily diarrhea. Consider diet and stool consistency.Critical Symptoms:- Weight loss over 5 percent.- Apathy, fast breathing.- Sunken eyes, dry lips, pale skin, fontanel depression.- Fever indicates infection.- No urination (dry diapers).Causes:- Food issues: unusual or spoiled food, bacteria, viruses, worms.- Digestive weakness, prematurity, metabolic issues (gluten, lactose, cow's milk intolerance), allergy tendency.- Antibiotics' effects.- Emotional stress, teething.Remember, younger children dehydrate faster, risking coma and worse. Quick medical attention is vital.",
+            "Diarrhea and vomiting are common occurrences in infants and young children. For infants below one year facing severe diarrhea or vomiting, seeking medical assistance is imperative due to the risk of rapid water loss. It's important to note that breastfed babies and those on prebiotic-fiber formulas might experience looser stools, which doesn't necessarily equate to diarrhea. Take into consideration the baby's diet and stool consistency.Critical Symptoms: - Weight loss exceeding 5 percent of body weight. - Apathy and rapid breathing. - Noteworthy signs like sunken eyes, dry lips, pale skin, fontanel depression (soft spot on the head). - The presence of fever may indicate an infection. - Absence of urination (dry diapers).Causes: - Food-related issues such as consumption of unusual or spoiled food, bacterial or viral infections, or presence of worms. - Digestive weaknesses, prematurity, metabolic conditions (like gluten, lactose, or cow's milk intolerance), and a tendency towards allergies. - The impact of antibiotics on the gastrointestinal system. - Emotional stress and teething.Remember, younger children are more susceptible to dehydration, which can lead to serious consequences like coma. Swift medical attention is absolutely crucial.",
+            "Diarrhea and vomiting are common occurrences among infants and young children. In the case of infants under one year experiencing severe diarrhea or vomiting, seeking medical assistance is highly advised due to the potential risk of rapid water loss. It's worth noting that breastfed babies and those consuming prebiotic-fiber formulas may exhibit looser stools, which doesn't necessarily indicate diarrhea. It's important to consider both the baby's diet and the consistency of their stools.Critical Symptoms: - Weight loss exceeding 5 percent of their body weight. - Signs of lethargy and rapid breathing. - Noticeable physical indicators like sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever could indicate an underlying infection. - A lack of urination, leading to dry diapers.Causes: - Factors related to food, such as consumption of unusual or spoiled items, exposure to bacterial or viral agents, or even the presence of worms. - Underlying digestive weaknesses, prematurity, metabolic conditions (such as gluten, lactose, or cow's milk intolerance), and a propensity toward allergies. - The potential impact of antibiotics on the digestive system. - Emotional stress and the teething process.It's crucial to remember that younger children are more susceptible to dehydration, which can escalate to serious outcomes like coma. Swift medical attention is of utmost importance.",
+            "Diarrhea and vomiting are commonly encountered issues in infants and young children. For infants below the age of one experiencing severe diarrhea or vomiting, it's essential to seek medical help due to the risk of rapid fluid loss. It's important to understand that breastfed infants and those on prebiotic-fiber formulas may have stools with a looser consistency, which doesn't necessarily indicate diarrhea. Be mindful of the baby's diet and the texture of their stools.Critical Symptoms: - Weight loss surpassing 5 percent of their body weight. - Displaying signs of lethargy and rapid breathing. - Notable physical manifestations such as sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever might point to an underlying infection. - Absence of urination leading to dry diapers.Causes: - Factors related to food, including consumption of unusual or spoiled foods, exposure to bacterial or viral agents, or even the presence of worms. - Potential underlying digestive weaknesses, prematurity, metabolic conditions (like gluten, lactose, or cow's milk intolerance), and a tendency toward allergies. - The potential impact of antibiotics on the gastrointestinal system. - Emotional stress and teething.It's vital to keep in mind that younger children are more prone to dehydration, which can lead to severe outcomes like coma. Swift medical intervention is absolutely essential.",
+            "Diarrhea and vomiting are commonly observed occurrences in infants and young children. When infants under the age of one encounter severe diarrhea or vomiting, it's crucial to seek medical assistance due to the inherent risk of rapid fluid loss. It's noteworthy that breastfed infants and those consuming prebiotic-fiber formulas may exhibit stools with a looser consistency, which doesn't necessarily point to diarrhea. It's advisable to consider both the baby's dietary intake and the nature of their stools.Critical Symptoms: - Weight loss exceeding 5 percent of their body weight. - Manifestations of lethargy and rapid breathing. - Observable physical signs like sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever may indicate an underlying infection. - A lack of urination leading to dry diapers.Causes: - Factors related to food, encompassing consumption of uncommon or spoiled items, exposure to bacterial or viral agents, or the presence of worms. - Possible underlying digestive vulnerabilities, prematurity, metabolic conditions (such as gluten, lactose, or cow's milk intolerance), and a predisposition to allergies. - The potential influence of antibiotics on the gastrointestinal system. - Emotional stress and the process of teething.It's crucial to recognize that younger children are more prone to dehydration, which can escalate to serious consequences like coma. Swift medical attention is imperative."
+        ],
+        "diarrhea and vomiting treatment methods": [
+            "Diarrhea Treatment:- Provide fluids: offer small, frequent drinks like sweetened tea or breast milk. Avoid fruit juice.- Consider electrolyte solution if needed.- Avoid newly introduced foods; opt for easily digestible options like crackers.- For severe cases, replace regular milk/porridge with a special food.- Gradually reintroduce usual diet with small, frequent meals, emphasizing rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, blueberries.Additional Tips:- Change diapers often.- Use protective ointment to prevent diaper rash.- If condition worsens, seek medical attention.Recommended Products for Digestive Issues:- Lactose-free dietary formula for diarrhea, suitable from birth.- Hypoallergenic formula for digestive issues, contains bifidus bacteria, suitable from birth.- Special dietary food with rice, corn, and carrots for diarrhea, not for cow's milk intolerance, suitable from 6 months.- Reconstitution of intestinal flora products.- Peristalsis inhibitors and carbon adsorbents not recommended for kids under two.- Antiemetics only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid intake by offering small, frequent sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - If necessary, consider electrolyte solutions to maintain hydration. - Opt for easily digestible options like crackers and avoid recently introduced foods. - In severe cases, replace regular milk or porridge with a specialized food. - Gradually reintroduce the usual diet with small, frequent meals, focusing on items like rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Change diapers frequently. - Apply protective ointment to prevent diaper rash. - If the condition worsens, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula designed for diarrhea, suitable from birth. - Hypoallergenic formula for addressing digestive problems, containing bifidus bacteria, suitable from birth. - Special dietary food containing rice, corn, and carrots for diarrhea, not intended for cow's milk intolerance, suitable from 6 months. - Products for reconstituting intestinal flora. - Peristalsis inhibitors and carbon adsorbents not recommended for children under two. - Antiemetics recommended only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid replenishment with small, frequent sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - In cases where it's warranted, consider electrolyte solutions to restore balance. - Opt for easily digestible options like crackers and avoid recently introduced foods. - In severe instances, substitute regular milk or porridge with a specialized food. - Gradually reintroduce the usual diet through small, frequent meals, focusing on elements such as rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Change diapers frequently. - Apply protective ointment to prevent diaper rash. - If the condition deteriorates, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula formulated for diarrhea, suitable from birth. - Hypoallergenic formula addressing digestive concerns, containing bifidus bacteria, suitable from birth. - Specialized dietary food containing rice, corn, and carrots for diarrhea, not for cow's milk intolerance, suitable from 6 months. - Products facilitating the reconstitution of intestinal flora. - Peristalsis inhibitors and carbon adsorbents are not advisable for children under two. - Antiemetics are to be considered only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Emphasize fluid intake by providing frequent, small sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - If necessary, consider electrolyte solutions to maintain hydration levels. - Opt for easily digestible options like crackers while steering clear of recently introduced foods. - In severe cases, replace regular milk or porridge with a specialized dietary option. - Gradually reintroduce the typical diet through small, frequent meals, giving preference to components like rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Ensure diapers are changed often. - Employ protective ointment to prevent diaper rash. - If the condition worsens, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula designed to address diarrhea, suitable from birth. - Hypoallergenic formula with bifidus bacteria, suitable from birth to tackle digestive concerns. - Specialized dietary food containing rice, corn, and carrots for diarrhea, intended for those without cow's milk intolerance, suitable from 6 months. - Products aiding in the restoration of intestinal flora. - Note that peristalsis inhibitors and carbon adsorbents are not recommended for children under two. - Antiemetics should only be considered for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid consumption with regular, small sips of beverages like sweetened tea or breast milk. It's advisable to avoid fruit juices. - If required, electrolyte solutions can be considered to sustain adequate hydration. - Opt for easily digestible options like crackers and steer clear of recently introduced foods. - In severe instances, replace standard milk or porridge with a specialized dietary alternative. - Gradually reintroduce the customary diet via small, frequent meals, with an emphasis on components such as rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Maintain frequent diaper changes. - Utilize protective ointment to prevent diaper rash. - In case the condition escalates, seek medical assistance.Recommended Products for Digestive Issues: - Lactose-free dietary formula formulated for diarrhea, suitable from birth. - Hypoallergenic formula containing bifidus bacteria, suitable from birth to address digestive issues. - Special dietary food featuring rice, corn, and carrots for diarrhea, intended for those without cow's milk intolerance, suitable from 6 months. - Products facilitating the reconstitution of intestinal flora. - Note that peristalsis inhibitors and carbon adsorbents are not recommended for children under two. - Antiemetics should only be utilized for severe vomiting or motion sickness."
+        ],
+        "regurgitation": [
+            "Regurgitation: Newborns sometimes spit up small milk amounts after eating, different from vomiting. Signs include immediate milk spitting, no change in milk appearance, no curdling or smell.Causes: Fast feeding, tense atmosphere, large nipple hole, excessive food intake, air swallowing, moving after eating.Treatment: Address the cause, elevate bed head. Fennel tea might help. Thicken infant milk with products containing carob seed flour. It aids digestion, reducing reflux. Two options: add to milk (watch weight) or use ready-to-use thickened products.",
+            "Regurgitation: Infants occasionally expel small amounts of milk after feeding, distinct from vomiting. Characteristics include immediate milk expulsion, unchanged milk appearance, and no curdling or odor.Causes: Rapid feeding, tense environment, larger nipple hole, excessive food consumption, swallowing air, moving after eating.Treatment: Address the underlying cause, elevate the head of the bed. Fennel tea may provide relief. Thickening infant milk with products containing carob seed flour can be beneficial. It aids digestion and reduces reflux. Two options: add to milk (monitor weight) or use ready-to-use thickened products.",
+            "Regurgitation: Newborns sometimes release small milk quantities after feeding, differentiating it from vomiting. Notable features include immediate milk expulsion, unchanged milk appearance, and an absence of curdling or odor.Causes: Rapid feeding, a tense atmosphere, a larger nipple hole, excessive food intake, air swallowing, movement after eating.Treatment: Address the root cause, elevate the head of the bed. Fennel tea might offer relief. Thicken infant milk with carob seed flour-containing products, which aids digestion and minimizes reflux. Two choices: add to milk (monitor weight) or opt for ready-to-use thickened products.",
+            "Regurgitation: Among newborns, occasional expulsion of small milk amounts after feeding can occur, distinct from vomiting. This involves immediate milk spitting, unchanged milk appearance, and no curdling or odor.Causes: Fast feeding, a tense environment, a larger nipple hole, excessive food intake, swallowing air, post-feeding movement.Treatment: Address the underlying trigger, elevate the bed head. Fennel tea might offer relief. Consider thickening infant milk with carob seed flour-containing products, aiding digestion and reducing reflux. Two approaches: adding to milk (while monitoring weight) or opting for ready-to-use thickened products.",
+            "Regurgitation: Infants may occasionally expel small milk quantities after feeding, separate from vomiting. Key features include immediate milk expulsion, unchanged milk appearance, and absence of curdling or odor.Causes: Rapid feeding, a tense setting, a larger nipple opening, excessive food intake, air ingestion, movement post-feeding.Treatment: Address the cause, elevate the head of the bed. Fennel tea could offer relief. Thickening infant milk with products containing carob seed flour can assist digestion and decrease reflux. Two choices: incorporate into milk (with weight monitoring) or utilize pre-thickened products."
+        ],
+        "supplementary foods": [
+            "Infants are solely milk-fed for the first 4 to 6 months. Between 4 to 7 months, complementary spoon-fed foods are introduced. Two conditions for spoon-feeding: head control and chewing ability, plus developed digestion.If a baby can't tolerate porridge or puree (due to cramps, diarrhea, vomiting, refusal), switch back to milk-only diet.Introducing New Foods:- Introduce new foods separately, small amounts, when the baby's healthy.- Wait 4-5 days before the next food, to spot any intolerances.",
+            "Infants rely entirely on milk for the initial 4 to 6 months. Between 4 to 7 months, supplementary spoon-fed foods are introduced. Two prerequisites for spoon-feeding are head control and chewing capabilities, alongside matured digestion. If a baby struggles with porridge or puree (due to cramps, diarrhea, vomiting, or refusal), revert to a milk-only diet. When introducing new foods: - Introduce them separately, in small amounts, when the baby is in good health. - Allow 4-5 days before introducing the next food, to observe any signs of intolerances.",
+            "During the first 4 to 6 months, infants are exclusively nourished with milk. Between 4 to 7 months, complementary spoon-fed foods are introduced. Two prerequisites for spoon-feeding are the ability to control the head and chew, alongside developed digestion. If a baby has difficulty tolerating porridge or puree (due to cramps, diarrhea, vomiting, or refusal), revert to a milk-only diet. When introducing new foods: - Introduce them one at a time, in small portions, when the baby is in good health. - Allow 4-5 days before introducing the next food, in order to detect any potential intolerances.",
+            "For the initial 4 to 6 months, infants rely solely on milk for nourishment. Between 4 to 7 months, supplementary spoon-fed foods come into play. Head control and chewing proficiency, combined with advanced digestion, are prerequisites for introducing spoon-fed foods. In case a baby struggles with porridge or puree (due to cramps, diarrhea, vomiting, or refusal), return to an exclusive milk diet. When introducing new foods: - Present them separately, in small quantities, when the baby is in good health. - Allow 4-5 days before introducing the next food, to identify any potential intolerances.",
+            "During the initial 4 to 6 months, infants are exclusively nourished with milk. Between 4 to 7 months, the introduction of complementary spoon-fed foods begins. For spoon-feeding, two prerequisites are essential: the ability to control the head and chew, in addition to well-developed digestion. If a baby has difficulty tolerating porridge or puree (possibly due to cramps, diarrhea, vomiting, or refusal), it's advisable to revert to a milk-only diet. When introducing new foods: - Introduce them individually, in small portions, when the baby is in good health. - Allow a 4-5 day interval before introducing the next food, to observe any potential intolerances."
+        ],
+        "teething": [
+            "Teething: About half of infants experience teething problems, often linked to discomfort. Symptoms include red, swollen, sensitive gums, excessive drooling, and biting objects. Cheek and buttock redness might occur. Teething can trigger issues like fever, agitation, moodiness, disrupted sleep, and digestive problems. These symptoms can arise during any teething episode.Between 6 to 12 months, most children get six teeth. Teething continues nearly constantly by age two. A typical first set of teeth includes 20 baby teeth.",
+            "Teething: Approximately half of infants go through teething issues, frequently associated with discomfort. Signs encompass red, swollen, tender gums, excessive drooling, and biting on objects. Redness on cheeks and buttocks might also be present. Teething can lead to problems like fever, irritability, mood swings, disrupted sleep, and digestive disturbances. These symptoms can emerge in any teething episode. From 6 to 12 months, most children develop six teeth. Teething persists almost continuously until around age two. An initial set of 20 baby teeth is standard.",
+            "Teething: Around half of infants experience teething troubles, often accompanied by discomfort. Symptoms include red, swollen, and sensitive gums, along with increased drooling and a tendency to bite objects. There might be redness on the cheeks and buttocks. Teething can lead to challenges such as fever, restlessness, changes in mood, sleep disruptions, and digestive issues. These symptoms can appear during any episode of teething. Between 6 to 12 months, most children acquire six teeth. Teething remains nearly constant until about the age of two. A typical first set of teeth includes a total of 20 baby teeth.",
+            "Teething: Roughly half of infants encounter teething difficulties, often tied to discomfort. Signs encompass inflamed, swollen, and sensitive gums, alongside increased drooling and a tendency to bite objects. Redness on the cheeks and buttocks can also occur. Teething can lead to problems like fever, irritability, mood changes, disrupted sleep, and digestive disturbances. These symptoms can manifest during any teething episode. Most children develop six teeth between 6 to 12 months. Teething persists consistently until approximately age two. A typical initial set comprises 20 baby teeth.",
+            "Teething: About fifty percent of infants face teething challenges, frequently associated with discomfort. Indications include reddened, swollen, and tender gums, as well as excessive drooling and a penchant for biting objects. Cheek and buttock redness might also manifest. Teething can provoke issues like fever, restlessness, mood fluctuations, interrupted sleep, and digestive disruptions. These symptoms can emerge at any point during teething. From 6 to 12 months, most children acquire six teeth. Teething continues almost incessantly until around age two. The typical initial set consists of 20 baby teeth."
+        ]
+    },
+    "document_actions": [
+        {
+            "detail": "allergy prevention",
+            "part": "document",
+            "sentence": "i want to read about allergy prevention.",
+            "type": "interaction"
+        },
+        {
+            "detail": "teething",
+            "part": "document",
+            "sentence": "i want to read about teething.",
+            "type": "interaction"
+        },
+        {
+            "detail": "regurgitation",
+            "part": "document",
+            "sentence": "i want to read about regurgitation.",
+            "type": "interaction"
+        },
+        {
+            "detail": "diaper rash and diaper rash fungus",
+            "part": "document",
+            "sentence": "i want to read about diaper rash and diaper rash fungus.",
+            "type": "interaction"
+        },
+        {
+            "detail": "constipation",
+            "part": "document",
+            "sentence": "i want to read about constipation.",
+            "type": "interaction"
+        },
+        {
+            "detail": "supplementary foods",
+            "part": "document",
+            "sentence": "i want to read about supplementary foods.",
+            "type": "interaction"
+        },
+        {
+            "detail": "cavities",
+            "part": "document",
+            "sentence": "i want to read about cavities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "diarrhea and vomiting treatment methods",
+            "part": "document",
+            "sentence": "i want to read about diarrhea and vomiting treatment methods.",
+            "type": "interaction"
+        },
+        {
+            "detail": "diarrhea and vomiting causes and critical symptoms",
+            "part": "document",
+            "sentence": "i want to read about diarrhea and vomiting causes and critical symptoms.",
+            "type": "interaction"
+        }
+    ],
+    "initial_state": [
+        "interaction",
+        "my baby has diarhea. can you help?"
+    ],
+    "interaction": [
+        {
+            "detail": "grandparents,symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,current medication",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's current medication.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,age",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's intensity of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,duration of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's duration of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,localization of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's localization of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,medical history",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's medical history.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "grandparents,teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the grandparents 's teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,current medication",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's current medication.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,age",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's intensity of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,duration of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's duration of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,localization of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's localization of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,medical history",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's medical history.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "father,teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the father 's teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,current medication",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's current medication.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,age",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's intensity of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,duration of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's duration of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,localization of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's localization of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,medical history",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's medical history.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,current medication",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's current medication.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,age",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's intensity of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,duration of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's duration of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,localization of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's localization of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,medical history",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's medical history.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,current medication",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's current medication.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,age",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's intensity of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,duration of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's duration of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,localization of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's localization of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,medical history",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's medical history.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,current medication",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's current medication.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,age",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's intensity of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,duration of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's duration of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,localization of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's localization of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,medical history",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's medical history.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "",
+            "part": "solution",
+            "sentence": "i want to suggest a solution.",
+            "type": "interaction"
+        }
+    ],
+    "keywords": {
+        "not_reduced": [
+            [
+                0.16556895,
+                -0.07404799,
+                0.00480197,
+                0.13058671,
+                -0.20327203,
+                -0.1579316,
+                -0.05275168,
+                -0.19477324,
+                0.06740582,
+                0.10549043,
+                -0.01604833,
+                -0.00360452,
+                0.05664032,
+                -0.08844598,
+                0.09828763,
+                0.01662014,
+                0.08264318,
+                0.10957246,
+                -0.15657674,
+                -0.07732343,
+                0.01074369,
+                0.08818759,
+                0.0012703,
+                0.10230157,
+                -0.06232592,
+                0.15367423,
+                0.15053551,
+                -0.03934116,
+                -0.02126383,
+                0.02631694,
+                0.16186526,
+                0.00957755,
+                0.00893239,
+                -0.13778698,
+                0.03715691,
+                -0.03037332,
+                0.04869776,
+                0.04938252,
+                0.02280428,
+                -0.07706715,
+                -0.121416,
+                -0.00735603,
+                0.03239556,
+                -0.06049621,
+                -0.13195513,
+                0.17068306,
+                0.21926996,
+                0.03485034,
+                0.06207282,
+                0.20948201
+            ],
+            [
+                0.06141221,
+                -0.26676124,
+                -0.00554483,
+                -0.04512797,
+                -0.13759603,
+                0.02646431,
+                0.00365849,
+                -0.02552995,
+                -0.10612319,
+                0.09786042,
+                0.06048343,
+                -0.06304045,
+                -0.01951331,
+                -0.06377913,
+                0.05301987,
+                -0.05719366,
+                0.0734977,
+                0.02100387,
+                -0.02303472,
+                0.08762383,
+                0.10828222,
+                0.04832226,
+                0.02625573,
+                -0.01741964,
+                0.06101763,
+                0.02053231,
+                -0.02138557,
+                -0.05741517,
+                -0.04938854,
+                -0.05617718,
+                0.01277062,
+                0.09202407,
+                0.00780779,
+                -0.06668983,
+                -0.05187495,
+                -0.00716233,
+                0.02499234,
+                0.13238221,
+                0.06002145,
+                -0.04023578,
+                -0.02791001,
+                -0.00310349,
+                0.05611067,
+                -0.20765388,
+                -0.10614476,
+                0.09889619,
+                0.17391,
+                0.0859203,
+                -0.03408115,
+                0.01775528
+            ],
+            [
+                0.27983105,
+                -0.19351387,
+                -0.04339084,
+                0.06687123,
+                -0.1264837,
+                0.01467867,
+                -0.04454776,
+                0.04344505,
+                -0.11470354,
+                -0.00642383,
+                -0.04292896,
+                -0.0999214,
+                -0.04893157,
+                -0.07460927,
+                0.10301997,
+                -0.16678819,
+                0.06184834,
+                0.2556314,
+                0.10408985,
+                -0.01071674,
+                -0.02982561,
+                0.13356139,
+                -0.05558051,
+                0.06306798,
+                0.00933374,
+                0.04714085,
+                0.14901862,
+                -0.10981213,
+                -0.0628946,
+                -0.05157946,
+                0.03258306,
+                0.01009084,
+                0.07528902,
+                -0.08190288,
+                0.03809828,
+                0.04915782,
+                -0.04692584,
+                -0.06237034,
+                -0.0647718,
+                0.04611983,
+                0.07997471,
+                0.05653392,
+                0.06860317,
+                -0.2340097,
+                -0.15937597,
+                0.12627394,
+                0.14884195,
+                0.13513358,
+                -0.01861608,
+                0.19952667
+            ],
+            [
+                0.1566713,
+                -0.17394271,
+                -0.1094148,
+                -0.12215093,
+                -0.18568459,
+                -0.00959205,
+                -0.01365828,
+                -0.07075816,
+                0.03698114,
+                0.02776617,
+                0.07682817,
+                -0.04315977,
+                0.04416114,
+                -0.10145141,
+                0.09028192,
+                -0.02000513,
+                0.18173674,
+                0.06997873,
+                -0.05612206,
+                -0.07523001,
+                0.14724898,
+                0.02991648,
+                -0.05538124,
+                0.02243037,
+                0.0305378,
+                0.06295861,
+                0.07860628,
+                0.02203753,
+                -0.08843076,
+                0.02985437,
+                -0.02739158,
+                0.12106633,
+                -0.01146821,
+                -0.08955871,
+                0.08083473,
+                0.04425205,
+                0.00168924,
+                -0.00720557,
+                0.02756842,
+                -0.09510817,
+                -0.00867277,
+                0.00611405,
+                0.02918132,
+                -0.22026475,
+                -0.18371919,
+                0.13196582,
+                0.25423455,
+                0.09031407,
+                -0.0252841,
+                0.08176467
+            ],
+            [
+                -0.10563042,
+                -0.392017812,
+                -0.0891125202,
+                -0.0626086518,
+                0.0188516621,
+                0.0174661484,
+                0.0509694368,
+                0.102924354,
+                -0.262156367,
+                0.349271089,
+                0.234197751,
+                -0.0880643129,
+                0.170567006,
+                -0.370185226,
+                -0.104502343,
+                0.0119544584,
+                0.166858763,
+                0.0367729403,
+                -0.145732343,
+                0.0221846104,
+                -7.26398366e-06,
+                0.160471946,
+                -0.112932444,
+                0.0863518491,
+                0.0688842013,
+                0.088669993,
+                -0.193593204,
+                -0.00719078211,
+                0.0781898201,
+                0.0457210168,
+                0.0728097633,
+                0.165973127,
+                0.0419795364,
+                0.0299757626,
+                -0.0838562995,
+                -0.0639942363,
+                0.0599609502,
+                0.246265873,
+                0.0339164063,
+                -0.0857429057,
+                -0.00943698175,
+                0.137217343,
+                0.106002666,
+                -0.136975557,
+                -0.19421199,
+                0.0759824812,
+                0.0480970368,
+                -0.0655284151,
+                -0.0498300642,
+                -0.053209275
+            ]
+        ],
+        "reduced": [
+            [
+                0.25267965,
+                -0.11655124,
+                0.00350641,
+                0.17941025,
+                -0.3159228,
+                -0.23879683,
+                -0.0698515,
+                -0.2984492,
+                0.10935022,
+                0.15075852,
+                -0.00917821,
+                -0.01253645,
+                0.08782826,
+                -0.13837257,
+                0.11613029,
+                0.02811418,
+                0.12787424,
+                0.1591985,
+                -0.23329608,
+                -0.11634749
+            ],
+            [
+                0.11597198,
+                -0.36741734,
+                -0.00559463,
+                -0.05692341,
+                -0.19416896,
+                0.04489642,
+                0.01234183,
+                -0.04044287,
+                -0.14801273,
+                0.11992148,
+                0.08523072,
+                -0.09556273,
+                -0.03166713,
+                -0.07512206,
+                0.06482975,
+                -0.08114846,
+                0.09651041,
+                0.0305113,
+                -0.04883265,
+                0.13074662
+            ],
+            [
+                0.41427404,
+                -0.26803944,
+                -0.05721985,
+                0.09639065,
+                -0.19284391,
+                0.01257048,
+                -0.05060928,
+                0.02456325,
+                -0.14875716,
+                -0.01574935,
+                -0.05224799,
+                -0.15474027,
+                -0.06246167,
+                -0.10416546,
+                0.12928742,
+                -0.24097423,
+                0.08594972,
+                0.35943645,
+                0.1472657,
+                -0.01072563
+            ],
+            [
+                0.25426978,
+                -0.2571904,
+                -0.11792108,
+                -0.17569308,
+                -0.27168727,
+                -0.0023141,
+                0.00402801,
+                -0.11489396,
+                0.03984057,
+                0.03144865,
+                0.11259161,
+                -0.07544677,
+                0.0623204,
+                -0.13286725,
+                0.13568754,
+                -0.03347432,
+                0.2586289,
+                0.11112767,
+                -0.05590905,
+                -0.09275854
+            ],
+            [
+                -0.12885721,
+                -0.4782175,
+                -0.10870723,
+                -0.07637549,
+                0.0229969,
+                0.02130673,
+                0.06217697,
+                0.12555611,
+                -0.3198012,
+                0.42607132,
+                0.28569484,
+                -0.10742854,
+                0.20807251,
+                -0.45158422,
+                -0.12748107,
+                0.01458309,
+                0.20354888,
+                0.04485884,
+                -0.17777702,
+                0.02706272
+            ]
+        ]
+    },
+    "keywords_strings": [
+        "five months old",
+        "no breastmilk and diet changed to solid food",
+        "constant intensity over time",
+        "too young for teething",
+        "antibiotics"
+    ],
+    "name": "change of diet",
+    "posttest_as": [
+        {
+            "detail": "",
+            "part": "",
+            "sentence": "change of diet",
+            "type": "posttest"
+        }
+    ],
+    "posttest_qs": [
+        "What is the most probable cause of the baby's problem?"
+    ],
+    "present_actions": [
+        {
+            "detail": "baby,age",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's intensity of symptoms.",
+            "type": "interaction"
+        }
+    ],
+    "question_answers": {
+        "baby": {
+            "age": [
+                "he is 5 months old.",
+                "My baby is currently 5 months old.",
+                "At the moment, my little one is 5 months of age.",
+                "Right now, my baby is in the 5th month.",
+                "Currently, my child is at the age of 5 months."
+            ],
+            "allergies": [
+                "he doesn't have any allergies as far as we know.",
+                "To the best of our knowledge, he doesn't have any allergies.",
+                "As far as we're aware, there are no known allergies for him.",
+                "As of now, we don't have any information about him having allergies.",
+                "To our knowledge, there aren't any allergies that he has."
+            ],
+            "current medication": [
+                "he is not taking any medication.",
+                "He's not currently on any medication.",
+                "He's not taking any drugs at the moment.",
+                "There are no medications he's currently using.",
+                "He's not under any medication regimen right now."
+            ],
+            "diet": [
+                "since my wife got sick, he has been drinking less breast milk so we started to feed him with pureed veggies and fruit as well 3 days ago. we are also trying to supplement the veggies with some powdered milk - bimbosan 1 ha, i think.",
+                "Ever since my wife fell ill, our baby's been consuming less breast milk. Consequently, we began introducing pureed vegetables and fruits into his diet three days ago. Additionally, we're considering supplementing his diet with powdered milk - specifically, Bimbosan 1 HA, I believe.",
+                "With my wife's recent illness, our baby's breast milk intake has reduced. As a result, we introduced pureed vegetables and fruits into his meals three days ago. We're also contemplating adding powdered milk, possibly Bimbosan 1 HA.",
+                "Due to my wife's recent illness, our baby has been drinking less breast milk. To address this, we started incorporating pureed vegetables and fruits into his diet three days ago. We're also thinking about supplementing his nutrition with powdered milk - specifically, Bimbosan 1 HA, I think.",
+                "Since my wife fell ill, our baby's breast milk consumption has decreased. Consequently, we initiated the introduction of pureed vegetables and fruits into his meals three days ago. We're also considering incorporating powdered milk, possibly Bimbosan 1 HA."
+            ],
+            "duration of symptoms": [
+                "it has been 12 hours i think.",
+                "I believe it's been around 12 hours.",
+                "I think it's been about 12 hours.",
+                "If I'm not mistaken, it's been approximately 12 hours.",
+                "I reckon it's been roughly 12 hours."
+            ],
+            "intensity of symptoms": [
+                "well, his stools are pretty liquid, the color is normal though.",
+                "My baby's stools are quite watery, although the color seems to be normal.",
+                "I've noticed that my little one's bowel movements are quite liquid, but the color appears to be within the normal range.",
+                "The consistency of my baby's stools is rather runny, although the color doesn't seem to be a concern.",
+                "I wanted to mention that my baby's bowel movements are more liquid than usual, but fortunately, the color is still within the normal range."
+            ],
+            "localization of symptoms": [
+                "i don't understand.."
+            ],
+            "medical history": [
+                "he has never been sick before. it 's the first time anything has happened..",
+                "He's never experienced illness before. This is the first time anything like this has occurred.",
+                "Up until now, he's never been unwell. This is the initial occurrence of any health issue.",
+                "He's never fallen ill previously. This marks the first instance of something happening.",
+                "He's never had a sickness before. This is the first occurrence of anything like this."
+            ],
+            "sleep": [
+                "he sleeps fine, i haven't noticed anything wrong.",
+                "His sleep is going well; I haven't observed any issues.",
+                "His sleep pattern seems fine; I haven't detected any problems.",
+                "He's sleeping without any apparent issues; I haven't seen anything wrong.",
+                "His sleep is normal; I haven't noticed anything amiss."
+            ],
+            "symptoms": [
+                "he has been having a diarrhea. he doesn't have a fever. he isn't vomiting either and his urine seems normal.",
+                "My baby has been experiencing diarrhea. There's no fever, no vomiting, and his urine appears normal.",
+                "The issue is that my little one has been going through bouts of diarrhea. There's no fever, no vomiting, and his urine looks fine.",
+                "I'm concerned because my baby has been having diarrhea. However, there's no fever, no vomiting, and his urine seems to be normal.",
+                "I wanted to talk to you about my baby's diarrhea situation. Just to clarify, there's no fever, no vomiting, and his urine doesn't show any abnormalities."
+            ],
+            "teeth": [
+                "he is not teething at the moment. he is still quite young.",
+                "He isn't teething right now; he's still quite young.",
+                "Teething isn't happening currently; he's still at a tender age.",
+                "At the moment, he's not going through teething; he's still quite young.",
+                "He's not in the teething phase right now; he's still quite young."
+            ]
+        },
+        "father": {
+            "all": [
+                "i am the father and i am fine thanks, i don't understand how that is relevant..."
+            ]
+        },
+        "grandparents": {
+            "all": [
+                "i don't understand.. how is that relevant?"
+            ],
+            "teeth": [
+                "they don't have many left, but are you sure this is relevant..."
+            ]
+        },
+        "mother": {
+            "age": [
+                "she is 27 years old. how is that relevant?",
+                "She's currently 27 years old. How does that factor into the situation?",
+                "Her age is 27 years. Why is that information important in this context?",
+                "At present, she's 27 years of age. How does her age play a role here?",
+                "She's in her 27th year. Could you explain how her age is relevant to the matter?"
+            ],
+            "allergies": [
+                "she does not have any allergies.",
+                "There are no allergies she has.",
+                "She isn't allergic to anything.",
+                "As far as we know, she has no allergies.",
+                "No allergies are present in her case."
+            ],
+            "current medication": [
+                "since my wife got sick recently, she is taking elevit pronatal for vitamins and paracetamol 500 for pain.",
+                "Due to my wife's recent illness, she's currently taking Elevit Pronatal for vitamins, and Paracetamol 500 for pain.",
+                "Since my wife fell ill recently, her current medications include Elevit Pronatal for vitamins, and Paracetamol 500 for pain relief.",
+                "Following my wife's recent illness, she's on Elevit Pronatal for vitamins, and Paracetamol 500 for pain management.",
+                "My wife has been unwell lately, and as a result, she's taking Elevit Pronatal for vitamins, and Paracetamol 500 for pain relief."
+            ],
+            "diet": [
+                "nothing particular, and i don't see how her diet would be relevant.",
+                "There's nothing specific, and I'm unsure how her diet could be related.",
+                "No particular factors come to mind, and I'm not understanding the connection to her diet.",
+                "Nothing stands out, and I don't see how her diet would play a role here.",
+                "No specific details come to my attention, and I'm unclear about the relevance of her diet."
+            ],
+            "duration of symptoms": [
+                "she had problems for the past 5 days.",
+                "She's been facing issues for the past 5 days.",
+                "The problems she's been experiencing have been ongoing for the last 5 days.",
+                "For the past 5 days, she's been dealing with problems.",
+                "It's been 5 days since she started having problems."
+            ],
+            "intensity of symptoms": [
+                "well, it was pretty bad but it 's getting better ",
+                "Initially, it was quite severe, but there's improvement now.",
+                "At first, the situation was rather challenging, but it's showing signs of improvement.",
+                "The condition was quite bad initially, but fortunately, it's gradually improving.",
+                "In the beginning, things were quite rough, but the situation is getting better."
+            ],
+            "localization of symptoms": [
+                "her breasts hurt her a lot.",
+                "She's experiencing a lot of pain in her breasts.",
+                "Her breasts are causing her significant discomfort.",
+                "She's in a lot of pain due to her breasts.",
+                "The pain in her breasts is bothering her greatly."
+            ],
+            "medical history": [
+                "i cannot think of anything in her medical history that would be relevant here.",
+                "I'm unable to recall any aspect of her medical history that would be pertinent in this situation.",
+                "As far as I can remember, there's nothing from her medical history that would be applicable here.",
+                "I'm drawing a blank on any details from her medical history that might be relevant in this context.",
+                "I can't think of any specific medical history points that would have relevance in this case."
+            ],
+            "sleep": [
+                "no issue with her sleep, and i don't see how this would be relevant.",
+                "Her sleep is fine, and I'm not sure how this would be related.",
+                "Sleep isn't a problem, and I'm uncertain about its relevance.",
+                "Sleep isn't an issue, and I'm not seeing the connection.",
+                "There are no sleep problems, and I'm not understanding the relevance here."
+            ],
+            "symptoms": [
+                "well she is sick. the doctor told us it was a mastitis.",
+                "Unfortunately, she's unwell. The doctor diagnosed her with mastitis.",
+                "Regrettably, she's not feeling well. The doctor identified her condition as mastitis.",
+                "She's currently under the weather. According to the doctor, it's mastitis.",
+                "She's dealing with an illness right now. The doctor's diagnosis is mastitis."
+            ],
+            "teeth": [
+                "I'm uncertain about how her teeth would factor into this issue."
+            ]
+        },
+        "others": {
+            "all": [
+                "i don't understand.. how is that relevant?"
+            ]
+        }
+    },
+    "relevant_actions": [
+        {
+            "detail": "baby,age",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,diet",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,intensity of symptoms",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's intensity of symptoms.",
+            "type": "interaction"
+        },
+        {
+            "detail": "baby,teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the baby 's teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "mother,current medication",
+            "part": "discuss",
+            "sentence": "i want to know about the mother 's current medication.",
+            "type": "interaction"
+        }
+    ],
+    "subjects": [
+        "grandparents",
+        "father",
+        "baby",
+        "house",
+        "mother",
+        "dog"
+    ],
+    "topics": [
+        "symptoms",
+        "current medication",
+        "age",
+        "intensity of symptoms",
+        "duration of symptoms",
+        "allergies",
+        "localization of symptoms",
+        "sleep",
+        "medical history",
+        "diet",
+        "teeth"
+    ],
+    "valid_actions": {
+        "interaction": [
+            "i want to propose the most probable diagnosis.",
+            "i want to know about the \u201csubject\u201d 's \u201ctopic\u201d."
+        ],
+        "posttest": [
+            "I think the most probable cause behind the problem is \u201ccause\u201d."
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "task_name": "skin",
+  "characters": ["customer", "dog", "customer's child", "house"],
+  "relevant_characters": ["customer"],
+  "problem": "skin problems",
+  "subject": "I",
+  "gender": "female",
+  "age": "21",
+  "illnesses": [
+    "Dry Skin",
+    "Sunburn",
+    "Insect Bites",
+    "Acne",
+    "Eczema",
+    "Athlete's Foot",
+    "Psoriasis",
+    "Rashes",
+    "Warts and Corns",
+    "Cold Sores",
+    "Neurodermatitis"
+  ]
+}

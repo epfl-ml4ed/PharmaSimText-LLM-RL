@@ -1,0 +1,1790 @@
+{
+    "actions": {
+        "interaction": [
+            {
+                "detail": "",
+                "part": "solution",
+                "sentence": "i want to suggest a solution.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Location of Skin Problem",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Location of Skin Problem.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Pregnancy and Breastfeeding",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Pregnancy and Breastfeeding.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Exercise",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Exercise.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Medication History",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Medication History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Current Medications",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Current Medications.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Physical Contact",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Physical Contact.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Surgical History",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Surgical History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Skin Care Routine",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Skin Care Routine.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Appearance of the Skin Issue",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Appearance of the Skin Issue.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Previous Skin Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Previous Skin Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Underlying Medical Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Underlying Medical Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Recent Outdoor Activities",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Recent Outdoor Activities.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Skin Sensations",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Skin Sensations.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Symptom Triggers and Relievers",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Symptom Triggers and Relievers.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Age",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Diet",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Hygienic Practices",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Hygienic Practices.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer,Onset and Duration",
+                "part": "discuss",
+                "sentence": "i want to know about the customer 's Onset and Duration.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Location of Skin Problem",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Location of Skin Problem.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Pregnancy and Breastfeeding",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Pregnancy and Breastfeeding.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Exercise",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Exercise.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Medication History",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Medication History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Current Medications",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Current Medications.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Physical Contact",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Physical Contact.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Surgical History",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Surgical History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Skin Care Routine",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Skin Care Routine.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Appearance of the Skin Issue",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Appearance of the Skin Issue.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Previous Skin Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Previous Skin Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Underlying Medical Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Underlying Medical Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Recent Outdoor Activities",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Recent Outdoor Activities.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Skin Sensations",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Skin Sensations.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Symptom Triggers and Relievers",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Symptom Triggers and Relievers.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Age",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Diet",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Hygienic Practices",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Hygienic Practices.",
+                "type": "interaction"
+            },
+            {
+                "detail": "dog,Onset and Duration",
+                "part": "discuss",
+                "sentence": "i want to know about the dog 's Onset and Duration.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Location of Skin Problem",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Location of Skin Problem.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Pregnancy and Breastfeeding",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Pregnancy and Breastfeeding.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Exercise",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Exercise.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Medication History",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Medication History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Current Medications",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Current Medications.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Physical Contact",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Physical Contact.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Surgical History",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Surgical History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Skin Care Routine",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Skin Care Routine.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Appearance of the Skin Issue",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Appearance of the Skin Issue.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Previous Skin Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Previous Skin Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Underlying Medical Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Underlying Medical Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Recent Outdoor Activities",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Recent Outdoor Activities.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Skin Sensations",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Skin Sensations.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Symptom Triggers and Relievers",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Symptom Triggers and Relievers.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Age",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Diet",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Hygienic Practices",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Hygienic Practices.",
+                "type": "interaction"
+            },
+            {
+                "detail": "customer's child,Onset and Duration",
+                "part": "discuss",
+                "sentence": "i want to know about the customer's child 's Onset and Duration.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Location of Skin Problem",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Location of Skin Problem.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Pregnancy and Breastfeeding",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Pregnancy and Breastfeeding.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Exercise",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Exercise.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Medication History",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Medication History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Current Medications",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Current Medications.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Allergies",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Allergies.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Physical Contact",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Physical Contact.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Surgical History",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Surgical History.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Skin Care Routine",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Skin Care Routine.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Appearance of the Skin Issue",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Appearance of the Skin Issue.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Teeth",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Teeth.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Previous Skin Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Previous Skin Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Underlying Medical Conditions",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Underlying Medical Conditions.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Recent Outdoor Activities",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Recent Outdoor Activities.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Skin Sensations",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Skin Sensations.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Symptom Triggers and Relievers",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Symptom Triggers and Relievers.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Age",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Age.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Sleep",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Sleep.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Diet",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Diet.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Hygienic Practices",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Hygienic Practices.",
+                "type": "interaction"
+            },
+            {
+                "detail": "house,Onset and Duration",
+                "part": "discuss",
+                "sentence": "i want to know about the house 's Onset and Duration.",
+                "type": "interaction"
+            }
+        ],
+        "posttest": [
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Dry Skin",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Sunburn",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Insect Bites",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Acne",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Eczema",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Athlete's Foot",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Psoriasis",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Rashes",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Warts and Corns",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Cold Sores",
+                "type": "posttest"
+            },
+            {
+                "detail": "",
+                "part": "",
+                "sentence": "Neurodermatitis",
+                "type": "posttest"
+            }
+        ]
+    },
+    "causes": [
+        "Dry Skin",
+        "Sunburn",
+        "Insect Bites",
+        "Acne",
+        "Eczema",
+        "Athlete's Foot",
+        "Psoriasis",
+        "Rashes",
+        "Warts and Corns",
+        "Cold Sores",
+        "Neurodermatitis"
+    ],
+    "characters": [
+        "customer",
+        "others"
+    ],
+    "document": {
+        "allergy prevention": [
+            "Allergy Prevention: Allergic diseases often run in families. If a parent or sibling has allergies, asthma, or neurodermatitis, the child faces a higher risk of these conditions. Here are key suggestions for newborns:- Breastfeed exclusively for 6 months if possible.- If breastfeeding isn't possible, use hypoallergenic (HA) milk formula. - Introduce solid foods after 6 months. Avoid common allergy-triggering foods in the first year like cow's milk, eggs, fish, nuts, soy, and chocolate.Controversy exists around allergy prevention methods. HA milk's effectiveness is unclear. Allergies in kids can rise even without family history due to environmental factors. Interestingly, farm-raised kids exposed to animal hair and dirt tend to have fewer allergies. Despite debate, the mentioned recommendations remain in practice.",
+            "Allergy Prevention: Allergic conditions often have a familial link. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's risk increases. Here are key recommendations for newborns: - Aim for exclusive breastfeeding for the initial 6 months if possible. - If breastfeeding isn't viable, consider hypoallergenic (HA) milk formula. - Introduce solid foods after 6 months. Avoid common allergenic foods in the first year, such as cow's milk, eggs, fish, nuts, soy, and chocolate. There's ongoing debate regarding allergy prevention methods. The effectiveness of HA milk is uncertain. Allergies can emerge in children without a family history due to environmental factors. Intriguingly, kids raised on farms and exposed to animal hair and dirt tend to have fewer allergies. Despite differing opinions, the aforementioned recommendations are still practiced.",
+            "Preventing Allergies: Allergic diseases often have a hereditary aspect. If a parent or sibling has allergies, asthma, or neurodermatitis, the child is at a higher risk. Here are important suggestions for newborns: - Strive for exclusive breastfeeding for the initial 6 months, if possible. - In cases where breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Start introducing solid foods after 6 months. Avoid common allergenic foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the first year. There's ongoing debate about methods for allergy prevention. The efficacy of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental influences. Interestingly, children brought up on farms with exposure to animal hair and dirt tend to develop fewer allergies. Despite conflicting opinions, the aforementioned recommendations continue to be practiced.",
+            "Preventing Allergies: Allergic conditions often have a genetic component. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's susceptibility increases. Here are key tips for newborns: - Strive for exclusive breastfeeding for the first 6 months, if feasible. - If breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Begin introducing solid foods after the sixth month. Avoid common allergy-triggering foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the initial year. Ongoing debates surround allergy prevention methods. The effectiveness of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental factors. Interestingly, children raised on farms with exposure to animal hair and dirt tend to have fewer allergies. Despite conflicting views, the recommendations mentioned above continue to be practiced.",
+            "Preventing Allergies: Allergic disorders often have a familial predisposition. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's susceptibility increases. Here are key recommendations for newborns: - Strive for exclusive breastfeeding for the initial 6 months, if feasible. - If breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Begin introducing solid foods after the sixth month. Avoid common allergy-triggering foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the first year. The effectiveness of allergy prevention methods remains a subject of debate. The efficacy of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental influences. Intriguingly, children raised on farms and exposed to animal hair and dirt tend to experience fewer allergies. Despite ongoing discussions, the aforementioned recommendations continue to be implemented."
+        ],
+        "cavities": [
+            "Cavities:Causes: Bacteria break down carbs, creating acid that harms enamel, forming cavities. Newborns lack cavity-causing bacteria initially, but can get it from shared items like pacifiers.Baby Bottle Tooth Decay: Constantly sucking sweet drinks from a bottle harms teeth, including permanent ones.Prevention:- Once teeth emerge, clean daily, especially before bed. Use soft, small-headed brush and child fluoride toothpaste.- Limit sugar intake, delay exposing child to 'sweet' taste.- Avoid continuous bottle sucking (bathes teeth in sugar). Note: Orange juice and milk also have sugar.- For high cavity risk: consider Zymafluor@ 0.25 mg tablets.- For kids over six: use weekly fluoride gel.",
+            "Cavities: Causes stem from bacteria breaking down carbohydrates, producing acid that damages enamel, leading to the formation of cavities. Newborns are initially devoid of cavity-causing bacteria, but exposure can occur through shared items like pacifiers.Baby Bottle Tooth Decay: Continuous consumption of sugary drinks from a bottle can detrimentally impact teeth, including permanent ones.Prevention: - Once teeth emerge, practice daily cleaning, particularly before sleep. Employ a soft, small-headed brush and child-friendly fluoride toothpaste. - Curtail sugar intake and postpone introducing the 'sweet' taste. - Avoid prolonged bottle-sucking (which exposes teeth to sugar). Note: Orange juice and milk also contain sugar. - For those at higher risk of cavities, consider Zymafluor@ 0.25 mg tablets. - For children above six years, employ weekly fluoride gel.",
+            "Cavities: The origins lie in bacteria that metabolize carbohydrates, generating acid that erodes enamel and gives rise to cavities. While newborns initially lack the bacteria responsible, they can be exposed to it through shared items like pacifiers.Baby Bottle Tooth Decay: Prolonged consumption of sugary drinks from a bottle can adversely affect teeth, including the permanent ones.Prevention: - Once teeth appear, establish a routine of daily cleaning, particularly before bedtime. Utilize a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar intake and delay introducing the 'sweet' taste. - Refrain from prolonged bottle-sucking (which bathes teeth in sugar). Note: Orange juice and milk also carry sugar content. - For those at a higher risk of cavities, the option of Zymafluor@ 0.25 mg tablets can be considered. - For children over six, incorporating weekly fluoride gel can be beneficial.",
+            "Cavities: The root cause involves bacteria metabolizing carbohydrates, leading to the production of acid that corrodes enamel and gives rise to cavities. While newborns don't initially harbor the bacteria responsible, exposure can happen through shared items like pacifiers.Baby Bottle Tooth Decay: The prolonged consumption of sugary beverages from a bottle can have detrimental effects on teeth, including permanent ones.Prevention: - Once teeth become visible, initiate a daily cleaning routine, particularly before sleep. Employ a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar consumption and postpone exposing the child to the 'sweet' taste. - Steer clear of extended bottle-sucking (which subjects teeth to sugar). Note: Orange juice and milk also carry sugar content. - For those with heightened cavity susceptibility, contemplating Zymafluor@ 0.25 mg tablets could be worthwhile. - For kids aged six and above, utilizing weekly fluoride gel can prove beneficial.",
+            "Cavities: The underlying cause can be traced back to bacteria breaking down carbohydrates, generating acid that wears away enamel and results in cavities. Although newborns initially lack the bacteria responsible, exposure can occur through shared items such as pacifiers.Baby Bottle Tooth Decay: The continual consumption of sugary beverages from a bottle can have detrimental effects on teeth, including permanent ones.Prevention: - Once teeth start appearing, establish a daily cleaning routine, especially before bedtime. Utilize a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar intake and delay introducing the 'sweet' taste. - Avoid prolonged bottle-sucking (which immerses teeth in sugar). Note: Orange juice and milk also contain sugar. - For those with a higher susceptibility to cavities, considering Zymafluor@ 0.25 mg tablets might be beneficial. - For children aged six and above, using weekly fluoride gel can be advantageous."
+        ],
+        "constipation": [
+            "Constipation: Breastfed babies rarely get constipated due to full breast milk intake. Bottle-fed infants should have daily bowel movements; constipation is fewer than 3 movements a week.Treatment:- Increase fluids, like unsweetened herbal tea or water.- Aim for about five wet diapers a day.- Adjust milk bottle amount if needed.- For older infants, watch diet. Foods like carrots, rice, and bananas can cause constipation. Choose fennel, zucchini, pears, applesauce, fruit juices, and yogurt.- Gently massage baby's belly in a clockwise direction to aid digestion.",
+            "Constipation: Breastfed infants rarely experience constipation due to the complete breast milk diet. For bottle-fed babies, daily bowel movements are expected; constipation is indicated by fewer than 3 movements a week.Treatment: - Increase fluid intake, offering unsweetened herbal tea or water. - Aim for approximately five wet diapers per day. - Adjust the amount in milk bottles if necessary. - For older infants, monitor their diet. Foods such as carrots, rice, and bananas can lead to constipation. Opt for options like fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Gently massage the baby's belly in a clockwise direction to assist digestion.",
+            "Constipation: Breastfed infants tend to have minimal constipation due to their exclusive breast milk consumption. On the other hand, for bottle-fed babies, daily bowel movements are the norm; constipation is defined as less than 3 movements per week.Treatment: - Encourage increased fluid intake, providing unsweetened herbal tea or water. - Aim for around five wet diapers each day. - Adjust the quantity in milk bottles as needed. - For older infants, be attentive to their diet. Foods like carrots, rice, and bananas can contribute to constipation. Opt for alternatives such as fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Employ gentle clockwise belly massages to aid digestion.",
+            "Constipation: Breastfed infants rarely encounter constipation due to their intake of complete breast milk. Bottle-fed babies, on the other hand, are expected to have daily bowel movements; constipation is indicated by fewer than 3 movements per week.Treatment: - Enhance fluid intake with options like unsweetened herbal tea or water. - Strive for roughly five wet diapers every day. - Adjust the quantity in milk bottles if necessary. - For older infants, monitor their diet. Foods like carrots, rice, and bananas can lead to constipation. Opt for choices such as fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Employ a gentle clockwise massage on the baby's abdomen to aid digestion.",
+            "Constipation: Breastfed babies tend to experience minimal constipation due to the full breast milk diet. In contrast, bottle-fed infants should have daily bowel movements; constipation is characterized by less than 3 movements per week.Treatment: - Promote increased fluid intake, offering choices like unsweetened herbal tea or water. - Strive for approximately five wet diapers per day. - Adjust the amount in milk bottles if needed. - For older infants, monitor their diet. Foods like carrots, rice, and bananas can contribute to constipation. Opt for alternatives like fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Gently massage the baby's belly in a clockwise direction to aid digestion."
+        ],
+        "diaper rash and diaper rash fungus": [
+            "Diaper Rash: Skin irritation on the buttocks, can lead to microbial or fungal infection (breech mycosis).Symptoms:- Diaper rash: Widespread redness under diapers, quick development, red and tight skin, blisters.- Breech mycosis: Well-defined redness, scaly edges, sometimes vesicles and pustules, bad odor.Causes of Diaper Rash:- Moisture from stool and urine, diaper heat trigger rash.- Risk factors: diarrhea, acidic foods, antibiotics, friction from diapers, irritant sensitivity, diet changes, teething.Breech Fungus:- Diaper rash encourages fungal growth (like candida albicans) after about three days.- Fungus can spread throughout the digestive system, leading to thrush.",
+            "Diaper Rash: Skin irritation that occurs on the buttocks, which can progress to microbial or fungal infections, known as breech mycosis.Symptoms: - Diaper rash: Widespread redness beneath the diaper, rapid onset, skin appearing red and tight, sometimes with blisters. - Breech mycosis: Distinct redness, scaliness at the edges, occasional vesicles and pustules, accompanied by an unpleasant odor.Causes of Diaper Rash: - Moisture from stool and urine, combined with the warmth of the diaper, can trigger rash formation. - Risk factors: diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, changes in diet, teething.Breech Fungus: - Diaper rash paves the way for fungal growth (such as candida albicans) after approximately three days. - The fungus can potentially spread throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: A condition involving skin irritation on the buttocks, which can progress to microbial or fungal infections known as breech mycosis.Symptoms: - Diaper rash: Widespread redness underneath diapers, rapid development, skin appearing red and taut, with potential blistering. - Breech mycosis: Clearly defined redness, edges displaying scaliness, potential vesicles and pustules, accompanied by an unpleasant smell.Causes of Diaper Rash: - Exposure to moisture from stool and urine, along with diaper warmth, can trigger the onset of rashes. - Risk factors include diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, dietary changes, and teething.Breech Fungus: - Diaper rash creates a conducive environment for fungal growth, such as candida albicans, approximately after three days. - The fungus can potentially spread throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: A condition characterized by skin irritation on the buttocks, which can potentially evolve into microbial or fungal infections, referred to as breech mycosis.Symptoms: - Diaper rash: Extensive redness beneath diapers, rapid emergence, skin appearing red and tense, occasionally with blistering. - Breech mycosis: Clearly defined redness, scaliness around the edges, possible presence of vesicles and pustules, often accompanied by an unpleasant odor.Causes of Diaper Rash: - Dampness from stool and urine, coupled with the warmth of the diaper, can trigger rash formation. - Risk factors encompass diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, dietary modifications, and teething.Breech Fungus: - Diaper rash sets the stage for fungal growth, such as candida albicans, typically after about three days. - The fungus has the potential to propagate throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: An issue involving skin irritation on the buttocks, which can progress to microbial or fungal infections called breech mycosis.Symptoms: - Diaper rash: Extensive redness beneath diapers, swift onset, skin appearing red and taut, sometimes accompanied by blisters. - Breech mycosis: Well-defined redness, scaliness at the edges, potential presence of vesicles and pustules, often associated with an unpleasant smell.Causes of Diaper Rash: - Moisture from stool and urine, combined with diaper warmth, can trigger rash development. - Risk factors encompass diarrhea, consumption of acidic foods, antibiotic usage, diaper friction, irritant sensitivity, dietary alterations, and teething.Breech Fungus: - Diaper rash fosters fungal growth, such as candida albicans, usually after about three days. - This fungus has the potential to spread through the digestive system, leading to the emergence of thrush."
+        ],
+        "diarrhea and vomiting causes and critical symptoms": [
+            "Diarrhea and vomiting are common in infants and young children. For infants under one year with severe diarrhea or vomiting, seek medical help due to rapid water loss risk. Breastfed babies and those on prebiotic-fiber formulas have looser stools, not necessarily diarrhea. Consider diet and stool consistency.Critical Symptoms:- Weight loss over 5 percent.- Apathy, fast breathing.- Sunken eyes, dry lips, pale skin, fontanel depression.- Fever indicates infection.- No urination (dry diapers).Causes:- Food issues: unusual or spoiled food, bacteria, viruses, worms.- Digestive weakness, prematurity, metabolic issues (gluten, lactose, cow's milk intolerance), allergy tendency.- Antibiotics' effects.- Emotional stress, teething.Remember, younger children dehydrate faster, risking coma and worse. Quick medical attention is vital.",
+            "Diarrhea and vomiting are common occurrences in infants and young children. For infants below one year facing severe diarrhea or vomiting, seeking medical assistance is imperative due to the risk of rapid water loss. It's important to note that breastfed babies and those on prebiotic-fiber formulas might experience looser stools, which doesn't necessarily equate to diarrhea. Take into consideration the baby's diet and stool consistency.Critical Symptoms: - Weight loss exceeding 5 percent of body weight. - Apathy and rapid breathing. - Noteworthy signs like sunken eyes, dry lips, pale skin, fontanel depression (soft spot on the head). - The presence of fever may indicate an infection. - Absence of urination (dry diapers).Causes: - Food-related issues such as consumption of unusual or spoiled food, bacterial or viral infections, or presence of worms. - Digestive weaknesses, prematurity, metabolic conditions (like gluten, lactose, or cow's milk intolerance), and a tendency towards allergies. - The impact of antibiotics on the gastrointestinal system. - Emotional stress and teething.Remember, younger children are more susceptible to dehydration, which can lead to serious consequences like coma. Swift medical attention is absolutely crucial.",
+            "Diarrhea and vomiting are common occurrences among infants and young children. In the case of infants under one year experiencing severe diarrhea or vomiting, seeking medical assistance is highly advised due to the potential risk of rapid water loss. It's worth noting that breastfed babies and those consuming prebiotic-fiber formulas may exhibit looser stools, which doesn't necessarily indicate diarrhea. It's important to consider both the baby's diet and the consistency of their stools.Critical Symptoms: - Weight loss exceeding 5 percent of their body weight. - Signs of lethargy and rapid breathing. - Noticeable physical indicators like sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever could indicate an underlying infection. - A lack of urination, leading to dry diapers.Causes: - Factors related to food, such as consumption of unusual or spoiled items, exposure to bacterial or viral agents, or even the presence of worms. - Underlying digestive weaknesses, prematurity, metabolic conditions (such as gluten, lactose, or cow's milk intolerance), and a propensity toward allergies. - The potential impact of antibiotics on the digestive system. - Emotional stress and the teething process.It's crucial to remember that younger children are more susceptible to dehydration, which can escalate to serious outcomes like coma. Swift medical attention is of utmost importance.",
+            "Diarrhea and vomiting are commonly encountered issues in infants and young children. For infants below the age of one experiencing severe diarrhea or vomiting, it's essential to seek medical help due to the risk of rapid fluid loss. It's important to understand that breastfed infants and those on prebiotic-fiber formulas may have stools with a looser consistency, which doesn't necessarily indicate diarrhea. Be mindful of the baby's diet and the texture of their stools.Critical Symptoms: - Weight loss surpassing 5 percent of their body weight. - Displaying signs of lethargy and rapid breathing. - Notable physical manifestations such as sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever might point to an underlying infection. - Absence of urination leading to dry diapers.Causes: - Factors related to food, including consumption of unusual or spoiled foods, exposure to bacterial or viral agents, or even the presence of worms. - Potential underlying digestive weaknesses, prematurity, metabolic conditions (like gluten, lactose, or cow's milk intolerance), and a tendency toward allergies. - The potential impact of antibiotics on the gastrointestinal system. - Emotional stress and teething.It's vital to keep in mind that younger children are more prone to dehydration, which can lead to severe outcomes like coma. Swift medical intervention is absolutely essential.",
+            "Diarrhea and vomiting are commonly observed occurrences in infants and young children. When infants under the age of one encounter severe diarrhea or vomiting, it's crucial to seek medical assistance due to the inherent risk of rapid fluid loss. It's noteworthy that breastfed infants and those consuming prebiotic-fiber formulas may exhibit stools with a looser consistency, which doesn't necessarily point to diarrhea. It's advisable to consider both the baby's dietary intake and the nature of their stools.Critical Symptoms: - Weight loss exceeding 5 percent of their body weight. - Manifestations of lethargy and rapid breathing. - Observable physical signs like sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever may indicate an underlying infection. - A lack of urination leading to dry diapers.Causes: - Factors related to food, encompassing consumption of uncommon or spoiled items, exposure to bacterial or viral agents, or the presence of worms. - Possible underlying digestive vulnerabilities, prematurity, metabolic conditions (such as gluten, lactose, or cow's milk intolerance), and a predisposition to allergies. - The potential influence of antibiotics on the gastrointestinal system. - Emotional stress and the process of teething.It's crucial to recognize that younger children are more prone to dehydration, which can escalate to serious consequences like coma. Swift medical attention is imperative."
+        ],
+        "diarrhea and vomiting treatment methods": [
+            "Diarrhea Treatment:- Provide fluids: offer small, frequent drinks like sweetened tea or breast milk. Avoid fruit juice.- Consider electrolyte solution if needed.- Avoid newly introduced foods; opt for easily digestible options like crackers.- For severe cases, replace regular milk/porridge with a special food.- Gradually reintroduce usual diet with small, frequent meals, emphasizing rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, blueberries.Additional Tips:- Change diapers often.- Use protective ointment to prevent diaper rash.- If condition worsens, seek medical attention.Recommended Products for Digestive Issues:- Lactose-free dietary formula for diarrhea, suitable from birth.- Hypoallergenic formula for digestive issues, contains bifidus bacteria, suitable from birth.- Special dietary food with rice, corn, and carrots for diarrhea, not for cow's milk intolerance, suitable from 6 months.- Reconstitution of intestinal flora products.- Peristalsis inhibitors and carbon adsorbents not recommended for kids under two.- Antiemetics only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid intake by offering small, frequent sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - If necessary, consider electrolyte solutions to maintain hydration. - Opt for easily digestible options like crackers and avoid recently introduced foods. - In severe cases, replace regular milk or porridge with a specialized food. - Gradually reintroduce the usual diet with small, frequent meals, focusing on items like rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Change diapers frequently. - Apply protective ointment to prevent diaper rash. - If the condition worsens, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula designed for diarrhea, suitable from birth. - Hypoallergenic formula for addressing digestive problems, containing bifidus bacteria, suitable from birth. - Special dietary food containing rice, corn, and carrots for diarrhea, not intended for cow's milk intolerance, suitable from 6 months. - Products for reconstituting intestinal flora. - Peristalsis inhibitors and carbon adsorbents not recommended for children under two. - Antiemetics recommended only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid replenishment with small, frequent sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - In cases where it's warranted, consider electrolyte solutions to restore balance. - Opt for easily digestible options like crackers and avoid recently introduced foods. - In severe instances, substitute regular milk or porridge with a specialized food. - Gradually reintroduce the usual diet through small, frequent meals, focusing on elements such as rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Change diapers frequently. - Apply protective ointment to prevent diaper rash. - If the condition deteriorates, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula formulated for diarrhea, suitable from birth. - Hypoallergenic formula addressing digestive concerns, containing bifidus bacteria, suitable from birth. - Specialized dietary food containing rice, corn, and carrots for diarrhea, not for cow's milk intolerance, suitable from 6 months. - Products facilitating the reconstitution of intestinal flora. - Peristalsis inhibitors and carbon adsorbents are not advisable for children under two. - Antiemetics are to be considered only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Emphasize fluid intake by providing frequent, small sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - If necessary, consider electrolyte solutions to maintain hydration levels. - Opt for easily digestible options like crackers while steering clear of recently introduced foods. - In severe cases, replace regular milk or porridge with a specialized dietary option. - Gradually reintroduce the typical diet through small, frequent meals, giving preference to components like rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Ensure diapers are changed often. - Employ protective ointment to prevent diaper rash. - If the condition worsens, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula designed to address diarrhea, suitable from birth. - Hypoallergenic formula with bifidus bacteria, suitable from birth to tackle digestive concerns. - Specialized dietary food containing rice, corn, and carrots for diarrhea, intended for those without cow's milk intolerance, suitable from 6 months. - Products aiding in the restoration of intestinal flora. - Note that peristalsis inhibitors and carbon adsorbents are not recommended for children under two. - Antiemetics should only be considered for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid consumption with regular, small sips of beverages like sweetened tea or breast milk. It's advisable to avoid fruit juices. - If required, electrolyte solutions can be considered to sustain adequate hydration. - Opt for easily digestible options like crackers and steer clear of recently introduced foods. - In severe instances, replace standard milk or porridge with a specialized dietary alternative. - Gradually reintroduce the customary diet via small, frequent meals, with an emphasis on components such as rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Maintain frequent diaper changes. - Utilize protective ointment to prevent diaper rash. - In case the condition escalates, seek medical assistance.Recommended Products for Digestive Issues: - Lactose-free dietary formula formulated for diarrhea, suitable from birth. - Hypoallergenic formula containing bifidus bacteria, suitable from birth to address digestive issues. - Special dietary food featuring rice, corn, and carrots for diarrhea, intended for those without cow's milk intolerance, suitable from 6 months. - Products facilitating the reconstitution of intestinal flora. - Note that peristalsis inhibitors and carbon adsorbents are not recommended for children under two. - Antiemetics should only be utilized for severe vomiting or motion sickness."
+        ],
+        "regurgitation": [
+            "Regurgitation: Newborns sometimes spit up small milk amounts after eating, different from vomiting. Signs include immediate milk spitting, no change in milk appearance, no curdling or smell.Causes: Fast feeding, tense atmosphere, large nipple hole, excessive food intake, air swallowing, moving after eating.Treatment: Address the cause, elevate bed head. Fennel tea might help. Thicken infant milk with products containing carob seed flour. It aids digestion, reducing reflux. Two options: add to milk (watch weight) or use ready-to-use thickened products.",
+            "Regurgitation: Infants occasionally expel small amounts of milk after feeding, distinct from vomiting. Characteristics include immediate milk expulsion, unchanged milk appearance, and no curdling or odor.Causes: Rapid feeding, tense environment, larger nipple hole, excessive food consumption, swallowing air, moving after eating.Treatment: Address the underlying cause, elevate the head of the bed. Fennel tea may provide relief. Thickening infant milk with products containing carob seed flour can be beneficial. It aids digestion and reduces reflux. Two options: add to milk (monitor weight) or use ready-to-use thickened products.",
+            "Regurgitation: Newborns sometimes release small milk quantities after feeding, differentiating it from vomiting. Notable features include immediate milk expulsion, unchanged milk appearance, and an absence of curdling or odor.Causes: Rapid feeding, a tense atmosphere, a larger nipple hole, excessive food intake, air swallowing, movement after eating.Treatment: Address the root cause, elevate the head of the bed. Fennel tea might offer relief. Thicken infant milk with carob seed flour-containing products, which aids digestion and minimizes reflux. Two choices: add to milk (monitor weight) or opt for ready-to-use thickened products.",
+            "Regurgitation: Among newborns, occasional expulsion of small milk amounts after feeding can occur, distinct from vomiting. This involves immediate milk spitting, unchanged milk appearance, and no curdling or odor.Causes: Fast feeding, a tense environment, a larger nipple hole, excessive food intake, swallowing air, post-feeding movement.Treatment: Address the underlying trigger, elevate the bed head. Fennel tea might offer relief. Consider thickening infant milk with carob seed flour-containing products, aiding digestion and reducing reflux. Two approaches: adding to milk (while monitoring weight) or opting for ready-to-use thickened products.",
+            "Regurgitation: Infants may occasionally expel small milk quantities after feeding, separate from vomiting. Key features include immediate milk expulsion, unchanged milk appearance, and absence of curdling or odor.Causes: Rapid feeding, a tense setting, a larger nipple opening, excessive food intake, air ingestion, movement post-feeding.Treatment: Address the cause, elevate the head of the bed. Fennel tea could offer relief. Thickening infant milk with products containing carob seed flour can assist digestion and decrease reflux. Two choices: incorporate into milk (with weight monitoring) or utilize pre-thickened products."
+        ],
+        "supplementary foods": [
+            "Infants are solely milk-fed for the first 4 to 6 months. Between 4 to 7 months, complementary spoon-fed foods are introduced. Two conditions for spoon-feeding: head control and chewing ability, plus developed digestion.If a baby can't tolerate porridge or puree (due to cramps, diarrhea, vomiting, refusal), switch back to milk-only diet.Introducing New Foods:- Introduce new foods separately, small amounts, when the baby's healthy.- Wait 4-5 days before the next food, to spot any intolerances.",
+            "Infants rely entirely on milk for the initial 4 to 6 months. Between 4 to 7 months, supplementary spoon-fed foods are introduced. Two prerequisites for spoon-feeding are head control and chewing capabilities, alongside matured digestion. If a baby struggles with porridge or puree (due to cramps, diarrhea, vomiting, or refusal), revert to a milk-only diet. When introducing new foods: - Introduce them separately, in small amounts, when the baby is in good health. - Allow 4-5 days before introducing the next food, to observe any signs of intolerances.",
+            "During the first 4 to 6 months, infants are exclusively nourished with milk. Between 4 to 7 months, complementary spoon-fed foods are introduced. Two prerequisites for spoon-feeding are the ability to control the head and chew, alongside developed digestion. If a baby has difficulty tolerating porridge or puree (due to cramps, diarrhea, vomiting, or refusal), revert to a milk-only diet. When introducing new foods: - Introduce them one at a time, in small portions, when the baby is in good health. - Allow 4-5 days before introducing the next food, in order to detect any potential intolerances.",
+            "For the initial 4 to 6 months, infants rely solely on milk for nourishment. Between 4 to 7 months, supplementary spoon-fed foods come into play. Head control and chewing proficiency, combined with advanced digestion, are prerequisites for introducing spoon-fed foods. In case a baby struggles with porridge or puree (due to cramps, diarrhea, vomiting, or refusal), return to an exclusive milk diet. When introducing new foods: - Present them separately, in small quantities, when the baby is in good health. - Allow 4-5 days before introducing the next food, to identify any potential intolerances.",
+            "During the initial 4 to 6 months, infants are exclusively nourished with milk. Between 4 to 7 months, the introduction of complementary spoon-fed foods begins. For spoon-feeding, two prerequisites are essential: the ability to control the head and chew, in addition to well-developed digestion. If a baby has difficulty tolerating porridge or puree (possibly due to cramps, diarrhea, vomiting, or refusal), it's advisable to revert to a milk-only diet. When introducing new foods: - Introduce them individually, in small portions, when the baby is in good health. - Allow a 4-5 day interval before introducing the next food, to observe any potential intolerances."
+        ],
+        "teething": [
+            "Teething: About half of infants experience teething problems, often linked to discomfort. Symptoms include red, swollen, sensitive gums, excessive drooling, and biting objects. Cheek and buttock redness might occur. Teething can trigger issues like fever, agitation, moodiness, disrupted sleep, and digestive problems. These symptoms can arise during any teething episode.Between 6 to 12 months, most children get six teeth. Teething continues nearly constantly by age two. A typical first set of teeth includes 20 baby teeth.",
+            "Teething: Approximately half of infants go through teething issues, frequently associated with discomfort. Signs encompass red, swollen, tender gums, excessive drooling, and biting on objects. Redness on cheeks and buttocks might also be present. Teething can lead to problems like fever, irritability, mood swings, disrupted sleep, and digestive disturbances. These symptoms can emerge in any teething episode. From 6 to 12 months, most children develop six teeth. Teething persists almost continuously until around age two. An initial set of 20 baby teeth is standard.",
+            "Teething: Around half of infants experience teething troubles, often accompanied by discomfort. Symptoms include red, swollen, and sensitive gums, along with increased drooling and a tendency to bite objects. There might be redness on the cheeks and buttocks. Teething can lead to challenges such as fever, restlessness, changes in mood, sleep disruptions, and digestive issues. These symptoms can appear during any episode of teething. Between 6 to 12 months, most children acquire six teeth. Teething remains nearly constant until about the age of two. A typical first set of teeth includes a total of 20 baby teeth.",
+            "Teething: Roughly half of infants encounter teething difficulties, often tied to discomfort. Signs encompass inflamed, swollen, and sensitive gums, alongside increased drooling and a tendency to bite objects. Redness on the cheeks and buttocks can also occur. Teething can lead to problems like fever, irritability, mood changes, disrupted sleep, and digestive disturbances. These symptoms can manifest during any teething episode. Most children develop six teeth between 6 to 12 months. Teething persists consistently until approximately age two. A typical initial set comprises 20 baby teeth.",
+            "Teething: About fifty percent of infants face teething challenges, frequently associated with discomfort. Indications include reddened, swollen, and tender gums, as well as excessive drooling and a penchant for biting objects. Cheek and buttock redness might also manifest. Teething can provoke issues like fever, restlessness, mood fluctuations, interrupted sleep, and digestive disruptions. These symptoms can emerge at any point during teething. From 6 to 12 months, most children acquire six teeth. Teething continues almost incessantly until around age two. The typical initial set consists of 20 baby teeth."
+        ]
+    },
+    "document_actions": [
+        {
+            "detail": "allergy prevention",
+            "part": "document",
+            "sentence": "i want to read about allergy prevention.",
+            "type": "interaction"
+        },
+        {
+            "detail": "teething",
+            "part": "document",
+            "sentence": "i want to read about teething.",
+            "type": "interaction"
+        },
+        {
+            "detail": "regurgitation",
+            "part": "document",
+            "sentence": "i want to read about regurgitation.",
+            "type": "interaction"
+        },
+        {
+            "detail": "diaper rash and diaper rash fungus",
+            "part": "document",
+            "sentence": "i want to read about diaper rash and diaper rash fungus.",
+            "type": "interaction"
+        },
+        {
+            "detail": "constipation",
+            "part": "document",
+            "sentence": "i want to read about constipation.",
+            "type": "interaction"
+        },
+        {
+            "detail": "supplementary foods",
+            "part": "document",
+            "sentence": "i want to read about supplementary foods.",
+            "type": "interaction"
+        },
+        {
+            "detail": "cavities",
+            "part": "document",
+            "sentence": "i want to read about cavities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "diarrhea and vomiting treatment methods",
+            "part": "document",
+            "sentence": "i want to read about diarrhea and vomiting treatment methods.",
+            "type": "interaction"
+        },
+        {
+            "detail": "diarrhea and vomiting causes and critical symptoms",
+            "part": "document",
+            "sentence": "i want to read about diarrhea and vomiting causes and critical symptoms.",
+            "type": "interaction"
+        }
+    ],
+    "initial_state": [
+        "interaction",
+        "I have skin problems. can you help?"
+    ],
+    "interaction": [
+        {
+            "detail": "",
+            "part": "solution",
+            "sentence": "i want to suggest a solution.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Location of Skin Problem",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Location of Skin Problem.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Pregnancy and Breastfeeding",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Pregnancy and Breastfeeding.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Exercise",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Exercise.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Medication History",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Medication History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Current Medications",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Current Medications.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Physical Contact",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Physical Contact.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Surgical History",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Surgical History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Skin Care Routine",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Skin Care Routine.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Appearance of the Skin Issue",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Appearance of the Skin Issue.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Previous Skin Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Previous Skin Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Underlying Medical Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Underlying Medical Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Recent Outdoor Activities",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Recent Outdoor Activities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Skin Sensations",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Skin Sensations.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Symptom Triggers and Relievers",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Symptom Triggers and Relievers.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Age",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Diet",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Hygienic Practices",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Hygienic Practices.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Onset and Duration",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Onset and Duration.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Location of Skin Problem",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Location of Skin Problem.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Pregnancy and Breastfeeding",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Pregnancy and Breastfeeding.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Exercise",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Exercise.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Medication History",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Medication History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Current Medications",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Current Medications.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Physical Contact",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Physical Contact.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Surgical History",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Surgical History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Skin Care Routine",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Skin Care Routine.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Appearance of the Skin Issue",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Appearance of the Skin Issue.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Previous Skin Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Previous Skin Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Underlying Medical Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Underlying Medical Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Recent Outdoor Activities",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Recent Outdoor Activities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Skin Sensations",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Skin Sensations.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Symptom Triggers and Relievers",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Symptom Triggers and Relievers.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Age",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Diet",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Hygienic Practices",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Hygienic Practices.",
+            "type": "interaction"
+        },
+        {
+            "detail": "dog,Onset and Duration",
+            "part": "discuss",
+            "sentence": "i want to know about the dog 's Onset and Duration.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Location of Skin Problem",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Location of Skin Problem.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Pregnancy and Breastfeeding",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Pregnancy and Breastfeeding.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Exercise",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Exercise.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Medication History",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Medication History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Current Medications",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Current Medications.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Physical Contact",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Physical Contact.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Surgical History",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Surgical History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Skin Care Routine",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Skin Care Routine.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Appearance of the Skin Issue",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Appearance of the Skin Issue.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Previous Skin Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Previous Skin Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Underlying Medical Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Underlying Medical Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Recent Outdoor Activities",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Recent Outdoor Activities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Skin Sensations",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Skin Sensations.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Symptom Triggers and Relievers",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Symptom Triggers and Relievers.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Age",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Diet",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Hygienic Practices",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Hygienic Practices.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer's child,Onset and Duration",
+            "part": "discuss",
+            "sentence": "i want to know about the customer's child 's Onset and Duration.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Location of Skin Problem",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Location of Skin Problem.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Pregnancy and Breastfeeding",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Pregnancy and Breastfeeding.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Exercise",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Exercise.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Medication History",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Medication History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Current Medications",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Current Medications.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Allergies",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Allergies.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Physical Contact",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Physical Contact.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Surgical History",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Surgical History.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Skin Care Routine",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Skin Care Routine.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Appearance of the Skin Issue",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Appearance of the Skin Issue.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Teeth",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Teeth.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Previous Skin Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Previous Skin Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Underlying Medical Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Underlying Medical Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Recent Outdoor Activities",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Recent Outdoor Activities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Skin Sensations",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Skin Sensations.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Symptom Triggers and Relievers",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Symptom Triggers and Relievers.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Age",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Age.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Sleep",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Sleep.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Diet",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Diet.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Hygienic Practices",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Hygienic Practices.",
+            "type": "interaction"
+        },
+        {
+            "detail": "house,Onset and Duration",
+            "part": "discuss",
+            "sentence": "i want to know about the house 's Onset and Duration.",
+            "type": "interaction"
+        }
+    ],
+    "keyword_strings": [],
+    "keywords": [],
+    "name": "Insect Bites",
+    "posttest_as": [
+        {
+            "detail": "",
+            "part": "",
+            "sentence": "Insect Bites",
+            "type": "posttest"
+        }
+    ],
+    "posttest_qs": [
+        "What is the most probable cause of the customer's problem?"
+    ],
+    "present_actions": [
+        {
+            "detail": "customer,Location of Skin Problem",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Location of Skin Problem.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Appearance of the Skin Issue",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Appearance of the Skin Issue.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Onset and Duration",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Onset and Duration.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Symptom Triggers and Relievers",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Symptom Triggers and Relievers.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Skin Sensations",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Skin Sensations.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Recent Outdoor Activities",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Recent Outdoor Activities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Skin Care Routine",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Skin Care Routine.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Previous Skin Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Previous Skin Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Hygienic Practices",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Hygienic Practices.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Physical Contact",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Physical Contact.",
+            "type": "interaction"
+        }
+    ],
+    "problem": "skin problems",
+    "question_answers": {
+        "customer": {
+            "Age": [
+                "I'm 21."
+            ],
+            "Allergies": [
+                "No known allergies that I'm aware of.",
+                "To the best of my knowledge, I don't have any known allergies."
+            ],
+            "Appearance of the Skin Issue": [
+                "They look like tiny red dots, and they itch like crazy!",
+                "I've noticed these small red dots that appear and they itch intensely!",
+                "There are these tiny red dots that I've noticed, and they itch like crazy!",
+                "I've been seeing these little red dots that look like tiny dots, and they itch a lot!",
+                "There are these tiny red dots that I've been noticing, and they itch like crazy!",
+                "I've observed these small red dots that seem to be appearing, and they itch intensely!",
+                "There are these tiny red dots that I've been seeing, and they itch a lot!",
+                "I've noticed these small red dots that look like tiny dots, and they itch intensely!",
+                "There are these tiny red dots that I've noticed, and they itch a lot!",
+                "I've been seeing these little red dots that appear, and they itch like crazy!"
+            ],
+            "Current Medications": [
+                "Just the birth control pill and a vitamin supplement.",
+                "I'm only taking the birth control pill and a vitamin supplement.",
+                "My medication regimen consists solely of the birth control pill and a vitamin supplement.",
+                "The only medications I'm currently taking are the birth control pill and a vitamin supplement.",
+                "I'm solely relying on the birth control pill and a vitamin supplement for my medication needs.",
+                "My medication intake is limited to the birth control pill and a vitamin supplement.",
+                "I'm exclusively using the birth control pill and a vitamin supplement as my medications.",
+                "The only pills I'm taking are the birth control pill and a vitamin supplement.",
+                "I'm solely prescribed the birth control pill and a vitamin supplement.",
+                "My medication routine includes only the birth control pill and a vitamin supplement."
+            ],
+            "Diet": [
+                "I try to eat healthy, lots of veggies and I drink plenty of water.",
+                "I make an effort to maintain a healthy diet by consuming a lot of vegetables and ensuring I stay hydrated by drinking plenty of water.",
+                "I strive to eat healthily, incorporating a significant amount of vegetables into my diet and ensuring I stay well-hydrated by drinking an ample amount of water.",
+                "I consciously choose to eat a nutritious diet, which includes a generous portion of vegetables, and I prioritize hydration by consuming plenty of water.",
+                "I make it a point to eat healthily, with a focus on consuming a variety of vegetables, and I ensure I stay hydrated by drinking a sufficient amount of water.",
+                "I am committed to maintaining a healthy eating pattern, which involves consuming a substantial amount of vegetables, and I prioritize hydration by drinking an abundant amount of water.",
+                "I actively pursue a healthy diet by incorporating a significant amount of vegetables into my meals, and I prioritize hydration by consuming a generous amount of water.",
+                "I consciously make choices to eat healthily, emphasizing the consumption of vegetables, and I ensure I stay well-hydrated by drinking plenty of water.",
+                "I am dedicated to following a healthy eating regimen, which includes a substantial intake of vegetables, and I prioritize hydration by drinking a plentiful amount of water.",
+                "I put effort into eating a nutritious diet, with a focus on consuming a lot of vegetables, and I prioritize hydration by drinking plenty of water."
+            ],
+            "Exercise": [
+                "I go for runs a few times a week, nothing too intense.",
+                "I engage in running a few times a week, but it's not too intense.",
+                "I participate in running a few times a week, but it's not overly strenuous.",
+                "I go for runs a few times a week, but they are not too demanding.",
+                "I do some running a few times a week, but it's not too rigorous.",
+                "I take part in running a few times a week, but it's not too challenging.",
+                "I go for runs a few times a week, but they are not too demanding.",
+                "I engage in running a few times a week, but it's not too rigorous.",
+                "I participate in running a few times a week, but it's not too intense.",
+                "I do some running a few times a week, but it's not too intense."
+            ],
+            "Hygienic Practices": [
+                "I haven't really been outdoors much lately.",
+                "I haven't been spending much time outside recently."
+            ],
+            "Location of Skin Problem": [
+                "It's mainly on my hands and face, especially around my cheeks and knuckles.",
+                "The affected areas are primarily my hands and face, particularly around my cheeks and knuckles.",
+                "I notice the most symptoms on my hands and face, specifically around my cheeks and knuckles.",
+                "The areas that are mainly affected are my hands and face, particularly around my cheeks and knuckles.",
+                "I experience the most symptoms on my hands and face, especially around my cheeks and knuckles.",
+                "The affected regions are primarily my hands and face, with a focus on my cheeks and knuckles.",
+                "I primarily notice the symptoms on my hands and face, especially around my cheeks and knuckles.",
+                "The main areas of concern are my hands and face, particularly around my cheeks and knuckles.",
+                "I mainly experience the symptoms on my hands and face, specifically around my cheeks and knuckles.",
+                "The most affected areas are my hands and face, with a particular emphasis on my cheeks and knuckles."
+            ],
+            "Medication History": [
+                "I haven't taken anything for it, no."
+            ],
+            "Onset and Duration": [
+                "Just noticed them this morning after my camping trip.",
+                "I only became aware of them this morning after my camping trip.",
+                "I just noticed them this morning following my camping trip.",
+                "It was only this morning, after my camping trip, that I noticed them.",
+                "After my camping trip, I only noticed them this morning.",
+                "It was this morning, after my camping trip, that I first noticed them.",
+                "Following my camping trip, I just noticed them this morning.",
+                "After my camping trip, I became aware of them only this morning.",
+                "It was only after my camping trip that I noticed them this morning.",
+                "This morning, following my camping trip, I just noticed them."
+            ],
+            "Physical Contact": [
+                "No, I haven't been around anyone with skin issues.",
+                "No, I haven't had any contact with individuals who have skin problems.",
+                "No, I haven't been in close proximity to anyone experiencing skin issues.",
+                "No, I haven't been around anyone who has been dealing with skin problems.",
+                "No, I haven't had any exposure to individuals with skin issues.",
+                "No, I haven't come into contact with anyone who has been experiencing skin problems.",
+                "No, I haven't been near anyone who has been dealing with skin issues.",
+                "No, I haven't had any interaction with individuals who have skin problems.",
+                "No, I haven't been in the presence of anyone with skin issues.",
+                "No, I haven't been around anyone who has been suffering from skin problems."
+            ],
+            "Pregnancy and Breastfeeding": [
+                "Not pregnant and not breastfeeding.",
+                "I am not currently pregnant nor am I breastfeeding.",
+                "I am neither pregnant nor breastfeeding at the moment.",
+                "I can confirm that I am not pregnant and I am not breastfeeding.",
+                "I am not expecting a baby and I am not currently breastfeeding.",
+                "I can assure you that I am not pregnant and I am not breastfeeding.",
+                "I am not carrying a child and I am not breastfeeding at this time.",
+                "I want to clarify that I am not pregnant and I am not breastfeeding.",
+                "I am not in a pregnant state and I am not currently breastfeeding.",
+                "I want to emphasize that I am not pregnant and I am not breastfeeding."
+            ],
+            "Previous Skin Conditions": [
+                "I haven't really been outdoors much lately.",
+                "I haven't been spending much time outside recently."
+            ],
+            "Recent Outdoor Activities": [
+                "Just noticed them this morning after my camping trip.",
+                "I only became aware of them this morning after my camping trip.",
+                "I just noticed them this morning following my camping trip.",
+                "It was only this morning, after my camping trip, that I noticed them.",
+                "After my camping trip, I only noticed them this morning.",
+                "It was this morning, after my camping trip, that I first noticed them.",
+                "Following my camping trip, I just noticed them this morning.",
+                "After my camping trip, I became aware of them only this morning.",
+                "It was only after my camping trip that I noticed them this morning.",
+                "This morning, following my camping trip, I just noticed them."
+            ],
+            "Skin Care Routine": [
+                "I just use a basic cleanser and moisturizer, nothing new.",
+                "I simply use a basic cleanser and moisturizer, nothing different.",
+                "I only use a basic cleanser and moisturizer, nothing new.",
+                "I just stick to a basic cleanser and moisturizer, nothing else.",
+                "I exclusively rely on a basic cleanser and moisturizer, without any changes.",
+                "I solely use a basic cleanser and moisturizer, without trying anything new.",
+                "I exclusively use a basic cleanser and moisturizer, without any variations.",
+                "I solely rely on a basic cleanser and moisturizer, without experimenting with anything different.",
+                "I just use a basic cleanser and moisturizer, without any additions.",
+                "I only stick to a basic cleanser and moisturizer, without trying anything else."
+            ],
+            "Skin Sensations": [
+                "They look like tiny red dots, and they itch like crazy!",
+                "I've noticed these small red dots that appear and they itch intensely!",
+                "There are these tiny red dots that I've noticed, and they itch like crazy!",
+                "I've been seeing these little red dots that look like tiny dots, and they itch a lot!",
+                "There are these tiny red dots that I've been noticing, and they itch like crazy!",
+                "I've observed these small red dots that seem to be appearing, and they itch intensely!",
+                "There are these tiny red dots that I've been seeing, and they itch a lot!",
+                "I've noticed these small red dots that look like tiny dots, and they itch intensely!",
+                "There are these tiny red dots that I've noticed, and they itch a lot!",
+                "I've been seeing these little red dots that appear, and they itch like crazy!"
+            ],
+            "Sleep": [
+                "My sleep's been okay, I guess."
+            ],
+            "Surgical History": [
+                "No surgeries, never had to.",
+                "There have been no surgeries in my medical history.",
+                "There have been no instances where I required surgery.",
+                "There have been no occasions where surgery was necessary."
+            ],
+            "Symptom Triggers and Relievers": [
+                "I haven't really been outdoors much lately.",
+                "I haven't been spending much time outside recently."
+            ],
+            "Teeth": [
+                "No dental issues, I had my check-up last month and all was good.",
+                "I don't have any dental problems. I had my check-up last month, and everything was fine.",
+                "There are no dental issues. I had my check-up last month, and everything was in good condition.",
+                "I don't have any dental concerns. I had my check-up last month, and everything was fine.",
+                "No dental problems to report. I had my check-up last month, and everything was in good shape.",
+                "I'm not experiencing any dental issues. I had my check-up last month, and everything was fine.",
+                "There are no dental concerns. I had my check-up last month, and everything was in good health.",
+                "I don't have any dental problems. I had my check-up last month, and everything was in good order.",
+                "No dental issues to mention. I had my check-up last month, and everything was in good condition.",
+                "I'm not facing any dental problems. I had my check-up last month, and everything was fine."
+            ],
+            "Underlying Medical Conditions": [
+                "Even though I have asthma, I don't think it is relevant."
+            ]
+        },
+        "customer's child": {
+            "Age": [
+                "I don't understand how this is relevant."
+            ],
+            "Allergies": [
+                "I don't understand how this is relevant."
+            ],
+            "Appearance of the Skin Issue": [
+                "I don't understand how this is relevant."
+            ],
+            "Current Medications": [
+                "I don't understand how this is relevant."
+            ],
+            "Diet": [
+                "I don't understand how this is relevant."
+            ],
+            "Exercise": [
+                "I don't understand how this is relevant."
+            ],
+            "Hygienic Practices": [
+                "I don't understand how this is relevant."
+            ],
+            "Location of Skin Problem": [
+                "I don't understand how this is relevant."
+            ],
+            "Medication History": [
+                "I don't understand how this is relevant."
+            ],
+            "Onset and Duration": [
+                "I don't understand how this is relevant."
+            ],
+            "Physical Contact": [
+                "I don't understand how this is relevant."
+            ],
+            "Pregnancy and Breastfeeding": [
+                "I don't understand how this is relevant."
+            ],
+            "Previous Skin Conditions": [
+                "I don't understand how this is relevant."
+            ],
+            "Recent Outdoor Activities": [
+                "I don't understand how this is relevant."
+            ],
+            "Skin Care Routine": [
+                "I don't understand how this is relevant."
+            ],
+            "Skin Sensations": [
+                "I don't understand how this is relevant."
+            ],
+            "Sleep": [
+                "I don't understand how this is relevant."
+            ],
+            "Surgical History": [
+                "I don't understand how this is relevant."
+            ],
+            "Symptom Triggers and Relievers": [
+                "I don't understand how this is relevant."
+            ],
+            "Teeth": [
+                "I don't understand how this is relevant."
+            ],
+            "Underlying Medical Conditions": [
+                "I don't understand how this is relevant."
+            ]
+        },
+        "dog": {
+            "Age": [
+                "I don't understand how this is relevant."
+            ],
+            "Allergies": [
+                "I don't understand how this is relevant."
+            ],
+            "Appearance of the Skin Issue": [
+                "I don't understand how this is relevant."
+            ],
+            "Current Medications": [
+                "I don't understand how this is relevant."
+            ],
+            "Diet": [
+                "I don't understand how this is relevant."
+            ],
+            "Exercise": [
+                "I don't understand how this is relevant."
+            ],
+            "Hygienic Practices": [
+                "I don't understand how this is relevant."
+            ],
+            "Location of Skin Problem": [
+                "I don't understand how this is relevant."
+            ],
+            "Medication History": [
+                "I don't understand how this is relevant."
+            ],
+            "Onset and Duration": [
+                "I don't understand how this is relevant."
+            ],
+            "Physical Contact": [
+                "I don't understand how this is relevant."
+            ],
+            "Pregnancy and Breastfeeding": [
+                "I don't understand how this is relevant."
+            ],
+            "Previous Skin Conditions": [
+                "I don't understand how this is relevant."
+            ],
+            "Recent Outdoor Activities": [
+                "I don't understand how this is relevant."
+            ],
+            "Skin Care Routine": [
+                "I don't understand how this is relevant."
+            ],
+            "Skin Sensations": [
+                "I don't understand how this is relevant."
+            ],
+            "Sleep": [
+                "I don't understand how this is relevant."
+            ],
+            "Surgical History": [
+                "I don't understand how this is relevant."
+            ],
+            "Symptom Triggers and Relievers": [
+                "I don't understand how this is relevant."
+            ],
+            "Teeth": [
+                "I don't understand how this is relevant."
+            ],
+            "Underlying Medical Conditions": [
+                "I don't understand how this is relevant."
+            ]
+        },
+        "house": {
+            "Age": [
+                "I don't understand how this is relevant."
+            ],
+            "Allergies": [
+                "I don't understand how this is relevant."
+            ],
+            "Appearance of the Skin Issue": [
+                "I don't understand how this is relevant."
+            ],
+            "Current Medications": [
+                "I don't understand how this is relevant."
+            ],
+            "Diet": [
+                "I don't understand how this is relevant."
+            ],
+            "Exercise": [
+                "I don't understand how this is relevant."
+            ],
+            "Hygienic Practices": [
+                "I don't understand how this is relevant."
+            ],
+            "Location of Skin Problem": [
+                "I don't understand how this is relevant."
+            ],
+            "Medication History": [
+                "I don't understand how this is relevant."
+            ],
+            "Onset and Duration": [
+                "I don't understand how this is relevant."
+            ],
+            "Physical Contact": [
+                "I don't understand how this is relevant."
+            ],
+            "Pregnancy and Breastfeeding": [
+                "I don't understand how this is relevant."
+            ],
+            "Previous Skin Conditions": [
+                "I don't understand how this is relevant."
+            ],
+            "Recent Outdoor Activities": [
+                "I don't understand how this is relevant."
+            ],
+            "Skin Care Routine": [
+                "I don't understand how this is relevant."
+            ],
+            "Skin Sensations": [
+                "I don't understand how this is relevant."
+            ],
+            "Sleep": [
+                "I don't understand how this is relevant."
+            ],
+            "Surgical History": [
+                "I don't understand how this is relevant."
+            ],
+            "Symptom Triggers and Relievers": [
+                "I don't understand how this is relevant."
+            ],
+            "Teeth": [
+                "I don't understand how this is relevant."
+            ],
+            "Underlying Medical Conditions": [
+                "I don't understand how this is relevant."
+            ]
+        }
+    },
+    "relevant_actions": [
+        {
+            "detail": "customer,Location of Skin Problem",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Location of Skin Problem.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Appearance of the Skin Issue",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Appearance of the Skin Issue.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Onset and Duration",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Onset and Duration.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Symptom Triggers and Relievers",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Symptom Triggers and Relievers.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Skin Sensations",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Skin Sensations.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Recent Outdoor Activities",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Recent Outdoor Activities.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Skin Care Routine",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Skin Care Routine.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Previous Skin Conditions",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Previous Skin Conditions.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Hygienic Practices",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Hygienic Practices.",
+            "type": "interaction"
+        },
+        {
+            "detail": "customer,Physical Contact",
+            "part": "discuss",
+            "sentence": "i want to know about the customer 's Physical Contact.",
+            "type": "interaction"
+        }
+    ],
+    "subjects": [
+        "customer",
+        "others"
+    ],
+    "topics": [
+        "Location of Skin Problem",
+        "Pregnancy and Breastfeeding",
+        "Exercise",
+        "Medication History",
+        "Current Medications",
+        "Allergies",
+        "Physical Contact",
+        "Surgical History",
+        "Skin Care Routine",
+        "Appearance of the Skin Issue",
+        "Teeth",
+        "Previous Skin Conditions",
+        "Underlying Medical Conditions",
+        "Recent Outdoor Activities",
+        "Skin Sensations",
+        "Symptom Triggers and Relievers",
+        "Age",
+        "Sleep",
+        "Diet",
+        "Hygienic Practices",
+        "Onset and Duration"
+    ],
+    "valid_actions": {
+        "interaction": [
+            "i want to propose the most probable diagnosis.",
+            "i want to know about the \u201csubject\u201d 's \u201ctopic\u201d."
+        ],
+        "posttest": [
+            "I think the most probable cause behind the problem is \u201ccause\u201d."
+        ]
+    }
+}

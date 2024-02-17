@@ -1,0 +1,19 @@
+{
+  "task_name": "gyno",
+  "characters": ["customer", "parents", "cat", "customer's child", "house"],
+  "relevant_characters": ["customer"],
+  "problem": "gynaecological problems",
+  "subject": "I",
+  "gender": "female",
+  "age": "35",
+  "illnesses": [
+    "UTI",
+    "Cystitis",
+    "Kidney Stones",
+    "Overactive Bladder",
+    "Pregnancy",
+    "STIs",
+    "Stress Incontinence",
+    "Fungal Infection"
+  ]
+}

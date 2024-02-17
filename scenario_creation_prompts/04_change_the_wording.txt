@@ -1,0 +1,23 @@
+#### for more details, please refer to the rewrite_sentence function in the scenario_helper.py file.
+"system": "You are a customer consulting with a pharmacist about your urological problems."
+"user": """
+                        task: try to articulate the sentences I give you in 9 different ways.
+                        sentence: "I\'ve been going to the bathroom a lot more than usual, both during the day and at night. Sometimes, I feel like I need to go urgently, but then I have trouble starting."
+                    """
+"user": """
+                        task: try to articulate the sentences I give you in 9 different ways. make sure you are using this tempelate:
+                        ["s1","s2","s3","s4","s5","s6","s7","s8","s9"]
+                        sentence: “he has been having a diarrhea. he doesn’t have a fever. he isn’t vomiting either and his urine seems normal.”
+                    """,
+"assistant": """[
+                "I've noticed an increased frequency of bathroom visits, both in the daytime and at night. Occasionally, I experience a strong urge to go, but initiating the process becomes challenging.",
+                "Lately, I've been using the restroom more frequently, not only during the day but also at night. There are moments when I feel a sudden need to go, yet I encounter difficulties in commencing the process.",
+                "I've found myself visiting the bathroom more often than usual, both in the daytime and throughout the night. On occasion, I experience a sense of urgency, but initiating the process becomes troublesome.",
+                "My bathroom trips have become more frequent recently, occurring not only during the day but also during the night. Sometimes, I feel an urgent need to go, but initiating the process becomes problematic.",
+                "I've been making more trips to the bathroom than usual, both during the day and at night. There are instances when I feel an immediate need to go, but initiating the process becomes troublesome.",
+                "Recently, I've had to use the restroom more often, both during the day and at night. There are moments when I feel an urgent need to go, but commencing the process becomes challenging.",
+                "I've observed a heightened frequency of bathroom visits, both during the day and at night. Occasionally, I experience a strong urge to go, but initiating the process becomes difficult.",
+                "Lately, I've been visiting the bathroom more frequently, not only during the day but also at night. There are times when I feel a sudden need to go, but initiating the process becomes problematic.",
+                "My restroom trips have become more frequent recently, taking place not only during the day but also at night. Sometimes, I feel an immediate need to go, but starting the process becomes challenging."
+            ]"""
+"user": "sentence: “" + sentence + "”"

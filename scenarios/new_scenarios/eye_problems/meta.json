@@ -1,0 +1,16 @@
+{
+  "task_name": "eye",
+  "characters": ["customer", "parents", "cat", "customer's child", "house"],
+  "relevant_characters": ["customer"],
+  "problem": "eye problems",
+  "subject": "I",
+  "gender": "male",
+  "age": "53",
+  "illnesses": [
+    "Dry Eyes",
+    "Allergic Conjunctivitis",
+    "Pink Eye",
+    "Eye Strain",
+    "Stye"
+  ]
+}

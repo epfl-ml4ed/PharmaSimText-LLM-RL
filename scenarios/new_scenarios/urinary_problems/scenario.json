@@ -1,0 +1,2871 @@
+{
+    "initial_state": [
+        "interaction",
+        "I have urinary abnormalities. can you help?"
+    ],
+    "subjects": [
+        "customer",
+        "others"
+    ],
+    "topics": [
+        "Surgical History",
+        "Pain and Discomfort",
+        "Symptoms Intensity",
+        "Diet",
+        "Exposure to Sunlight",
+        "Symptoms Localization",
+        "Personal and Family Medical History",
+        "Pregnancy and Breastfeeding",
+        "Overall Symptoms",
+        "Duration of Symptoms",
+        "Sleep",
+        "Medication History",
+        "Recent Physical Activity or Trauma",
+        "Color and Appearance of Urine",
+        "Teeth",
+        "Medication and Supplements",
+        "Exercise",
+        "Current Medications",
+        "Age",
+        "Additional Symptoms",
+        "Allergies",
+        "Bowel Movements and Stool Color",
+        "Skin and Eye Coloration",
+        "Underlying Medical Conditions",
+        "Hydration and Diet"
+    ],
+    "valid_actions": {
+        "interaction": [
+            "i want to propose the most probable diagnosis.",
+            "i want to know about the \u201csubject\u201d 's \u201ctopic\u201d."
+        ],
+        "posttest": [
+            "I think the most probable cause behind the problem is \u201ccause\u201d."
+        ]
+    },
+    "causes": [
+        "Prostate Hyperplasia",
+        "Urge Incontinence",
+        "Stress Incontinence",
+        "Cystitis"
+    ],
+    "characters": [
+        "customer",
+        "others"
+    ],
+    "document": {
+        "allergy prevention": [
+            "Allergy Prevention: Allergic diseases often run in families. If a parent or sibling has allergies, asthma, or neurodermatitis, the child faces a higher risk of these conditions. Here are key suggestions for newborns:- Breastfeed exclusively for 6 months if possible.- If breastfeeding isn't possible, use hypoallergenic (HA) milk formula. - Introduce solid foods after 6 months. Avoid common allergy-triggering foods in the first year like cow's milk, eggs, fish, nuts, soy, and chocolate.Controversy exists around allergy prevention methods. HA milk's effectiveness is unclear. Allergies in kids can rise even without family history due to environmental factors. Interestingly, farm-raised kids exposed to animal hair and dirt tend to have fewer allergies. Despite debate, the mentioned recommendations remain in practice.",
+            "Allergy Prevention: Allergic conditions often have a familial link. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's risk increases. Here are key recommendations for newborns: - Aim for exclusive breastfeeding for the initial 6 months if possible. - If breastfeeding isn't viable, consider hypoallergenic (HA) milk formula. - Introduce solid foods after 6 months. Avoid common allergenic foods in the first year, such as cow's milk, eggs, fish, nuts, soy, and chocolate. There's ongoing debate regarding allergy prevention methods. The effectiveness of HA milk is uncertain. Allergies can emerge in children without a family history due to environmental factors. Intriguingly, kids raised on farms and exposed to animal hair and dirt tend to have fewer allergies. Despite differing opinions, the aforementioned recommendations are still practiced.",
+            "Preventing Allergies: Allergic diseases often have a hereditary aspect. If a parent or sibling has allergies, asthma, or neurodermatitis, the child is at a higher risk. Here are important suggestions for newborns: - Strive for exclusive breastfeeding for the initial 6 months, if possible. - In cases where breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Start introducing solid foods after 6 months. Avoid common allergenic foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the first year. There's ongoing debate about methods for allergy prevention. The efficacy of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental influences. Interestingly, children brought up on farms with exposure to animal hair and dirt tend to develop fewer allergies. Despite conflicting opinions, the aforementioned recommendations continue to be practiced.",
+            "Preventing Allergies: Allergic conditions often have a genetic component. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's susceptibility increases. Here are key tips for newborns: - Strive for exclusive breastfeeding for the first 6 months, if feasible. - If breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Begin introducing solid foods after the sixth month. Avoid common allergy-triggering foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the initial year. Ongoing debates surround allergy prevention methods. The effectiveness of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental factors. Interestingly, children raised on farms with exposure to animal hair and dirt tend to have fewer allergies. Despite conflicting views, the recommendations mentioned above continue to be practiced.",
+            "Preventing Allergies: Allergic disorders often have a familial predisposition. If a parent or sibling has allergies, asthma, or neurodermatitis, the child's susceptibility increases. Here are key recommendations for newborns: - Strive for exclusive breastfeeding for the initial 6 months, if feasible. - If breastfeeding isn't an option, consider using hypoallergenic (HA) milk formula. - Begin introducing solid foods after the sixth month. Avoid common allergy-triggering foods like cow's milk, eggs, fish, nuts, soy, and chocolate during the first year. The effectiveness of allergy prevention methods remains a subject of debate. The efficacy of HA milk remains uncertain. Allergies can manifest in children without a family history due to environmental influences. Intriguingly, children raised on farms and exposed to animal hair and dirt tend to experience fewer allergies. Despite ongoing discussions, the aforementioned recommendations continue to be implemented."
+        ],
+        "teething": [
+            "Teething: About half of infants experience teething problems, often linked to discomfort. Symptoms include red, swollen, sensitive gums, excessive drooling, and biting objects. Cheek and buttock redness might occur. Teething can trigger issues like fever, agitation, moodiness, disrupted sleep, and digestive problems. These symptoms can arise during any teething episode.Between 6 to 12 months, most children get six teeth. Teething continues nearly constantly by age two. A typical first set of teeth includes 20 baby teeth.",
+            "Teething: Approximately half of infants go through teething issues, frequently associated with discomfort. Signs encompass red, swollen, tender gums, excessive drooling, and biting on objects. Redness on cheeks and buttocks might also be present. Teething can lead to problems like fever, irritability, mood swings, disrupted sleep, and digestive disturbances. These symptoms can emerge in any teething episode. From 6 to 12 months, most children develop six teeth. Teething persists almost continuously until around age two. An initial set of 20 baby teeth is standard.",
+            "Teething: Around half of infants experience teething troubles, often accompanied by discomfort. Symptoms include red, swollen, and sensitive gums, along with increased drooling and a tendency to bite objects. There might be redness on the cheeks and buttocks. Teething can lead to challenges such as fever, restlessness, changes in mood, sleep disruptions, and digestive issues. These symptoms can appear during any episode of teething. Between 6 to 12 months, most children acquire six teeth. Teething remains nearly constant until about the age of two. A typical first set of teeth includes a total of 20 baby teeth.",
+            "Teething: Roughly half of infants encounter teething difficulties, often tied to discomfort. Signs encompass inflamed, swollen, and sensitive gums, alongside increased drooling and a tendency to bite objects. Redness on the cheeks and buttocks can also occur. Teething can lead to problems like fever, irritability, mood changes, disrupted sleep, and digestive disturbances. These symptoms can manifest during any teething episode. Most children develop six teeth between 6 to 12 months. Teething persists consistently until approximately age two. A typical initial set comprises 20 baby teeth.",
+            "Teething: About fifty percent of infants face teething challenges, frequently associated with discomfort. Indications include reddened, swollen, and tender gums, as well as excessive drooling and a penchant for biting objects. Cheek and buttock redness might also manifest. Teething can provoke issues like fever, restlessness, mood fluctuations, interrupted sleep, and digestive disruptions. These symptoms can emerge at any point during teething. From 6 to 12 months, most children acquire six teeth. Teething continues almost incessantly until around age two. The typical initial set consists of 20 baby teeth."
+        ],
+        "regurgitation": [
+            "Regurgitation: Newborns sometimes spit up small milk amounts after eating, different from vomiting. Signs include immediate milk spitting, no change in milk appearance, no curdling or smell.Causes: Fast feeding, tense atmosphere, large nipple hole, excessive food intake, air swallowing, moving after eating.Treatment: Address the cause, elevate bed head. Fennel tea might help. Thicken infant milk with products containing carob seed flour. It aids digestion, reducing reflux. Two options: add to milk (watch weight) or use ready-to-use thickened products.",
+            "Regurgitation: Infants occasionally expel small amounts of milk after feeding, distinct from vomiting. Characteristics include immediate milk expulsion, unchanged milk appearance, and no curdling or odor.Causes: Rapid feeding, tense environment, larger nipple hole, excessive food consumption, swallowing air, moving after eating.Treatment: Address the underlying cause, elevate the head of the bed. Fennel tea may provide relief. Thickening infant milk with products containing carob seed flour can be beneficial. It aids digestion and reduces reflux. Two options: add to milk (monitor weight) or use ready-to-use thickened products.",
+            "Regurgitation: Newborns sometimes release small milk quantities after feeding, differentiating it from vomiting. Notable features include immediate milk expulsion, unchanged milk appearance, and an absence of curdling or odor.Causes: Rapid feeding, a tense atmosphere, a larger nipple hole, excessive food intake, air swallowing, movement after eating.Treatment: Address the root cause, elevate the head of the bed. Fennel tea might offer relief. Thicken infant milk with carob seed flour-containing products, which aids digestion and minimizes reflux. Two choices: add to milk (monitor weight) or opt for ready-to-use thickened products.",
+            "Regurgitation: Among newborns, occasional expulsion of small milk amounts after feeding can occur, distinct from vomiting. This involves immediate milk spitting, unchanged milk appearance, and no curdling or odor.Causes: Fast feeding, a tense environment, a larger nipple hole, excessive food intake, swallowing air, post-feeding movement.Treatment: Address the underlying trigger, elevate the bed head. Fennel tea might offer relief. Consider thickening infant milk with carob seed flour-containing products, aiding digestion and reducing reflux. Two approaches: adding to milk (while monitoring weight) or opting for ready-to-use thickened products.",
+            "Regurgitation: Infants may occasionally expel small milk quantities after feeding, separate from vomiting. Key features include immediate milk expulsion, unchanged milk appearance, and absence of curdling or odor.Causes: Rapid feeding, a tense setting, a larger nipple opening, excessive food intake, air ingestion, movement post-feeding.Treatment: Address the cause, elevate the head of the bed. Fennel tea could offer relief. Thickening infant milk with products containing carob seed flour can assist digestion and decrease reflux. Two choices: incorporate into milk (with weight monitoring) or utilize pre-thickened products."
+        ],
+        "diaper rash and diaper rash fungus": [
+            "Diaper Rash: Skin irritation on the buttocks, can lead to microbial or fungal infection (breech mycosis).Symptoms:- Diaper rash: Widespread redness under diapers, quick development, red and tight skin, blisters.- Breech mycosis: Well-defined redness, scaly edges, sometimes vesicles and pustules, bad odor.Causes of Diaper Rash:- Moisture from stool and urine, diaper heat trigger rash.- Risk factors: diarrhea, acidic foods, antibiotics, friction from diapers, irritant sensitivity, diet changes, teething.Breech Fungus:- Diaper rash encourages fungal growth (like candida albicans) after about three days.- Fungus can spread throughout the digestive system, leading to thrush.",
+            "Diaper Rash: Skin irritation that occurs on the buttocks, which can progress to microbial or fungal infections, known as breech mycosis.Symptoms: - Diaper rash: Widespread redness beneath the diaper, rapid onset, skin appearing red and tight, sometimes with blisters. - Breech mycosis: Distinct redness, scaliness at the edges, occasional vesicles and pustules, accompanied by an unpleasant odor.Causes of Diaper Rash: - Moisture from stool and urine, combined with the warmth of the diaper, can trigger rash formation. - Risk factors: diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, changes in diet, teething.Breech Fungus: - Diaper rash paves the way for fungal growth (such as candida albicans) after approximately three days. - The fungus can potentially spread throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: A condition involving skin irritation on the buttocks, which can progress to microbial or fungal infections known as breech mycosis.Symptoms: - Diaper rash: Widespread redness underneath diapers, rapid development, skin appearing red and taut, with potential blistering. - Breech mycosis: Clearly defined redness, edges displaying scaliness, potential vesicles and pustules, accompanied by an unpleasant smell.Causes of Diaper Rash: - Exposure to moisture from stool and urine, along with diaper warmth, can trigger the onset of rashes. - Risk factors include diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, dietary changes, and teething.Breech Fungus: - Diaper rash creates a conducive environment for fungal growth, such as candida albicans, approximately after three days. - The fungus can potentially spread throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: A condition characterized by skin irritation on the buttocks, which can potentially evolve into microbial or fungal infections, referred to as breech mycosis.Symptoms: - Diaper rash: Extensive redness beneath diapers, rapid emergence, skin appearing red and tense, occasionally with blistering. - Breech mycosis: Clearly defined redness, scaliness around the edges, possible presence of vesicles and pustules, often accompanied by an unpleasant odor.Causes of Diaper Rash: - Dampness from stool and urine, coupled with the warmth of the diaper, can trigger rash formation. - Risk factors encompass diarrhea, consumption of acidic foods, antibiotic usage, friction from diapers, sensitivity to irritants, dietary modifications, and teething.Breech Fungus: - Diaper rash sets the stage for fungal growth, such as candida albicans, typically after about three days. - The fungus has the potential to propagate throughout the digestive system, leading to the development of thrush.",
+            "Diaper Rash: An issue involving skin irritation on the buttocks, which can progress to microbial or fungal infections called breech mycosis.Symptoms: - Diaper rash: Extensive redness beneath diapers, swift onset, skin appearing red and taut, sometimes accompanied by blisters. - Breech mycosis: Well-defined redness, scaliness at the edges, potential presence of vesicles and pustules, often associated with an unpleasant smell.Causes of Diaper Rash: - Moisture from stool and urine, combined with diaper warmth, can trigger rash development. - Risk factors encompass diarrhea, consumption of acidic foods, antibiotic usage, diaper friction, irritant sensitivity, dietary alterations, and teething.Breech Fungus: - Diaper rash fosters fungal growth, such as candida albicans, usually after about three days. - This fungus has the potential to spread through the digestive system, leading to the emergence of thrush."
+        ],
+        "constipation": [
+            "Constipation: Breastfed babies rarely get constipated due to full breast milk intake. Bottle-fed infants should have daily bowel movements; constipation is fewer than 3 movements a week.Treatment:- Increase fluids, like unsweetened herbal tea or water.- Aim for about five wet diapers a day.- Adjust milk bottle amount if needed.- For older infants, watch diet. Foods like carrots, rice, and bananas can cause constipation. Choose fennel, zucchini, pears, applesauce, fruit juices, and yogurt.- Gently massage baby's belly in a clockwise direction to aid digestion.",
+            "Constipation: Breastfed infants rarely experience constipation due to the complete breast milk diet. For bottle-fed babies, daily bowel movements are expected; constipation is indicated by fewer than 3 movements a week.Treatment: - Increase fluid intake, offering unsweetened herbal tea or water. - Aim for approximately five wet diapers per day. - Adjust the amount in milk bottles if necessary. - For older infants, monitor their diet. Foods such as carrots, rice, and bananas can lead to constipation. Opt for options like fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Gently massage the baby's belly in a clockwise direction to assist digestion.",
+            "Constipation: Breastfed infants tend to have minimal constipation due to their exclusive breast milk consumption. On the other hand, for bottle-fed babies, daily bowel movements are the norm; constipation is defined as less than 3 movements per week.Treatment: - Encourage increased fluid intake, providing unsweetened herbal tea or water. - Aim for around five wet diapers each day. - Adjust the quantity in milk bottles as needed. - For older infants, be attentive to their diet. Foods like carrots, rice, and bananas can contribute to constipation. Opt for alternatives such as fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Employ gentle clockwise belly massages to aid digestion.",
+            "Constipation: Breastfed infants rarely encounter constipation due to their intake of complete breast milk. Bottle-fed babies, on the other hand, are expected to have daily bowel movements; constipation is indicated by fewer than 3 movements per week.Treatment: - Enhance fluid intake with options like unsweetened herbal tea or water. - Strive for roughly five wet diapers every day. - Adjust the quantity in milk bottles if necessary. - For older infants, monitor their diet. Foods like carrots, rice, and bananas can lead to constipation. Opt for choices such as fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Employ a gentle clockwise massage on the baby's abdomen to aid digestion.",
+            "Constipation: Breastfed babies tend to experience minimal constipation due to the full breast milk diet. In contrast, bottle-fed infants should have daily bowel movements; constipation is characterized by less than 3 movements per week.Treatment: - Promote increased fluid intake, offering choices like unsweetened herbal tea or water. - Strive for approximately five wet diapers per day. - Adjust the amount in milk bottles if needed. - For older infants, monitor their diet. Foods like carrots, rice, and bananas can contribute to constipation. Opt for alternatives like fennel, zucchini, pears, applesauce, fruit juices, and yogurt. - Gently massage the baby's belly in a clockwise direction to aid digestion."
+        ],
+        "supplementary foods": [
+            "Infants are solely milk-fed for the first 4 to 6 months. Between 4 to 7 months, complementary spoon-fed foods are introduced. Two conditions for spoon-feeding: head control and chewing ability, plus developed digestion.If a baby can't tolerate porridge or puree (due to cramps, diarrhea, vomiting, refusal), switch back to milk-only diet.Introducing New Foods:- Introduce new foods separately, small amounts, when the baby's healthy.- Wait 4-5 days before the next food, to spot any intolerances.",
+            "Infants rely entirely on milk for the initial 4 to 6 months. Between 4 to 7 months, supplementary spoon-fed foods are introduced. Two prerequisites for spoon-feeding are head control and chewing capabilities, alongside matured digestion. If a baby struggles with porridge or puree (due to cramps, diarrhea, vomiting, or refusal), revert to a milk-only diet. When introducing new foods: - Introduce them separately, in small amounts, when the baby is in good health. - Allow 4-5 days before introducing the next food, to observe any signs of intolerances.",
+            "During the first 4 to 6 months, infants are exclusively nourished with milk. Between 4 to 7 months, complementary spoon-fed foods are introduced. Two prerequisites for spoon-feeding are the ability to control the head and chew, alongside developed digestion. If a baby has difficulty tolerating porridge or puree (due to cramps, diarrhea, vomiting, or refusal), revert to a milk-only diet. When introducing new foods: - Introduce them one at a time, in small portions, when the baby is in good health. - Allow 4-5 days before introducing the next food, in order to detect any potential intolerances.",
+            "For the initial 4 to 6 months, infants rely solely on milk for nourishment. Between 4 to 7 months, supplementary spoon-fed foods come into play. Head control and chewing proficiency, combined with advanced digestion, are prerequisites for introducing spoon-fed foods. In case a baby struggles with porridge or puree (due to cramps, diarrhea, vomiting, or refusal), return to an exclusive milk diet. When introducing new foods: - Present them separately, in small quantities, when the baby is in good health. - Allow 4-5 days before introducing the next food, to identify any potential intolerances.",
+            "During the initial 4 to 6 months, infants are exclusively nourished with milk. Between 4 to 7 months, the introduction of complementary spoon-fed foods begins. For spoon-feeding, two prerequisites are essential: the ability to control the head and chew, in addition to well-developed digestion. If a baby has difficulty tolerating porridge or puree (possibly due to cramps, diarrhea, vomiting, or refusal), it's advisable to revert to a milk-only diet. When introducing new foods: - Introduce them individually, in small portions, when the baby is in good health. - Allow a 4-5 day interval before introducing the next food, to observe any potential intolerances."
+        ],
+        "cavities": [
+            "Cavities:Causes: Bacteria break down carbs, creating acid that harms enamel, forming cavities. Newborns lack cavity-causing bacteria initially, but can get it from shared items like pacifiers.Baby Bottle Tooth Decay: Constantly sucking sweet drinks from a bottle harms teeth, including permanent ones.Prevention:- Once teeth emerge, clean daily, especially before bed. Use soft, small-headed brush and child fluoride toothpaste.- Limit sugar intake, delay exposing child to 'sweet' taste.- Avoid continuous bottle sucking (bathes teeth in sugar). Note: Orange juice and milk also have sugar.- For high cavity risk: consider Zymafluor@ 0.25 mg tablets.- For kids over six: use weekly fluoride gel.",
+            "Cavities: Causes stem from bacteria breaking down carbohydrates, producing acid that damages enamel, leading to the formation of cavities. Newborns are initially devoid of cavity-causing bacteria, but exposure can occur through shared items like pacifiers.Baby Bottle Tooth Decay: Continuous consumption of sugary drinks from a bottle can detrimentally impact teeth, including permanent ones.Prevention: - Once teeth emerge, practice daily cleaning, particularly before sleep. Employ a soft, small-headed brush and child-friendly fluoride toothpaste. - Curtail sugar intake and postpone introducing the 'sweet' taste. - Avoid prolonged bottle-sucking (which exposes teeth to sugar). Note: Orange juice and milk also contain sugar. - For those at higher risk of cavities, consider Zymafluor@ 0.25 mg tablets. - For children above six years, employ weekly fluoride gel.",
+            "Cavities: The origins lie in bacteria that metabolize carbohydrates, generating acid that erodes enamel and gives rise to cavities. While newborns initially lack the bacteria responsible, they can be exposed to it through shared items like pacifiers.Baby Bottle Tooth Decay: Prolonged consumption of sugary drinks from a bottle can adversely affect teeth, including the permanent ones.Prevention: - Once teeth appear, establish a routine of daily cleaning, particularly before bedtime. Utilize a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar intake and delay introducing the 'sweet' taste. - Refrain from prolonged bottle-sucking (which bathes teeth in sugar). Note: Orange juice and milk also carry sugar content. - For those at a higher risk of cavities, the option of Zymafluor@ 0.25 mg tablets can be considered. - For children over six, incorporating weekly fluoride gel can be beneficial.",
+            "Cavities: The root cause involves bacteria metabolizing carbohydrates, leading to the production of acid that corrodes enamel and gives rise to cavities. While newborns don't initially harbor the bacteria responsible, exposure can happen through shared items like pacifiers.Baby Bottle Tooth Decay: The prolonged consumption of sugary beverages from a bottle can have detrimental effects on teeth, including permanent ones.Prevention: - Once teeth become visible, initiate a daily cleaning routine, particularly before sleep. Employ a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar consumption and postpone exposing the child to the 'sweet' taste. - Steer clear of extended bottle-sucking (which subjects teeth to sugar). Note: Orange juice and milk also carry sugar content. - For those with heightened cavity susceptibility, contemplating Zymafluor@ 0.25 mg tablets could be worthwhile. - For kids aged six and above, utilizing weekly fluoride gel can prove beneficial.",
+            "Cavities: The underlying cause can be traced back to bacteria breaking down carbohydrates, generating acid that wears away enamel and results in cavities. Although newborns initially lack the bacteria responsible, exposure can occur through shared items such as pacifiers.Baby Bottle Tooth Decay: The continual consumption of sugary beverages from a bottle can have detrimental effects on teeth, including permanent ones.Prevention: - Once teeth start appearing, establish a daily cleaning routine, especially before bedtime. Utilize a soft, small-headed brush and child-friendly fluoride toothpaste. - Regulate sugar intake and delay introducing the 'sweet' taste. - Avoid prolonged bottle-sucking (which immerses teeth in sugar). Note: Orange juice and milk also contain sugar. - For those with a higher susceptibility to cavities, considering Zymafluor@ 0.25 mg tablets might be beneficial. - For children aged six and above, using weekly fluoride gel can be advantageous."
+        ],
+        "diarrhea and vomiting treatment methods": [
+            "Diarrhea Treatment:- Provide fluids: offer small, frequent drinks like sweetened tea or breast milk. Avoid fruit juice.- Consider electrolyte solution if needed.- Avoid newly introduced foods; opt for easily digestible options like crackers.- For severe cases, replace regular milk/porridge with a special food.- Gradually reintroduce usual diet with small, frequent meals, emphasizing rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, blueberries.Additional Tips:- Change diapers often.- Use protective ointment to prevent diaper rash.- If condition worsens, seek medical attention.Recommended Products for Digestive Issues:- Lactose-free dietary formula for diarrhea, suitable from birth.- Hypoallergenic formula for digestive issues, contains bifidus bacteria, suitable from birth.- Special dietary food with rice, corn, and carrots for diarrhea, not for cow's milk intolerance, suitable from 6 months.- Reconstitution of intestinal flora products.- Peristalsis inhibitors and carbon adsorbents not recommended for kids under two.- Antiemetics only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid intake by offering small, frequent sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - If necessary, consider electrolyte solutions to maintain hydration. - Opt for easily digestible options like crackers and avoid recently introduced foods. - In severe cases, replace regular milk or porridge with a specialized food. - Gradually reintroduce the usual diet with small, frequent meals, focusing on items like rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Change diapers frequently. - Apply protective ointment to prevent diaper rash. - If the condition worsens, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula designed for diarrhea, suitable from birth. - Hypoallergenic formula for addressing digestive problems, containing bifidus bacteria, suitable from birth. - Special dietary food containing rice, corn, and carrots for diarrhea, not intended for cow's milk intolerance, suitable from 6 months. - Products for reconstituting intestinal flora. - Peristalsis inhibitors and carbon adsorbents not recommended for children under two. - Antiemetics recommended only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid replenishment with small, frequent sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - In cases where it's warranted, consider electrolyte solutions to restore balance. - Opt for easily digestible options like crackers and avoid recently introduced foods. - In severe instances, substitute regular milk or porridge with a specialized food. - Gradually reintroduce the usual diet through small, frequent meals, focusing on elements such as rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Change diapers frequently. - Apply protective ointment to prevent diaper rash. - If the condition deteriorates, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula formulated for diarrhea, suitable from birth. - Hypoallergenic formula addressing digestive concerns, containing bifidus bacteria, suitable from birth. - Specialized dietary food containing rice, corn, and carrots for diarrhea, not for cow's milk intolerance, suitable from 6 months. - Products facilitating the reconstitution of intestinal flora. - Peristalsis inhibitors and carbon adsorbents are not advisable for children under two. - Antiemetics are to be considered only for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Emphasize fluid intake by providing frequent, small sips of beverages like sweetened tea or breast milk. Avoid fruit juices. - If necessary, consider electrolyte solutions to maintain hydration levels. - Opt for easily digestible options like crackers while steering clear of recently introduced foods. - In severe cases, replace regular milk or porridge with a specialized dietary option. - Gradually reintroduce the typical diet through small, frequent meals, giving preference to components like rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Ensure diapers are changed often. - Employ protective ointment to prevent diaper rash. - If the condition worsens, seek medical attention.Recommended Products for Digestive Issues: - Lactose-free dietary formula designed to address diarrhea, suitable from birth. - Hypoallergenic formula with bifidus bacteria, suitable from birth to tackle digestive concerns. - Specialized dietary food containing rice, corn, and carrots for diarrhea, intended for those without cow's milk intolerance, suitable from 6 months. - Products aiding in the restoration of intestinal flora. - Note that peristalsis inhibitors and carbon adsorbents are not recommended for children under two. - Antiemetics should only be considered for severe vomiting or motion sickness.",
+            "Diarrhea Treatment: - Prioritize fluid consumption with regular, small sips of beverages like sweetened tea or breast milk. It's advisable to avoid fruit juices. - If required, electrolyte solutions can be considered to sustain adequate hydration. - Opt for easily digestible options like crackers and steer clear of recently introduced foods. - In severe instances, replace standard milk or porridge with a specialized dietary alternative. - Gradually reintroduce the customary diet via small, frequent meals, with an emphasis on components such as rice, carrot puree, apples (with skin), oatmeal, rusks, bananas, and blueberries.Additional Tips: - Maintain frequent diaper changes. - Utilize protective ointment to prevent diaper rash. - In case the condition escalates, seek medical assistance.Recommended Products for Digestive Issues: - Lactose-free dietary formula formulated for diarrhea, suitable from birth. - Hypoallergenic formula containing bifidus bacteria, suitable from birth to address digestive issues. - Special dietary food featuring rice, corn, and carrots for diarrhea, intended for those without cow's milk intolerance, suitable from 6 months. - Products facilitating the reconstitution of intestinal flora. - Note that peristalsis inhibitors and carbon adsorbents are not recommended for children under two. - Antiemetics should only be utilized for severe vomiting or motion sickness."
+        ],
+        "diarrhea and vomiting causes and critical symptoms": [
+            "Diarrhea and vomiting are common in infants and young children. For infants under one year with severe diarrhea or vomiting, seek medical help due to rapid water loss risk. Breastfed babies and those on prebiotic-fiber formulas have looser stools, not necessarily diarrhea. Consider diet and stool consistency.Critical Symptoms:- Weight loss over 5 percent.- Apathy, fast breathing.- Sunken eyes, dry lips, pale skin, fontanel depression.- Fever indicates infection.- No urination (dry diapers).Causes:- Food issues: unusual or spoiled food, bacteria, viruses, worms.- Digestive weakness, prematurity, metabolic issues (gluten, lactose, cow's milk intolerance), allergy tendency.- Antibiotics' effects.- Emotional stress, teething.Remember, younger children dehydrate faster, risking coma and worse. Quick medical attention is vital.",
+            "Diarrhea and vomiting are common occurrences in infants and young children. For infants below one year facing severe diarrhea or vomiting, seeking medical assistance is imperative due to the risk of rapid water loss. It's important to note that breastfed babies and those on prebiotic-fiber formulas might experience looser stools, which doesn't necessarily equate to diarrhea. Take into consideration the baby's diet and stool consistency.Critical Symptoms: - Weight loss exceeding 5 percent of body weight. - Apathy and rapid breathing. - Noteworthy signs like sunken eyes, dry lips, pale skin, fontanel depression (soft spot on the head). - The presence of fever may indicate an infection. - Absence of urination (dry diapers).Causes: - Food-related issues such as consumption of unusual or spoiled food, bacterial or viral infections, or presence of worms. - Digestive weaknesses, prematurity, metabolic conditions (like gluten, lactose, or cow's milk intolerance), and a tendency towards allergies. - The impact of antibiotics on the gastrointestinal system. - Emotional stress and teething.Remember, younger children are more susceptible to dehydration, which can lead to serious consequences like coma. Swift medical attention is absolutely crucial.",
+            "Diarrhea and vomiting are common occurrences among infants and young children. In the case of infants under one year experiencing severe diarrhea or vomiting, seeking medical assistance is highly advised due to the potential risk of rapid water loss. It's worth noting that breastfed babies and those consuming prebiotic-fiber formulas may exhibit looser stools, which doesn't necessarily indicate diarrhea. It's important to consider both the baby's diet and the consistency of their stools.Critical Symptoms: - Weight loss exceeding 5 percent of their body weight. - Signs of lethargy and rapid breathing. - Noticeable physical indicators like sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever could indicate an underlying infection. - A lack of urination, leading to dry diapers.Causes: - Factors related to food, such as consumption of unusual or spoiled items, exposure to bacterial or viral agents, or even the presence of worms. - Underlying digestive weaknesses, prematurity, metabolic conditions (such as gluten, lactose, or cow's milk intolerance), and a propensity toward allergies. - The potential impact of antibiotics on the digestive system. - Emotional stress and the teething process.It's crucial to remember that younger children are more susceptible to dehydration, which can escalate to serious outcomes like coma. Swift medical attention is of utmost importance.",
+            "Diarrhea and vomiting are commonly encountered issues in infants and young children. For infants below the age of one experiencing severe diarrhea or vomiting, it's essential to seek medical help due to the risk of rapid fluid loss. It's important to understand that breastfed infants and those on prebiotic-fiber formulas may have stools with a looser consistency, which doesn't necessarily indicate diarrhea. Be mindful of the baby's diet and the texture of their stools.Critical Symptoms: - Weight loss surpassing 5 percent of their body weight. - Displaying signs of lethargy and rapid breathing. - Notable physical manifestations such as sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever might point to an underlying infection. - Absence of urination leading to dry diapers.Causes: - Factors related to food, including consumption of unusual or spoiled foods, exposure to bacterial or viral agents, or even the presence of worms. - Potential underlying digestive weaknesses, prematurity, metabolic conditions (like gluten, lactose, or cow's milk intolerance), and a tendency toward allergies. - The potential impact of antibiotics on the gastrointestinal system. - Emotional stress and teething.It's vital to keep in mind that younger children are more prone to dehydration, which can lead to severe outcomes like coma. Swift medical intervention is absolutely essential.",
+            "Diarrhea and vomiting are commonly observed occurrences in infants and young children. When infants under the age of one encounter severe diarrhea or vomiting, it's crucial to seek medical assistance due to the inherent risk of rapid fluid loss. It's noteworthy that breastfed infants and those consuming prebiotic-fiber formulas may exhibit stools with a looser consistency, which doesn't necessarily point to diarrhea. It's advisable to consider both the baby's dietary intake and the nature of their stools.Critical Symptoms: - Weight loss exceeding 5 percent of their body weight. - Manifestations of lethargy and rapid breathing. - Observable physical signs like sunken eyes, dry lips, pale skin, and a depressed fontanel (the soft spot on the head). - The presence of fever may indicate an underlying infection. - A lack of urination leading to dry diapers.Causes: - Factors related to food, encompassing consumption of uncommon or spoiled items, exposure to bacterial or viral agents, or the presence of worms. - Possible underlying digestive vulnerabilities, prematurity, metabolic conditions (such as gluten, lactose, or cow's milk intolerance), and a predisposition to allergies. - The potential influence of antibiotics on the gastrointestinal system. - Emotional stress and the process of teething.It's crucial to recognize that younger children are more prone to dehydration, which can escalate to serious consequences like coma. Swift medical attention is imperative."
+        ]
+    },
+    "relevant_actions": [
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Color and Appearance of Urine",
+            "sentence": "i want to know about the customer 's Color and Appearance of Urine."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Pain and Discomfort",
+            "sentence": "i want to know about the customer 's Pain and Discomfort."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Skin and Eye Coloration",
+            "sentence": "i want to know about the customer 's Skin and Eye Coloration."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Additional Symptoms",
+            "sentence": "i want to know about the customer 's Additional Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Medication and Supplements",
+            "sentence": "i want to know about the customer 's Medication and Supplements."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Hydration and Diet",
+            "sentence": "i want to know about the customer 's Hydration and Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Bowel Movements and Stool Color",
+            "sentence": "i want to know about the customer 's Bowel Movements and Stool Color."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Recent Physical Activity or Trauma",
+            "sentence": "i want to know about the customer 's Recent Physical Activity or Trauma."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Personal and Family Medical History",
+            "sentence": "i want to know about the customer 's Personal and Family Medical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Exposure to Sunlight",
+            "sentence": "i want to know about the customer 's Exposure to Sunlight."
+        }
+    ],
+    "posttest_actions": [
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Chronic Dehydration"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Hematuria"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Hemolysis"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Hepatitis"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Liver Disease"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Rhabdomyolysis"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Porphyria"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Medication Side Effects"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Biliary Obstruction"
+        },
+        {
+            "type": "posttest",
+            "part": "",
+            "detail": "",
+            "sentence": "Metabolic Disorders"
+        }
+    ],
+    "interaction": [
+        {
+            "type": "interaction",
+            "part": "solution",
+            "detail": "",
+            "sentence": "i want to suggest a solution."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Surgical History",
+            "sentence": "i want to know about the customer 's Surgical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Pain and Discomfort",
+            "sentence": "i want to know about the customer 's Pain and Discomfort."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Symptoms Intensity",
+            "sentence": "i want to know about the customer 's Symptoms Intensity."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Diet",
+            "sentence": "i want to know about the customer 's Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Exposure to Sunlight",
+            "sentence": "i want to know about the customer 's Exposure to Sunlight."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Symptoms Localization",
+            "sentence": "i want to know about the customer 's Symptoms Localization."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Personal and Family Medical History",
+            "sentence": "i want to know about the customer 's Personal and Family Medical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Pregnancy and Breastfeeding",
+            "sentence": "i want to know about the customer 's Pregnancy and Breastfeeding."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Overall Symptoms",
+            "sentence": "i want to know about the customer 's Overall Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Duration of Symptoms",
+            "sentence": "i want to know about the customer 's Duration of Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Sleep",
+            "sentence": "i want to know about the customer 's Sleep."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Medication History",
+            "sentence": "i want to know about the customer 's Medication History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Recent Physical Activity or Trauma",
+            "sentence": "i want to know about the customer 's Recent Physical Activity or Trauma."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Color and Appearance of Urine",
+            "sentence": "i want to know about the customer 's Color and Appearance of Urine."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Teeth",
+            "sentence": "i want to know about the customer 's Teeth."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Medication and Supplements",
+            "sentence": "i want to know about the customer 's Medication and Supplements."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Exercise",
+            "sentence": "i want to know about the customer 's Exercise."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Current Medications",
+            "sentence": "i want to know about the customer 's Current Medications."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Age",
+            "sentence": "i want to know about the customer 's Age."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Additional Symptoms",
+            "sentence": "i want to know about the customer 's Additional Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Allergies",
+            "sentence": "i want to know about the customer 's Allergies."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Bowel Movements and Stool Color",
+            "sentence": "i want to know about the customer 's Bowel Movements and Stool Color."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Skin and Eye Coloration",
+            "sentence": "i want to know about the customer 's Skin and Eye Coloration."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Underlying Medical Conditions",
+            "sentence": "i want to know about the customer 's Underlying Medical Conditions."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer,Hydration and Diet",
+            "sentence": "i want to know about the customer 's Hydration and Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Surgical History",
+            "sentence": "i want to know about the cat 's Surgical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Pain and Discomfort",
+            "sentence": "i want to know about the cat 's Pain and Discomfort."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Symptoms Intensity",
+            "sentence": "i want to know about the cat 's Symptoms Intensity."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Diet",
+            "sentence": "i want to know about the cat 's Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Exposure to Sunlight",
+            "sentence": "i want to know about the cat 's Exposure to Sunlight."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Symptoms Localization",
+            "sentence": "i want to know about the cat 's Symptoms Localization."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Personal and Family Medical History",
+            "sentence": "i want to know about the cat 's Personal and Family Medical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Pregnancy and Breastfeeding",
+            "sentence": "i want to know about the cat 's Pregnancy and Breastfeeding."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Overall Symptoms",
+            "sentence": "i want to know about the cat 's Overall Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Duration of Symptoms",
+            "sentence": "i want to know about the cat 's Duration of Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Sleep",
+            "sentence": "i want to know about the cat 's Sleep."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Medication History",
+            "sentence": "i want to know about the cat 's Medication History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Recent Physical Activity or Trauma",
+            "sentence": "i want to know about the cat 's Recent Physical Activity or Trauma."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Color and Appearance of Urine",
+            "sentence": "i want to know about the cat 's Color and Appearance of Urine."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Teeth",
+            "sentence": "i want to know about the cat 's Teeth."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Medication and Supplements",
+            "sentence": "i want to know about the cat 's Medication and Supplements."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Exercise",
+            "sentence": "i want to know about the cat 's Exercise."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Current Medications",
+            "sentence": "i want to know about the cat 's Current Medications."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Age",
+            "sentence": "i want to know about the cat 's Age."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Additional Symptoms",
+            "sentence": "i want to know about the cat 's Additional Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Allergies",
+            "sentence": "i want to know about the cat 's Allergies."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Bowel Movements and Stool Color",
+            "sentence": "i want to know about the cat 's Bowel Movements and Stool Color."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Skin and Eye Coloration",
+            "sentence": "i want to know about the cat 's Skin and Eye Coloration."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Underlying Medical Conditions",
+            "sentence": "i want to know about the cat 's Underlying Medical Conditions."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "cat,Hydration and Diet",
+            "sentence": "i want to know about the cat 's Hydration and Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Surgical History",
+            "sentence": "i want to know about the customer's parents 's Surgical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Pain and Discomfort",
+            "sentence": "i want to know about the customer's parents 's Pain and Discomfort."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Symptoms Intensity",
+            "sentence": "i want to know about the customer's parents 's Symptoms Intensity."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Diet",
+            "sentence": "i want to know about the customer's parents 's Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Exposure to Sunlight",
+            "sentence": "i want to know about the customer's parents 's Exposure to Sunlight."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Symptoms Localization",
+            "sentence": "i want to know about the customer's parents 's Symptoms Localization."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Personal and Family Medical History",
+            "sentence": "i want to know about the customer's parents 's Personal and Family Medical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Pregnancy and Breastfeeding",
+            "sentence": "i want to know about the customer's parents 's Pregnancy and Breastfeeding."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Overall Symptoms",
+            "sentence": "i want to know about the customer's parents 's Overall Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Duration of Symptoms",
+            "sentence": "i want to know about the customer's parents 's Duration of Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Sleep",
+            "sentence": "i want to know about the customer's parents 's Sleep."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Medication History",
+            "sentence": "i want to know about the customer's parents 's Medication History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Recent Physical Activity or Trauma",
+            "sentence": "i want to know about the customer's parents 's Recent Physical Activity or Trauma."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Color and Appearance of Urine",
+            "sentence": "i want to know about the customer's parents 's Color and Appearance of Urine."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Teeth",
+            "sentence": "i want to know about the customer's parents 's Teeth."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Medication and Supplements",
+            "sentence": "i want to know about the customer's parents 's Medication and Supplements."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Exercise",
+            "sentence": "i want to know about the customer's parents 's Exercise."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Current Medications",
+            "sentence": "i want to know about the customer's parents 's Current Medications."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Age",
+            "sentence": "i want to know about the customer's parents 's Age."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Additional Symptoms",
+            "sentence": "i want to know about the customer's parents 's Additional Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Allergies",
+            "sentence": "i want to know about the customer's parents 's Allergies."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Bowel Movements and Stool Color",
+            "sentence": "i want to know about the customer's parents 's Bowel Movements and Stool Color."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Skin and Eye Coloration",
+            "sentence": "i want to know about the customer's parents 's Skin and Eye Coloration."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Underlying Medical Conditions",
+            "sentence": "i want to know about the customer's parents 's Underlying Medical Conditions."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's parents,Hydration and Diet",
+            "sentence": "i want to know about the customer's parents 's Hydration and Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Surgical History",
+            "sentence": "i want to know about the house 's Surgical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Pain and Discomfort",
+            "sentence": "i want to know about the house 's Pain and Discomfort."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Symptoms Intensity",
+            "sentence": "i want to know about the house 's Symptoms Intensity."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Diet",
+            "sentence": "i want to know about the house 's Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Exposure to Sunlight",
+            "sentence": "i want to know about the house 's Exposure to Sunlight."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Symptoms Localization",
+            "sentence": "i want to know about the house 's Symptoms Localization."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Personal and Family Medical History",
+            "sentence": "i want to know about the house 's Personal and Family Medical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Pregnancy and Breastfeeding",
+            "sentence": "i want to know about the house 's Pregnancy and Breastfeeding."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Overall Symptoms",
+            "sentence": "i want to know about the house 's Overall Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Duration of Symptoms",
+            "sentence": "i want to know about the house 's Duration of Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Sleep",
+            "sentence": "i want to know about the house 's Sleep."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Medication History",
+            "sentence": "i want to know about the house 's Medication History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Recent Physical Activity or Trauma",
+            "sentence": "i want to know about the house 's Recent Physical Activity or Trauma."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Color and Appearance of Urine",
+            "sentence": "i want to know about the house 's Color and Appearance of Urine."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Teeth",
+            "sentence": "i want to know about the house 's Teeth."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Medication and Supplements",
+            "sentence": "i want to know about the house 's Medication and Supplements."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Exercise",
+            "sentence": "i want to know about the house 's Exercise."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Current Medications",
+            "sentence": "i want to know about the house 's Current Medications."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Age",
+            "sentence": "i want to know about the house 's Age."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Additional Symptoms",
+            "sentence": "i want to know about the house 's Additional Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Allergies",
+            "sentence": "i want to know about the house 's Allergies."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Bowel Movements and Stool Color",
+            "sentence": "i want to know about the house 's Bowel Movements and Stool Color."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Skin and Eye Coloration",
+            "sentence": "i want to know about the house 's Skin and Eye Coloration."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Underlying Medical Conditions",
+            "sentence": "i want to know about the house 's Underlying Medical Conditions."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "house,Hydration and Diet",
+            "sentence": "i want to know about the house 's Hydration and Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Surgical History",
+            "sentence": "i want to know about the customer's child 's Surgical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Pain and Discomfort",
+            "sentence": "i want to know about the customer's child 's Pain and Discomfort."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Symptoms Intensity",
+            "sentence": "i want to know about the customer's child 's Symptoms Intensity."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Diet",
+            "sentence": "i want to know about the customer's child 's Diet."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Exposure to Sunlight",
+            "sentence": "i want to know about the customer's child 's Exposure to Sunlight."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Symptoms Localization",
+            "sentence": "i want to know about the customer's child 's Symptoms Localization."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Personal and Family Medical History",
+            "sentence": "i want to know about the customer's child 's Personal and Family Medical History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Pregnancy and Breastfeeding",
+            "sentence": "i want to know about the customer's child 's Pregnancy and Breastfeeding."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Overall Symptoms",
+            "sentence": "i want to know about the customer's child 's Overall Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Duration of Symptoms",
+            "sentence": "i want to know about the customer's child 's Duration of Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Sleep",
+            "sentence": "i want to know about the customer's child 's Sleep."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Medication History",
+            "sentence": "i want to know about the customer's child 's Medication History."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Recent Physical Activity or Trauma",
+            "sentence": "i want to know about the customer's child 's Recent Physical Activity or Trauma."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Color and Appearance of Urine",
+            "sentence": "i want to know about the customer's child 's Color and Appearance of Urine."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Teeth",
+            "sentence": "i want to know about the customer's child 's Teeth."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Medication and Supplements",
+            "sentence": "i want to know about the customer's child 's Medication and Supplements."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Exercise",
+            "sentence": "i want to know about the customer's child 's Exercise."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Current Medications",
+            "sentence": "i want to know about the customer's child 's Current Medications."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Age",
+            "sentence": "i want to know about the customer's child 's Age."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Additional Symptoms",
+            "sentence": "i want to know about the customer's child 's Additional Symptoms."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Allergies",
+            "sentence": "i want to know about the customer's child 's Allergies."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Bowel Movements and Stool Color",
+            "sentence": "i want to know about the customer's child 's Bowel Movements and Stool Color."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Skin and Eye Coloration",
+            "sentence": "i want to know about the customer's child 's Skin and Eye Coloration."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Underlying Medical Conditions",
+            "sentence": "i want to know about the customer's child 's Underlying Medical Conditions."
+        },
+        {
+            "type": "interaction",
+            "part": "discuss",
+            "detail": "customer's child,Hydration and Diet",
+            "sentence": "i want to know about the customer's child 's Hydration and Diet."
+        }
+    ],
+    "document_actions": [
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "allergy prevention",
+            "sentence": "i want to read about allergy prevention."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "teething",
+            "sentence": "i want to read about teething."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "regurgitation",
+            "sentence": "i want to read about regurgitation."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "diaper rash and diaper rash fungus",
+            "sentence": "i want to read about diaper rash and diaper rash fungus."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "constipation",
+            "sentence": "i want to read about constipation."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "supplementary foods",
+            "sentence": "i want to read about supplementary foods."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "cavities",
+            "sentence": "i want to read about cavities."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "diarrhea and vomiting treatment methods",
+            "sentence": "i want to read about diarrhea and vomiting treatment methods."
+        },
+        {
+            "type": "interaction",
+            "part": "document",
+            "detail": "diarrhea and vomiting causes and critical symptoms",
+            "sentence": "i want to read about diarrhea and vomiting causes and critical symptoms."
+        }
+    ],
+    "posttest_qs": {
+        "old": [
+            "Did you find the baby's age important?",
+            "Did you find the baby's diet important?",
+            "Did you find the baby's intensity of symptoms important?",
+            "Did you find the mother's medicine consumption important?",
+            "Did you find the baby's teething important?"
+        ],
+        "binary": [
+            "Is the change in the baby's diet the most probable cause for the problem?",
+            "Is teething of the baby the most probable cause for the problem?",
+            "Is the mother's current medication consumption the most probable cause for the problem?",
+            "Is viral infection the most probable cause for the problem?"
+        ],
+        "cause": [
+            "What is the most probable cause of the customer's problem?"
+        ]
+    },
+    "scenarios": [
+        {
+            "name": "Prostate Hyperplasia",
+            "posttest_as": {
+                "cause": [
+                    {
+                        "type": "posttest",
+                        "part": "",
+                        "detail": "",
+                        "sentence": "Prostate Hyperplasia"
+                    }
+                ]
+            },
+            "question_answers": {
+                "customer": {
+                    "Urinary Frequency": [
+                        "I've been going to the bathroom a lot more than usual, both during the day and at night. Sometimes, I feel like I need to go urgently, but then I have trouble starting the stream.",
+                        "I've noticed a significant increase in my bathroom visits, occurring more frequently than usual throughout the day and night. There are instances when I feel an urgent need to go, but I encounter difficulties in initiating the stream.",
+                        "Lately, I've been using the restroom much more often than usual, both during the day and at night. There are times when I feel a strong urge to go urgently, but then I experience trouble starting the stream.",
+                        "I've been making a lot more trips to the bathroom than usual, both during the day and throughout the night. Occasionally, I feel an urgent need to go, but then I encounter difficulties in starting the stream.",
+                        "Recently, I've noticed a significant increase in my bathroom visits, happening more frequently than usual during the day and at night. Sometimes, I feel a pressing need to go urgently, but then I face trouble starting the stream.",
+                        "I've been going to the bathroom much more frequently than usual, both during the day and at night. There are moments when I feel an urgent need to go, but then I encounter difficulties in initiating the stream.",
+                        "Lately, I've been visiting the restroom a lot more often than usual, both during the day and at night. Sometimes, I feel a strong urge to go urgently, but then I have trouble starting the stream.",
+                        "I've noticed a significant increase in my bathroom trips, occurring more frequently than usual throughout the day and night. There are instances when I feel an urgent need to go, but then I experience trouble starting the stream.",
+                        "Recently, I've been using the restroom much more often than usual, both during the day and at night. There are times when I feel a strong urge to go urgently, but then I encounter difficulties in starting the stream.",
+                        "I've been making a lot more visits to the bathroom than usual, both during the day and throughout the night. Occasionally, I feel an urgent need to go, but then I encounter difficulties in starting the stream."
+                    ],
+                    "Urinary Sensation": [
+                        "I've been feeling a burning sensation when I pee, and sometimes even after. It's pretty uncomfortable.",
+                        "I've been experiencing a burning sensation while urinating, and at times, even afterwards. It's quite uncomfortable.",
+                        "Lately, I've been feeling a burning sensation during urination, and occasionally, it persists afterwards. It's quite uncomfortable.",
+                        "I've noticed a burning sensation when I urinate, and sometimes it continues even after. It's quite uncomfortable.",
+                        "Recently, I've been feeling a burning sensation while peeing, and at times, it lingers afterwards. It's quite uncomfortable.",
+                        "I've been experiencing a burning sensation when I pee, and sometimes it persists even after. It's quite uncomfortable.",
+                        "Lately, I've been feeling a burning sensation during urination, and occasionally, it continues afterwards. It's quite uncomfortable.",
+                        "I've noticed a burning sensation when I pee, and sometimes it lingers even after. It's quite uncomfortable.",
+                        "Recently, I've been feeling a burning sensation while urinating, and at times, it persists afterwards. It's quite uncomfortable.",
+                        "I've been experiencing a burning sensation when I urinate, and sometimes it continues even after. It's quite uncomfortable."
+                    ],
+                    "Urine Characteristics": [
+                        "My urine has been a bit cloudy and has a stronger smell than usual. I haven't noticed any blood, though.",
+                        "I've noticed that my urine appears slightly cloudy and has a stronger odor than usual. However, I haven't observed any presence of blood.",
+                        "Recently, I've observed that my urine has become slightly cloudy and has a stronger odor than usual. Fortunately, I haven't noticed any signs of blood.",
+                        "My urine has been a bit cloudy and has a stronger smell than usual. However, I haven't detected any traces of blood.",
+                        "Lately, I've noticed that my urine has become slightly cloudy and has a stronger odor than usual. Nevertheless, there doesn't seem to be any blood present.",
+                        "I've observed that my urine has been a bit cloudy and has a stronger smell than usual. However, I haven't seen any indication of blood.",
+                        "Recently, my urine has appeared slightly cloudy and has a stronger odor than usual. Fortunately, there doesn't seem to be any blood present.",
+                        "My urine has been a bit cloudy and has a stronger smell than usual. However, I haven't noticed any blood in it.",
+                        "Lately, I've noticed that my urine has become slightly cloudy and has a stronger odor than usual. However, there doesn't appear to be any blood.",
+                        "I've observed that my urine has been a bit cloudy and has a stronger smell than usual. However, there doesn't seem to be any blood present."
+                    ],
+                    "Sexual Function": [
+                        "I've been having some pain when I urinate or ejaculate, and I've noticed that the volume of my ejaculations has decreased.",
+                        "I've been experiencing discomfort during urination and ejaculation, and I've also noticed a decrease in the volume of my ejaculations.",
+                        "Lately, I've been feeling pain while urinating or ejaculating, and I've observed a decrease in the volume of my ejaculations.",
+                        "I've been having some pain when I urinate or ejaculate, and I've noticed a significant decrease in the volume of my ejaculations.",
+                        "Recently, I've been experiencing pain during urination and ejaculation, and I've also noticed a noticeable decrease in the volume of my ejaculations.",
+                        "I've been feeling some discomfort when I urinate or ejaculate, and I've observed a decrease in the volume of my ejaculations.",
+                        "Lately, I've been experiencing pain while urinating or ejaculating, and I've noticed a decline in the volume of my ejaculations.",
+                        "I've been having some pain during urination and ejaculation, and I've noticed a decrease in the volume of my ejaculations.",
+                        "Recently, I've been feeling discomfort when I urinate or ejaculate, and I've observed a decrease in the volume of my ejaculations.",
+                        "I've been experiencing pain when I urinate or ejaculate, and I've noticed a significant decrease in the volume of my ejaculations."
+                    ],
+                    "Leakage": [
+                        "I've noticed some involuntary leakage, especially when I'm doing physical activities.",
+                        "I've observed instances of involuntary leakage, particularly during physical activities.",
+                        "I've noticed that I experience involuntary leakage, especially when engaging in physical activities.",
+                        "There have been times when I've noticed involuntary leakage, particularly during physical activities.",
+                        "I've observed some instances of involuntary leakage, especially when I'm involved in physical activities.",
+                        "I've noticed that I sometimes experience involuntary leakage, particularly during physical activities.",
+                        "There have been occasions when I've noticed involuntary leakage, especially during physical activities.",
+                        "I've observed instances of involuntary leakage, particularly when I'm engaged in physical activities.",
+                        "I've noticed that I occasionally experience involuntary leakage, especially during physical activities.",
+                        "There have been times when I've noticed involuntary leakage, particularly when I'm doing physical activities."
+                    ],
+                    "Overall Symptoms": [
+                        "I've been having trouble starting to pee and my stream is pretty weak. I also find myself needing to go a lot, even at night. Sometimes, I can't hold it in and I end up wetting myself.",
+                        "I've been experiencing difficulty initiating urination, and my stream is noticeably weak. Additionally, I find that I need to urinate frequently, even during the night. There are instances when I struggle to control my bladder and end up having accidents.",
+                        "Lately, I've been having trouble starting to urinate, and my stream is quite weak. I also find that I have a frequent need to urinate, including during the night. Occasionally, I am unable to hold it in and end up wetting myself.",
+                        "I've been encountering difficulties in initiating urination, and my stream is rather weak. Furthermore, I've noticed an increased frequency of urination, even at night. There are times when I am unable to retain urine and end up experiencing leakage.",
+                        "Recently, I've been having trouble starting to pee, and my urine flow is quite weak. Additionally, I find myself needing to urinate frequently, even during the night. Sometimes, I struggle to hold it in and end up wetting myself.",
+                        "I've been having difficulty initiating urination, and my stream is noticeably weak. Moreover, I've noticed an increased need to urinate, even at night. There are occasions when I am unable to control my bladder and end up wetting myself.",
+                        "Lately, I've been experiencing trouble starting to urinate, and my stream is rather weak. I also find that I need to urinate frequently, including at night. Occasionally, I am unable to hold it in and end up wetting myself.",
+                        "I've been facing challenges in initiating urination, and my stream is quite weak. Additionally, I've been experiencing a frequent urge to urinate, even during the night. There are times when I cannot retain urine and end up wetting myself.",
+                        "Recently, I've been struggling to start peeing, and my urine flow is pretty weak. Moreover, I find myself needing to urinate frequently, even at night. Sometimes, I am unable to hold it in and end up wetting myself.",
+                        "I've been having trouble initiating urination, and my stream is noticeably weak. Furthermore, I've noticed an increased frequency of urination, even during the night. There are instances when I struggle to control my bladder and end up wetting myself."
+                    ],
+                    "Symptoms Localization": [
+                        "The symptoms are all in my lower abdomen and urinary tract.",
+                        "I'm experiencing symptoms that are localized in my lower abdomen and urinary tract.",
+                        "All of my symptoms are concentrated in my lower abdomen and urinary tract.",
+                        "The symptoms I'm experiencing are specifically in my lower abdomen and urinary tract.",
+                        "I'm feeling symptoms that are centered in my lower abdomen and urinary tract.",
+                        "The symptoms I have are primarily in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where I'm experiencing all of my symptoms.",
+                        "All of the symptoms I'm having are in my lower abdomen and urinary tract.",
+                        "The symptoms I'm dealing with are solely in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where all of my symptoms are located."
+                    ],
+                    "Symptoms Intensity": [
+                        "The symptoms are quite bothersome, especially the frequent urination and the difficulty in starting to pee.",
+                        "The symptoms are really bothersome, particularly the increased frequency of urination and the trouble initiating urination.",
+                        "The symptoms are quite troublesome, especially the frequent need to urinate and the difficulty in initiating urination.",
+                        "The symptoms are quite bothersome, particularly the frequent urination and the challenge in starting to urinate.",
+                        "The symptoms are really bothersome, especially the frequent need to pee and the difficulty in initiating urination.",
+                        "The symptoms are quite troublesome, particularly the increased frequency of urination and the challenge in starting to pee.",
+                        "The symptoms are really bothersome, especially the frequent need to urinate and the trouble initiating urination.",
+                        "The symptoms are quite troublesome, particularly the frequent urination and the difficulty in starting to pee.",
+                        "The symptoms are really bothersome, especially the frequent need to pee and the trouble initiating urination.",
+                        "The symptoms are quite troublesome, particularly the increased frequency of urination and the challenge in starting to urinate."
+                    ],
+                    "Duration of Symptoms": [
+                        "These symptoms have been going on for a few months now.",
+                        "I've been experiencing these symptoms for a few months now.",
+                        "For the past few months, I've been dealing with these symptoms.",
+                        "It's been a few months since these symptoms started.",
+                        "These symptoms have been present for a few months already.",
+                        "For a few months now, I've been experiencing these symptoms.",
+                        "These symptoms have been going on for quite a few months."
+                    ],
+                    "Medication History": [
+                        "I haven't taken any medications for this issue yet.",
+                        "So far, I haven't used any medications to address this problem.",
+                        "Up until now, I haven't taken any medications to alleviate this issue.",
+                        "I haven't started any medications for this problem yet.",
+                        "As of now, I haven't taken any medications to treat this issue.",
+                        "I haven't yet resorted to any medications for this particular problem.",
+                        "Currently, I haven't used any medications to address this issue.",
+                        "At this point, I haven't taken any medications for this problem.",
+                        "To date, I haven't started any medications for this issue.",
+                        "I haven't yet tried any medications for this particular problem."
+                    ],
+                    "Allergies": [
+                        "I don't have any known allergies to medications or substances.",
+                        "I have no known allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have.",
+                        "I am not allergic to any medications or substances that I know of.",
+                        "To the best of my knowledge, I do not have any allergies to medications or substances.",
+                        "I have not experienced any allergies to medications or substances that I am aware of.",
+                        "As far as I know, I do not have any allergies to medications or substances.",
+                        "I can't recall having any allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have been informed of.",
+                        "I have not been diagnosed with any allergies to medications or substances."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I was diagnosed with an enlarged prostate a while back.",
+                        "A while ago, I received a diagnosis of an enlarged prostate.",
+                        "Some time ago, I was diagnosed with an enlarged prostate.",
+                        "I was informed about my enlarged prostate diagnosis a while back.",
+                        "It has been a while since I was diagnosed with an enlarged prostate.",
+                        "A while ago, the medical professionals diagnosed me with an enlarged prostate.",
+                        "I received a diagnosis of an enlarged prostate some time ago.",
+                        "It has been a while since I found out about my enlarged prostate diagnosis.",
+                        "A while back, I was diagnosed with an enlarged prostate.",
+                        "Some time ago, I found out that I have an enlarged prostate."
+                    ],
+                    "Current Medications": [
+                        "I'm not currently taking any other medications.",
+                        "At the moment, I am not using any other medications.",
+                        "I am not currently taking any additional medications."
+                    ],
+                    "Surgical History": [
+                        "I haven't had any recent surgeries or hospitalizations.",
+                        "I haven't undergone any surgeries or been hospitalized recently.",
+                        "There have been no recent surgeries or hospitalizations for me.",
+                        "I haven't had any surgeries or hospital stays in the recent past.",
+                        "There have been no recent surgical procedures or hospital visits for me.",
+                        "I haven't had any surgeries or been admitted to the hospital recently.",
+                        "There have been no recent operations or stays in the hospital for me.",
+                        "I haven't undergone any surgeries or had any hospitalizations lately.",
+                        "There have been no recent surgical interventions or hospital stays for me.",
+                        "I haven't had any surgeries or been hospitalized in the recent past."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I'm a man, so I'm not pregnant or breastfeeding.",
+                        "As a male, I can confirm that I am not pregnant or breastfeeding.",
+                        "Being a man, I can assure you that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no possibility of me being pregnant or breastfeeding.",
+                        "Given that I am male, it is not possible for me to be pregnant or breastfeeding.",
+                        "Being a man, I can confidently state that I am not pregnant or breastfeeding.",
+                        "As a male, I want to clarify that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no chance of me being pregnant or breastfeeding.",
+                        "Being a man, I want to emphasize that I am not pregnant or breastfeeding.",
+                        "As a male, I want to make it clear that I am not pregnant or breastfeeding."
+                    ],
+                    "Age": [
+                        "I'm 54 years old."
+                    ],
+                    "Sleep": [
+                        "My sleep has been disturbed because I keep waking up to pee.",
+                        "I've been experiencing disrupted sleep due to waking up frequently to urinate.",
+                        "My sleep has been interrupted as I find myself waking up multiple times during the night to use the bathroom.",
+                        "I've been having trouble sleeping because I keep waking up to urinate.",
+                        "My sleep pattern has been disturbed as I constantly wake up during the night to go to the bathroom.",
+                        "I've been experiencing sleep disturbances because I wake up frequently to urinate.",
+                        "My sleep has been disrupted because I keep waking up to use the restroom.",
+                        "I've been having difficulty sleeping because I wake up multiple times during the night to pee.",
+                        "My sleep pattern has been disturbed as I find myself waking up frequently during the night to urinate.",
+                        "I've been experiencing interrupted sleep due to waking up multiple times during the night to use the bathroom."
+                    ],
+                    "Diet": [
+                        "I have a balanced diet.",
+                        "I strive to maintain a balanced and nutritious diet.",
+                        "I am committed to maintaining a balanced and healthy diet."
+                    ],
+                    "Exercise": [
+                        "I exercise regularly."
+                    ],
+                    "Teeth": [
+                        "My dental health is good."
+                    ]
+                },
+                "parents": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "dog": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "cutomer's child": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "house": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                }
+            },
+            "keywords": [],
+            "keyword_strings": [],
+            "present_actions": []
+        },
+        {
+            "name": "Urge Incontinence",
+            "posttest_as": {
+                "cause": [
+                    {
+                        "type": "posttest",
+                        "part": "",
+                        "detail": "",
+                        "sentence": "Urge Incontinence"
+                    }
+                ]
+            },
+            "question_answers": {
+                "customer": {
+                    "Urinary Frequency": [
+                        "I've been going to the bathroom a lot more than usual, both during the day and at night. Sometimes, I feel like I need to go urgently, but then I have trouble starting the stream.",
+                        "I've noticed a significant increase in my bathroom visits, occurring more frequently than usual throughout the day and night. There are instances when I feel an urgent need to go, but I encounter difficulties in initiating the stream.",
+                        "Lately, I've been using the restroom much more often than usual, both during the day and at night. There are times when I feel a strong urge to go urgently, but then I experience trouble starting the stream.",
+                        "I've been making a lot more trips to the bathroom than usual, both during the day and throughout the night. Occasionally, I feel an urgent need to go, but then I encounter difficulties in starting the stream.",
+                        "Recently, I've noticed a significant increase in my bathroom visits, happening more frequently than usual during the day and at night. Sometimes, I feel a pressing need to go urgently, but then I face trouble starting the stream.",
+                        "I've been going to the bathroom much more frequently than usual, both during the day and at night. There are moments when I feel an urgent need to go, but then I encounter difficulties in initiating the stream.",
+                        "Lately, I've been visiting the restroom a lot more often than usual, both during the day and at night. Sometimes, I feel a strong urge to go urgently, but then I have trouble starting the stream.",
+                        "I've noticed a significant increase in my bathroom trips, occurring more frequently than usual throughout the day and night. There are instances when I feel an urgent need to go, but then I experience trouble starting the stream.",
+                        "Recently, I've been using the restroom much more often than usual, both during the day and at night. There are times when I feel a strong urge to go urgently, but then I encounter difficulties in starting the stream.",
+                        "I've been making a lot more visits to the bathroom than usual, both during the day and throughout the night. Occasionally, I feel an urgent need to go, but then I encounter difficulties in starting the stream."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't really feel any burning or tingling, but I do have a strong urge to go.",
+                        "I don't experience any burning or tingling sensations, but I do feel a strong urge to urinate.",
+                        "There is no burning or tingling sensation, but I do have a strong urge to use the restroom.",
+                        "I don't feel any burning or tingling, but I do have a strong need to urinate.",
+                        "Although I don't feel any burning or tingling, I do have a strong urge to go.",
+                        "There is no burning or tingling sensation, but I do feel a strong need to urinate.",
+                        "I don't really feel any burning or tingling, but I do have a strong desire to use the bathroom.",
+                        "Although there is no burning or tingling sensation, I do have a strong urge to urinate.",
+                        "I don't feel any burning or tingling, but I do have a strong need to use the restroom.",
+                        "There is no burning or tingling sensation, but I do feel a strong urge to go."
+                    ],
+                    "Urine Characteristics": [
+                        "I haven't noticed anything unusual about the color or smell of my urine.",
+                        "I haven't observed any abnormalities in the color or smell of my urine.",
+                        "There is nothing out of the ordinary regarding the color or smell of my urine.",
+                        "I haven't detected any unusual changes in the color or smell of my urine.",
+                        "The color and smell of my urine appear to be normal, without any noticeable differences.",
+                        "I haven't noticed any peculiarities in the color or smell of my urine.",
+                        "There are no unusual characteristics in the color or smell of my urine that I have noticed.",
+                        "I haven't seen any changes in the color or smell of my urine that are concerning.",
+                        "The color and smell of my urine seem to be normal, without any notable changes.",
+                        "I haven't observed anything abnormal in the color or smell of my urine."
+                    ],
+                    "Sexual Function": [
+                        "Nothing special about this comes to my mind.",
+                        "There's nothing particularly noteworthy that comes to mind.",
+                        "I don't have any particular observations about this."
+                    ],
+                    "Leakage": [
+                        "I've noticed some involuntary leakage, especially when I'm doing physical activities.",
+                        "I've observed instances of involuntary leakage, particularly during physical activities.",
+                        "I've noticed that I experience involuntary leakage, especially when engaging in physical activities.",
+                        "There have been times when I've noticed involuntary leakage, particularly during physical activities.",
+                        "I've observed some instances of involuntary leakage, especially when I'm involved in physical activities.",
+                        "I've noticed that I sometimes experience involuntary leakage, particularly during physical activities.",
+                        "There have been occasions when I've noticed involuntary leakage, especially during physical activities.",
+                        "I've observed instances of involuntary leakage, particularly when I'm engaged in physical activities.",
+                        "I've noticed that I occasionally experience involuntary leakage, especially during physical activities.",
+                        "There have been times when I've noticed involuntary leakage, particularly when I'm doing physical activities."
+                    ],
+                    "Overall Symptoms": [
+                        "I feel a sudden, intense urge to pee and sometimes, I can't make it to the bathroom in time. I also find myself needing to go more often than usual.",
+                        "I experience a sudden and intense urge to urinate, and there are instances when I am unable to reach the bathroom in time. Additionally, I have noticed an increased frequency of needing to go.",
+                        "There are moments when I feel a sudden and intense urge to urinate, and unfortunately, I am unable to make it to the bathroom in time. Moreover, I have noticed a higher frequency of needing to go.",
+                        "I have been experiencing a sudden and intense urge to urinate, and sometimes, I am unable to reach the bathroom in time. Furthermore, I have noticed an increased frequency of needing to go.",
+                        "There are times when I feel a sudden and intense urge to urinate, and regrettably, I am unable to make it to the bathroom in time. Additionally, I have noticed a higher frequency of needing to go.",
+                        "I find myself experiencing a sudden and intense urge to urinate, and occasionally, I am unable to reach the bathroom in time. Furthermore, I have noticed an increased frequency of needing to go.",
+                        "There are instances when I feel a sudden and intense urge to urinate, and unfortunately, I am unable to make it to the bathroom in time. Moreover, I have noticed a higher frequency of needing to go.",
+                        "I have been encountering a sudden and intense urge to urinate, and sometimes, I am unable to reach the bathroom in time. Additionally, I have noticed an increased frequency of needing to go.",
+                        "There are times when I feel a sudden and intense urge to urinate, and regrettably, I am unable to make it to the bathroom in time. Furthermore, I have noticed a higher frequency of needing to go.",
+                        "I find myself experiencing a sudden and intense urge to urinate, and occasionally, I am unable to reach the bathroom in time. Moreover, I have noticed an increased frequency of needing to go."
+                    ],
+                    "Symptoms Localization": [
+                        "The symptoms are all in my lower abdomen and urinary tract.",
+                        "I'm experiencing symptoms that are localized in my lower abdomen and urinary tract.",
+                        "All of my symptoms are concentrated in my lower abdomen and urinary tract.",
+                        "The symptoms I'm experiencing are specifically in my lower abdomen and urinary tract.",
+                        "I'm feeling symptoms that are centered in my lower abdomen and urinary tract.",
+                        "The symptoms I have are primarily in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where I'm experiencing all of my symptoms.",
+                        "All of the symptoms I'm having are in my lower abdomen and urinary tract.",
+                        "The symptoms I'm dealing with are solely in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where all of my symptoms are located."
+                    ],
+                    "Symptoms Intensity": [
+                        "The urge to pee is really intense and comes on suddenly. It's very uncomfortable.",
+                        "The sensation of needing to urinate is extremely strong and arises suddenly. It is highly uncomfortable.",
+                        "I experience an intense and sudden urge to urinate, which is very uncomfortable.",
+                        "The urge to urinate is incredibly intense and comes on suddenly, causing significant discomfort.",
+                        "I feel a strong and sudden urge to urinate, which is quite uncomfortable.",
+                        "The need to urinate is extremely intense and comes on suddenly, resulting in discomfort.",
+                        "I have a very intense and sudden urge to urinate, which is uncomfortable.",
+                        "The urge to urinate is really strong and comes on suddenly, causing discomfort.",
+                        "I feel an intense and sudden urge to urinate, which is quite uncomfortable.",
+                        "The need to urinate is very intense and comes on suddenly, leading to discomfort."
+                    ],
+                    "Duration of Symptoms": [
+                        "I've been experiencing these symptoms for a few weeks.",
+                        "These symptoms have been persisting for a few weeks now.",
+                        "I've been dealing with these symptoms for a few weeks.",
+                        "For the past few weeks, I've been experiencing these symptoms.",
+                        "It's been a few weeks since I started experiencing these symptoms.",
+                        "For a few weeks, I've been experiencing these symptoms.",
+                        "It's been a few weeks that I've been experiencing these symptoms."
+                    ],
+                    "Medication History": [
+                        "I haven't taken any medications for this issue yet.",
+                        "So far, I haven't used any medications to address this problem.",
+                        "Up until now, I haven't taken any medications to alleviate this issue.",
+                        "I haven't started any medications for this problem yet.",
+                        "As of now, I haven't taken any medications to treat this issue.",
+                        "I haven't yet resorted to any medications for this particular problem.",
+                        "Currently, I haven't used any medications to address this issue.",
+                        "At this point, I haven't taken any medications for this problem.",
+                        "To date, I haven't started any medications for this issue.",
+                        "I haven't yet tried any medications for this particular problem."
+                    ],
+                    "Allergies": [
+                        "I don't have any known allergies to medications or substances.",
+                        "I have no known allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have.",
+                        "I am not allergic to any medications or substances that I know of.",
+                        "To the best of my knowledge, I do not have any allergies to medications or substances.",
+                        "I have not experienced any allergies to medications or substances that I am aware of.",
+                        "As far as I know, I do not have any allergies to medications or substances.",
+                        "I can't recall having any allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have been informed of.",
+                        "I have not been diagnosed with any allergies to medications or substances."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't have any other medical conditions.",
+                        "There are no additional medical conditions that I have."
+                    ],
+                    "Current Medications": [
+                        "I'm not currently taking any other medications.",
+                        "At the moment, I am not using any other medications.",
+                        "I am not currently taking any additional medications."
+                    ],
+                    "Surgical History": [
+                        "I haven't had any recent surgeries or hospitalizations.",
+                        "I haven't undergone any surgeries or been hospitalized recently.",
+                        "There have been no recent surgeries or hospitalizations for me.",
+                        "I haven't had any surgeries or hospital stays in the recent past.",
+                        "There have been no recent surgical procedures or hospital visits for me.",
+                        "I haven't had any surgeries or been admitted to the hospital recently.",
+                        "There have been no recent operations or stays in the hospital for me.",
+                        "I haven't undergone any surgeries or had any hospitalizations lately.",
+                        "There have been no recent surgical interventions or hospital stays for me.",
+                        "I haven't had any surgeries or been hospitalized in the recent past."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I'm a man, so I'm not pregnant or breastfeeding.",
+                        "As a male, I can confirm that I am not pregnant or breastfeeding.",
+                        "Being a man, I can assure you that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no possibility of me being pregnant or breastfeeding.",
+                        "Given that I am male, it is not possible for me to be pregnant or breastfeeding.",
+                        "Being a man, I can confidently state that I am not pregnant or breastfeeding.",
+                        "As a male, I want to clarify that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no chance of me being pregnant or breastfeeding.",
+                        "Being a man, I want to emphasize that I am not pregnant or breastfeeding.",
+                        "As a male, I want to make it clear that I am not pregnant or breastfeeding."
+                    ],
+                    "Age": [
+                        "I'm 54 years old."
+                    ],
+                    "Sleep": [
+                        "My sleep has been disturbed because I keep waking up to pee.",
+                        "I've been experiencing disrupted sleep due to waking up frequently to urinate.",
+                        "My sleep has been interrupted as I find myself waking up multiple times during the night to use the bathroom.",
+                        "I've been having trouble sleeping because I keep waking up to urinate.",
+                        "My sleep pattern has been disturbed as I constantly wake up during the night to go to the bathroom.",
+                        "I've been experiencing sleep disturbances because I wake up frequently to urinate.",
+                        "My sleep has been disrupted because I keep waking up to use the restroom.",
+                        "I've been having difficulty sleeping because I wake up multiple times during the night to pee.",
+                        "My sleep pattern has been disturbed as I find myself waking up frequently during the night to urinate.",
+                        "I've been experiencing interrupted sleep due to waking up multiple times during the night to use the bathroom."
+                    ],
+                    "Diet": [
+                        "I have a balanced diet.",
+                        "I strive to maintain a balanced and nutritious diet.",
+                        "I am committed to maintaining a balanced and healthy diet."
+                    ],
+                    "Exercise": [
+                        "I exercise regularly."
+                    ],
+                    "Teeth": [
+                        "My dental health is good."
+                    ]
+                },
+                "parents": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "dog": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "cutomer's child": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "house": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                }
+            },
+            "keywords": [],
+            "keyword_strings": [],
+            "present_actions": []
+        },
+        {
+            "name": "Stress Incontinence",
+            "posttest_as": {
+                "cause": [
+                    {
+                        "type": "posttest",
+                        "part": "",
+                        "detail": "",
+                        "sentence": "Stress Incontinence"
+                    }
+                ]
+            },
+            "question_answers": {
+                "customer": {
+                    "Urinary Frequency": [
+                        "I don't really notice any changes in how often I go to the bathroom, but I do have some leakage when I cough or sneeze.",
+                        "I haven't really noticed any changes in my bathroom frequency, but I do experience some leakage when I cough or sneeze.",
+                        "I haven't really observed any changes in how often I use the restroom, but I do have instances of leakage when I cough or sneeze.",
+                        "I haven't really noticed any differences in my bathroom visits, but I do experience some leakage when I cough or sneeze.",
+                        "I haven't really observed any changes in how frequently I go to the bathroom, but I do have episodes of leakage when I cough or sneeze.",
+                        "I haven't really noticed any alterations in my bathroom habits, but I do experience some leakage when I cough or sneeze.",
+                        "I haven't really observed any changes in how often I visit the restroom, but I do have instances of leakage when I cough or sneeze.",
+                        "I haven't really noticed any variations in my bathroom frequency, but I do experience some leakage when I cough or sneeze.",
+                        "I haven't really observed any changes in how frequently I use the restroom, but I do have episodes of leakage when I cough or sneeze.",
+                        "I haven't really noticed any differences in my bathroom visits, but I do experience some leakage when I cough or sneeze."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't feel any burning or tingling, but I do leak a bit when I cough or sneeze.",
+                        "I haven't experienced any burning or tingling sensations, but I do notice a slight leakage when I cough or sneeze.",
+                        "There is no sensation of burning or tingling, but I do have a small amount of leakage when I cough or sneeze.",
+                        "I don't have any burning or tingling sensations, but I do have some leakage when I cough or sneeze.",
+                        "I haven't felt any burning or tingling, but I do experience a bit of leakage when I cough or sneeze.",
+                        "There is no burning or tingling sensation, but I do have a minor leakage when I cough or sneeze.",
+                        "I don't sense any burning or tingling, but I do notice a slight leakage when I cough or sneeze.",
+                        "There is no burning or tingling feeling, but I do have a small amount of leakage when I cough or sneeze.",
+                        "I don't feel any burning or tingling, but I do have some leakage when I cough or sneeze.",
+                        "There is no sensation of burning or tingling, but I do experience a bit of leakage when I cough or sneeze."
+                    ],
+                    "Urine Characteristics": [
+                        "I haven't noticed anything unusual about the color or smell of my urine.",
+                        "I haven't observed any abnormalities in the color or smell of my urine.",
+                        "There is nothing out of the ordinary regarding the color or smell of my urine.",
+                        "I haven't detected any unusual changes in the color or smell of my urine.",
+                        "The color and smell of my urine appear to be normal, without any noticeable differences.",
+                        "I haven't noticed any peculiarities in the color or smell of my urine.",
+                        "There are no unusual characteristics in the color or smell of my urine that I have noticed.",
+                        "I haven't seen any changes in the color or smell of my urine that are concerning.",
+                        "The color and smell of my urine seem to be normal, without any notable changes.",
+                        "I haven't observed anything abnormal in the color or smell of my urine."
+                    ],
+                    "Sexual Function": [
+                        "Nothing special about this comes to my mind.",
+                        "There's nothing particularly noteworthy that comes to mind.",
+                        "I don't have any particular observations about this."
+                    ],
+                    "Leakage": [
+                        "I've been leaking a bit when I cough, sneeze, or exercise.",
+                        "I've noticed some leakage when I cough, sneeze, or engage in physical activity.",
+                        "There has been some leakage when I cough, sneeze, or exercise.",
+                        "I've experienced slight leakage when I cough, sneeze, or engage in physical activity.",
+                        "Leakage has been occurring when I cough, sneeze, or exercise.",
+                        "I've been experiencing some leakage when I cough, sneeze, or engage in physical activity.",
+                        "There has been a bit of leakage when I cough, sneeze, or exercise.",
+                        "I've noticed some leakage occurring when I cough, sneeze, or engage in physical activity.",
+                        "Leakage has been happening when I cough, sneeze, or exercise.",
+                        "I've been having some leakage when I cough, sneeze, or engage in physical activity."
+                    ],
+                    "Overall Symptoms": [
+                        "I've been leaking urine when I cough, sneeze, or lift something heavy. It's really embarrassing.",
+                        "I've been experiencing urine leakage when I cough, sneeze, or lift heavy objects. It's quite embarrassing.",
+                        "Whenever I cough, sneeze, or lift something heavy, I've been noticing urine leakage. It's really embarrassing.",
+                        "There's been urine leakage when I cough, sneeze, or lift heavy objects. It's causing me a lot of embarrassment.",
+                        "I've been dealing with urine leakage when I cough, sneeze, or lift something heavy. It's really embarrassing for me.",
+                        "Whenever I cough, sneeze, or lift heavy objects, I've been experiencing urine leakage. It's quite embarrassing.",
+                        "There's been urine leakage whenever I cough, sneeze, or lift something heavy. It's causing me a great deal of embarrassment.",
+                        "I've been having urine leakage when I cough, sneeze, or lift heavy objects. It's really embarrassing for me.",
+                        "Whenever I cough, sneeze, or lift something heavy, I've been noticing urine leakage. It's causing me a lot of embarrassment.",
+                        "There's been urine leakage when I cough, sneeze, or lift heavy objects. It's really embarrassing and uncomfortable."
+                    ],
+                    "Symptoms Localization": [
+                        "The symptoms are all in my lower abdomen and urinary tract.",
+                        "I'm experiencing symptoms that are localized in my lower abdomen and urinary tract.",
+                        "All of my symptoms are concentrated in my lower abdomen and urinary tract.",
+                        "The symptoms I'm experiencing are specifically in my lower abdomen and urinary tract.",
+                        "I'm feeling symptoms that are centered in my lower abdomen and urinary tract.",
+                        "The symptoms I have are primarily in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where I'm experiencing all of my symptoms.",
+                        "All of the symptoms I'm having are in my lower abdomen and urinary tract.",
+                        "The symptoms I'm dealing with are solely in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where all of my symptoms are located."
+                    ],
+                    "Symptoms Intensity": [
+                        "The leakage isn't a lot, but it happens often, especially when I'm doing something physical.",
+                        "I experience occasional leakage, although the amount is not significant. It tends to occur frequently, particularly during physical activities.",
+                        "There is some leakage, although it is not excessive, but it happens frequently, especially when I engage in physical tasks.",
+                        "I have occasional leakage, although it is not a large amount. It tends to happen often, especially during physical activities.",
+                        "There is some leakage, although it is not excessive, but it occurs frequently, particularly when I am involved in physical tasks.",
+                        "I experience leakage on occasion, although it is not a significant amount. It tends to happen frequently, especially during physical activities.",
+                        "There is some leakage, although it is not excessive, but it occurs often, particularly when I am engaged in physical tasks.",
+                        "I have occasional leakage, although it is not a lot. It tends to happen frequently, especially when I am doing something physical.",
+                        "There is some leakage, although it is not excessive, but it happens often, particularly when I am engaged in physical activities.",
+                        "I experience leakage on occasion, although it is not a large amount. It tends to occur frequently, especially when I am doing something physical."
+                    ],
+                    "Duration of Symptoms": [
+                        "The leakage started happening a couple of weeks ago.",
+                        "The leakage issue started occurring a couple of weeks ago.",
+                        "It has been a couple of weeks since the leakage started happening.",
+                        "For the past couple of weeks, I have been dealing with leakage.",
+                        "I first noticed the leakage issue a couple of weeks ago.",
+                        "It has been a few weeks since the leakage started happening.",
+                        "The occurrence of leakage began a couple of weeks ago."
+                    ],
+                    "Medication History": [
+                        "I haven't taken any medications for this issue yet.",
+                        "So far, I haven't used any medications to address this problem.",
+                        "Up until now, I haven't taken any medications to alleviate this issue.",
+                        "I haven't started any medications for this problem yet.",
+                        "As of now, I haven't taken any medications to treat this issue.",
+                        "I haven't yet resorted to any medications for this particular problem.",
+                        "Currently, I haven't used any medications to address this issue.",
+                        "At this point, I haven't taken any medications for this problem.",
+                        "To date, I haven't started any medications for this issue.",
+                        "I haven't yet tried any medications for this particular problem."
+                    ],
+                    "Allergies": [
+                        "I don't have any known allergies to medications or substances.",
+                        "I have no known allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have.",
+                        "I am not allergic to any medications or substances that I know of.",
+                        "To the best of my knowledge, I do not have any allergies to medications or substances.",
+                        "I have not experienced any allergies to medications or substances that I am aware of.",
+                        "As far as I know, I do not have any allergies to medications or substances.",
+                        "I can't recall having any allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have been informed of.",
+                        "I have not been diagnosed with any allergies to medications or substances."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't have any other medical conditions.",
+                        "There are no additional medical conditions that I have."
+                    ],
+                    "Current Medications": [
+                        "I'm not currently taking any other medications.",
+                        "At the moment, I am not using any other medications.",
+                        "I am not currently taking any additional medications."
+                    ],
+                    "Surgical History": [
+                        "I haven't had any recent surgeries or hospitalizations.",
+                        "I haven't undergone any surgeries or been hospitalized recently.",
+                        "There have been no recent surgeries or hospitalizations for me.",
+                        "I haven't had any surgeries or hospital stays in the recent past.",
+                        "There have been no recent surgical procedures or hospital visits for me.",
+                        "I haven't had any surgeries or been admitted to the hospital recently.",
+                        "There have been no recent operations or stays in the hospital for me.",
+                        "I haven't undergone any surgeries or had any hospitalizations lately.",
+                        "There have been no recent surgical interventions or hospital stays for me.",
+                        "I haven't had any surgeries or been hospitalized in the recent past."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I'm a man, so I'm not pregnant or breastfeeding.",
+                        "As a male, I can confirm that I am not pregnant or breastfeeding.",
+                        "Being a man, I can assure you that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no possibility of me being pregnant or breastfeeding.",
+                        "Given that I am male, it is not possible for me to be pregnant or breastfeeding.",
+                        "Being a man, I can confidently state that I am not pregnant or breastfeeding.",
+                        "As a male, I want to clarify that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no chance of me being pregnant or breastfeeding.",
+                        "Being a man, I want to emphasize that I am not pregnant or breastfeeding.",
+                        "As a male, I want to make it clear that I am not pregnant or breastfeeding."
+                    ],
+                    "Age": [
+                        "I'm 54 years old."
+                    ],
+                    "Sleep": [
+                        "My sleep is fine."
+                    ],
+                    "Diet": [
+                        "I have a balanced diet.",
+                        "I strive to maintain a balanced and nutritious diet.",
+                        "I am committed to maintaining a balanced and healthy diet."
+                    ],
+                    "Exercise": [
+                        "I exercise regularly."
+                    ],
+                    "Teeth": [
+                        "My dental health is good."
+                    ]
+                },
+                "parents": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "dog": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "cutomer's child": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "house": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                }
+            },
+            "keywords": [],
+            "keyword_strings": [],
+            "present_actions": []
+        },
+        {
+            "name": "Cystitis",
+            "posttest_as": {
+                "cause": [
+                    {
+                        "type": "posttest",
+                        "part": "",
+                        "detail": "",
+                        "sentence": "Cystitis"
+                    }
+                ]
+            },
+            "question_answers": {
+                "customer": {
+                    "Urinary Frequency": [
+                        "I've been needing to pee a lot more often, and sometimes it's really urgent. I don't have any trouble starting, though.",
+                        "I've noticed a significant increase in the frequency of my need to urinate, and at times, it becomes quite urgent. However, I don't experience any difficulties in initiating the process.",
+                        "Lately, I've been experiencing a much higher frequency of urination, and occasionally, it becomes quite urgent. Fortunately, I don't encounter any issues with starting the process.",
+                        "I've been finding myself needing to urinate much more frequently, and sometimes it becomes quite urgent. However, I don't face any difficulties in initiating the process.",
+                        "Recently, I've been needing to urinate a lot more often, and there are moments when it becomes really urgent. Thankfully, I don't have any trouble starting.",
+                        "I've noticed that I need to urinate much more frequently than usual, and sometimes it becomes quite urgent. However, I don't experience any difficulties in starting the process.",
+                        "Lately, I've been experiencing a higher frequency of needing to urinate, and occasionally, it becomes really urgent. Fortunately, I don't encounter any issues with starting.",
+                        "I've been finding that I need to urinate a lot more often, and sometimes it becomes really urgent. However, I don't face any difficulties in initiating the process.",
+                        "Recently, I've been needing to urinate much more frequently, and there are moments when it becomes quite urgent. Thankfully, I don't have any trouble starting.",
+                        "I've noticed a significant increase in the frequency of my need to urinate, and at times, it becomes quite urgent. However, I don't experience any difficulties in starting the process."
+                    ],
+                    "Urinary Sensation": [
+                        "I've been feeling a burning sensation when I pee, and sometimes even after. It's pretty uncomfortable.",
+                        "I've been experiencing a burning sensation while urinating, and at times, even afterwards. It's quite uncomfortable.",
+                        "Lately, I've been feeling a burning sensation during urination, and occasionally, it persists afterwards. It's quite uncomfortable.",
+                        "I've noticed a burning sensation when I urinate, and sometimes it continues even after. It's quite uncomfortable.",
+                        "Recently, I've been feeling a burning sensation while peeing, and at times, it lingers afterwards. It's quite uncomfortable.",
+                        "I've been experiencing a burning sensation when I pee, and sometimes it persists even after. It's quite uncomfortable.",
+                        "Lately, I've been feeling a burning sensation during urination, and occasionally, it continues afterwards. It's quite uncomfortable.",
+                        "I've noticed a burning sensation when I pee, and sometimes it lingers even after. It's quite uncomfortable.",
+                        "Recently, I've been feeling a burning sensation while urinating, and at times, it persists afterwards. It's quite uncomfortable.",
+                        "I've been experiencing a burning sensation when I urinate, and sometimes it continues even after. It's quite uncomfortable."
+                    ],
+                    "Urine Characteristics": [
+                        "My urine is cloudy and has a strong smell. I've also noticed some blood in it.",
+                        "I've noticed that my urine appears cloudy and has a strong odor. Additionally, I've observed the presence of blood in it.",
+                        "My urine has become cloudy and has a strong smell. Furthermore, I've noticed the presence of blood in it.",
+                        "I've observed that my urine is cloudy and has a strong odor. Moreover, there seems to be some blood in it.",
+                        "The appearance of my urine has changed, becoming cloudy and developing a strong smell. Additionally, I've noticed the presence of blood in it.",
+                        "I've noticed that my urine has become cloudy and has a strong odor. Furthermore, there is some blood in it.",
+                        "My urine appears cloudy and has a strong smell. Moreover, I've noticed the presence of blood in it.",
+                        "I've observed that my urine is cloudy and has a strong odor. Additionally, there is some blood in it.",
+                        "The appearance of my urine has changed, becoming cloudy and developing a strong smell. Moreover, I've noticed the presence of blood in it.",
+                        "I've noticed that my urine has become cloudy and has a strong odor. Furthermore, there seems to be some blood in it."
+                    ],
+                    "Sexual Function": [
+                        "I haven't noticed any changes in my sexual function.",
+                        "I haven't observed any alterations in my sexual function.",
+                        "There haven't been any noticeable changes in my sexual function.",
+                        "I haven't experienced any changes in my sexual function.",
+                        "There have been no changes in my sexual function that I've noticed.",
+                        "I haven't detected any changes in my sexual function.",
+                        "No changes in my sexual function have been apparent to me.",
+                        "I haven't witnessed any changes in my sexual function."
+                    ],
+                    "Leakage": [
+                        "I haven't noticed any leakage."
+                    ],
+                    "Overall Symptoms": [
+                        "I've been needing to pee a lot and it burns when I do. My urine also looks cloudy and has a strong smell.",
+                        "I've been experiencing a frequent need to urinate, and it's accompanied by a burning sensation. Additionally, my urine appears cloudy and has a strong odor.",
+                        "Lately, I've had a frequent urge to urinate, and it's accompanied by a burning sensation. Furthermore, my urine has a cloudy appearance and emits a strong odor.",
+                        "I've noticed an increased need to urinate, and it's accompanied by a burning sensation. Moreover, my urine appears cloudy and has a strong smell.",
+                        "Recently, I've been needing to urinate more frequently, and it's accompanied by a burning sensation. Additionally, my urine has a cloudy appearance and a strong smell.",
+                        "I've been experiencing a frequent urge to urinate, and it's accompanied by a burning sensation. Furthermore, my urine looks cloudy and has a strong odor.",
+                        "Lately, I've had a frequent need to urinate, and it's accompanied by a burning sensation. Moreover, my urine appears cloudy and emits a strong smell.",
+                        "I've noticed an increased need to urinate, and it's accompanied by a burning sensation. Additionally, my urine has a cloudy appearance and a strong smell.",
+                        "Recently, I've been needing to urinate more frequently, and it's accompanied by a burning sensation. Furthermore, my urine looks cloudy and has a strong odor.",
+                        "I've been experiencing a frequent urge to urinate, and it's accompanied by a burning sensation. Moreover, my urine appears cloudy and has a strong smell."
+                    ],
+                    "Symptoms Localization": [
+                        "The symptoms are all in my lower abdomen and urinary tract.",
+                        "I'm experiencing symptoms that are localized in my lower abdomen and urinary tract.",
+                        "All of my symptoms are concentrated in my lower abdomen and urinary tract.",
+                        "The symptoms I'm experiencing are specifically in my lower abdomen and urinary tract.",
+                        "I'm feeling symptoms that are centered in my lower abdomen and urinary tract.",
+                        "The symptoms I have are primarily in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where I'm experiencing all of my symptoms.",
+                        "All of the symptoms I'm having are in my lower abdomen and urinary tract.",
+                        "The symptoms I'm dealing with are solely in my lower abdomen and urinary tract.",
+                        "My lower abdomen and urinary tract are where all of my symptoms are located."
+                    ],
+                    "Symptoms Intensity": [
+                        "The burning sensation when I pee is quite painful and the frequent urination is very annoying.",
+                        "The pain I experience while urinating is extremely uncomfortable, and the increased frequency of urination is highly bothersome.",
+                        "The burning sensation during urination is quite painful, and the frequent need to urinate is very irritating.",
+                        "The pain I feel when I pee is quite intense, and the frequent urination is incredibly bothersome.",
+                        "The burning sensation I experience while urinating is quite painful, and the frequent need to urinate is very annoying.",
+                        "The pain I feel during urination is quite severe, and the increased frequency of urination is extremely bothersome.",
+                        "The burning sensation when I pee is quite uncomfortable, and the frequent urination is very bothersome.",
+                        "The pain I experience while urinating is quite intense, and the frequent need to urinate is highly annoying.",
+                        "The burning sensation during urination is quite painful, and the frequent urination is incredibly bothersome.",
+                        "The pain I feel when I pee is quite severe, and the frequent urination is very irritating."
+                    ],
+                    "Duration of Symptoms": [
+                        "The burning sensation and frequent urination started a few days ago.",
+                        "A few days ago, I began experiencing a burning sensation and increased frequency of urination.",
+                        "The burning sensation and frequent need to urinate started a few days ago.",
+                        "I noticed a burning sensation and started urinating more frequently a few days ago.",
+                        "A few days ago, I started feeling a burning sensation and noticed an increase in urination frequency.",
+                        "The burning sensation and frequent urination began a few days ago.",
+                        "I started experiencing a burning sensation and increased urination frequency a few days ago.",
+                        "A few days ago, the burning sensation and frequent urination started.",
+                        "The burning sensation and increased need to urinate began a few days ago.",
+                        "I noticed a burning sensation and an increase in urination frequency a few days ago."
+                    ],
+                    "Medication History": [
+                        "I haven't taken any medications for this issue yet.",
+                        "So far, I haven't used any medications to address this problem.",
+                        "Up until now, I haven't taken any medications to alleviate this issue.",
+                        "I haven't started any medications for this problem yet.",
+                        "As of now, I haven't taken any medications to treat this issue.",
+                        "I haven't yet resorted to any medications for this particular problem.",
+                        "Currently, I haven't used any medications to address this issue.",
+                        "At this point, I haven't taken any medications for this problem.",
+                        "To date, I haven't started any medications for this issue.",
+                        "I haven't yet tried any medications for this particular problem."
+                    ],
+                    "Allergies": [
+                        "I don't have any known allergies to medications or substances.",
+                        "I have no known allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have.",
+                        "I am not allergic to any medications or substances that I know of.",
+                        "To the best of my knowledge, I do not have any allergies to medications or substances.",
+                        "I have not experienced any allergies to medications or substances that I am aware of.",
+                        "As far as I know, I do not have any allergies to medications or substances.",
+                        "I can't recall having any allergies to medications or substances.",
+                        "There are no known allergies to medications or substances that I have been informed of.",
+                        "I have not been diagnosed with any allergies to medications or substances."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't have any other medical conditions.",
+                        "There are no additional medical conditions that I have."
+                    ],
+                    "Current Medications": [
+                        "I'm not currently taking any other medications.",
+                        "At the moment, I am not using any other medications.",
+                        "I am not currently taking any additional medications."
+                    ],
+                    "Surgical History": [
+                        "I haven't had any recent surgeries or hospitalizations.",
+                        "I haven't undergone any surgeries or been hospitalized recently.",
+                        "There have been no recent surgeries or hospitalizations for me.",
+                        "I haven't had any surgeries or hospital stays in the recent past.",
+                        "There have been no recent surgical procedures or hospital visits for me.",
+                        "I haven't had any surgeries or been admitted to the hospital recently.",
+                        "There have been no recent operations or stays in the hospital for me.",
+                        "I haven't undergone any surgeries or had any hospitalizations lately.",
+                        "There have been no recent surgical interventions or hospital stays for me.",
+                        "I haven't had any surgeries or been hospitalized in the recent past."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I'm a man, so I'm not pregnant or breastfeeding.",
+                        "As a male, I can confirm that I am not pregnant or breastfeeding.",
+                        "Being a man, I can assure you that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no possibility of me being pregnant or breastfeeding.",
+                        "Given that I am male, it is not possible for me to be pregnant or breastfeeding.",
+                        "Being a man, I can confidently state that I am not pregnant or breastfeeding.",
+                        "As a male, I want to clarify that I am not pregnant or breastfeeding.",
+                        "Since I am a man, there is no chance of me being pregnant or breastfeeding.",
+                        "Being a man, I want to emphasize that I am not pregnant or breastfeeding.",
+                        "As a male, I want to make it clear that I am not pregnant or breastfeeding."
+                    ],
+                    "Age": [
+                        "I'm 54 years old."
+                    ],
+                    "Sleep": [
+                        "My sleep is fine."
+                    ],
+                    "Diet": [
+                        "I have a balanced diet.",
+                        "I strive to maintain a balanced and nutritious diet.",
+                        "I am committed to maintaining a balanced and healthy diet."
+                    ],
+                    "Exercise": [
+                        "I exercise regularly."
+                    ],
+                    "Teeth": [
+                        "My dental health is good."
+                    ]
+                },
+                "parents": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "dog": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "cutomer's child": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                },
+                "house": {
+                    "Urinary Frequency": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urinary Sensation": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Urine Characteristics": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sexual Function": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Leakage": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Overall Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Localization": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Symptoms Intensity": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Duration of Symptoms": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Medication History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Allergies": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Underlying Medical Conditions": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Current Medications": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Surgical History": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Pregnancy and Breastfeeding": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Age": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Sleep": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Diet": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Exercise": [
+                        "I don't understand how this is relevant."
+                    ],
+                    "Teeth": [
+                        "I don't understand how this is relevant."
+                    ]
+                }
+            },
+            "keywords": [],
+            "keyword_strings": [],
+            "present_actions": []
+        }
+    ]
+}

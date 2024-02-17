@@ -1,0 +1,20 @@
+################### prompt example for the urological problems ###################
+# this prompt is appended to the previous prompt and its answer
+Prompt:
+Task: Assume a patient has each of the illnesses on the list, how would they answer these questions?
+Phrase it with wordings that a patient uses.
+If two different problems can lead to the same answer please use the same answer.
+Give a separate answer for a patient experiencing one of the illnesses on the list.
+Don't use the illness name in the answer.
+You should include an answer for all of the illnesses don't miss any.
+Your answer should follow this template:
+The response will be two .csv files.
+The first file is a table with two columns, "response_id" and "response_text".
+The response id should be a number.
+Each row is a unique response.
+The second table has one column for each illness and one row for each question.
+The first column has the title of the questions.
+The content of each cell is the response ID for the response to the column illness if the patient was asked the row question.
+Each cell in the second table should have exactly one response ID, however, multiple cells in a row can (and should, when applicable) have the same response ID.
+There must be at least 2 repetitive response ids in a row.
+Provide the csvs in a csv text file format.

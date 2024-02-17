@@ -1,0 +1,16 @@
+{
+  "task_name": "throat",
+  "characters": ["customer", "dog", "customer's parents", "house"],
+  "relevant_characters": ["customer"],
+  "problem": "sore throat",
+  "subject": "I",
+  "gender": "female",
+  "age": "17",
+  "illnesses": [
+    "Common Cold",
+    "Influenza",
+    "Sinusitis",
+    "Pharyngitis",
+    "Bronchitis"
+  ]
+}
